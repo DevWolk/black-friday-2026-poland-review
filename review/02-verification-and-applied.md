@@ -128,3 +128,30 @@
 
 Уже было в Notion: HP Envy, Braun, Columbia Powder Lite, Philips EP1200, SEMST 1500, Airfryer XXL, Trust Yavi, XMUSIC, JLab, Fire TV HD, Kindle, Echo Dot, Anker 735, UGREEN Nexode, INIU, Anker 737, eufy E30 и P2 Pro, OneBlade, LG 65QNED72B6B, Parkside, Remington, Tom Tailor, Quiksilver, Keen, Merrell, Prime Video, Nutella, Nivea, Frisco.
 
+
+## Четвёртый список второй модели (AI-подписки), 22.11 23:00–23:30
+
+Перед внесением проверил дубли в купонах: ElevenReader Ultra, Picsart Pro, CampusAI (T-Mobile) и Adobe Creative Cloud Pro уже были. Новые 19 строк в «Купоны и программы» помечены ключевым словом BF2026.
+
+Проверено в браузере, статус «Проверено»:
+- ElevenLabs: «$99 for your first year, normally $220», «$445.50 for your first year, normally $990», до 01.12.
+- Adobe Firefly (польский сайт, цены с VAT): Pro 11,35 € вместо 22,73 € на 6 месяцев, Pro Plus 22,72 € вместо 56,84 €, «Kończy się 6 gru».
+- Grammarly Pro −50%, только первый период; дата окончания на странице не указана.
+- TypingMind Lifetime Premium $79,20 вместо $198 с BLACKFRIDAY2026, «Ends November 30». Во втором отчёте срок 15.12 — неверно.
+- MindPal: BLACKFRIDAY2026 до 11.12, Pro $187,20 за первый год вместо $468.
+- Voibe: BFCM26 −25%, Lifetime $111,75 вместо $149. Во втором отчёте $149,25 вместо $199 — неверно.
+- Higgsfield: годовые до −63% (Plus $33 вместо $59, Ultra $50 вместо $129). Срок этапа «23.11 02:00 CET» на странице не нашёл.
+- Krea: годовые −70%, помесячные −25%.
+- Kling: годовые −50%, помесячные −35% на 3 месяца (Standard $6,5 вместо $10).
+- Topaz: Studio $299 вместо $499, Gigapixel $127 вместо $149, Video $254 вместо $299.
+- Pictory −50% на все планы (кодов из отчёта на странице не видел), Fliki −50% с FLIKIBFCM50, InVideo до −75% (Max на 2 года).
+- Hostinger VPS: до −69% (в отчёте −67%), от 23,99 zł/мес при оплате за 24 месяца, продление 51,99 zł/мес.
+- Без скидок: ChatGPT, Claude (Pro €15/мес за год, €18 помесячно), Notion (до −20% за год), Perplexity. Runway — только −25% на Kling 4.0 до 30.11. Всё это одной строкой в архиве.
+
+Не подтвердилось или неточно:
+- Google AI Plus в Польше стоит 46,99 zł/мес, а не 23,99; Pro 97,99 zł/мес. Баннера скидки без входа в аккаунт нет — строка «Уточнить».
+- Synthesia: баннера Black Friday нет, только обычная годовая цена (Starter $18 вместо $29) — «Уточнить».
+
+По документу без проверки («Уточнить»): Magenta AI в Mój T-Mobile, Revolut ChatGPT Go (пресс-релиз Revolut 30.07.2026 условия подтверждает, в приложении не проверял), сроки Google AI (20–26.11 и 27.11), Higgsfield Market до 30.11, Hostinger до 14.12, Voibe до 30.11.
+
+На главной в календарь добавлены 23.11 02:00 (Higgsfield), 27.11 (Google AI), 30.11 (TypingMind, Voibe, Runway), 01.12 (ElevenLabs), 06.12 (Firefly), 11.12 (MindPal), 14.12 (Hostinger). В справочник добавлен раздел о покупке подписок из Польши: VAT 23% к ценам в долларах, автопродление, серые ключи.
