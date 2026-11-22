@@ -15,17 +15,24 @@
 | `notion/database/rows.json` | То же в JSON, с полным текстом полей |
 | `notion/database/stats.json` | Количество строк по статусу, категории, виду, программе |
 | `local-research/*.md, *.json` | Локальные исследования: перчатки, бафы, кабель и фен, Ant Design, суперскидки, условия магазинов, личные купоны, итоговая подборка |
-| `local-research/images/*.png` | Листы сравнения фото (перчатки, бафы) |
+| `local-research/images/*.png` | Листы сравнения фото (перчатки, бафы, Viking Arbok) |
+| `review/` | Отчёт проверяющей модели, его перепроверка и применённые изменения |
 
-## Пять целевых покупок и состояние на 22.11.2026
+## Пять целевых покупок: состояние на вечер 22.11.2026 (после проверки)
 
-| Позиция | Текущий выбор в Notion | Состояние |
+| Позиция | Дешёвый / качественный вариант в Notion | Состояние |
 |---|---|---|
-| Перчатки (2 пары: L для него, M в Decathlon / S в других брендах для неё) | Предварительно: Simond MT500 Warm (Decathlon, 89,99 zł) и Viking Windcross GWS (CentrumRowerowe, 109,99 zł) | Не куплено. Нужны тонкие и красивые, как Van Rysel EDR jesienne, но тёплые около 0 °C |
-| Баф | BUFF Lightweight Merino чёрный, 8a.pl, 96,99 zł − 12% личный код T-Mobile = 85,35 zł | **Куплен 22.11** (количество не записано). Дешёвый вариант в базе: Viking Regular 22,99 zł |
-| Кабель USB-C ↔ USB-C 1,5 м | SBS 60 W, MediaMarkt 19,99 zł; Cablexpert USB4 240 W, Allegro 48,48 zł | Не куплено |
-| Крепление Ant Design Q1 V2 | Aluminium 79 + 29 = 108 zł; Titanium 120 + 29 = 149 zł (antdesign.com) | Не куплено, рабочих публичных кодов не найдено |
-| Профессиональный фен | BaByliss PRO Caruso HQ BAB6970IE, Friser 249,90 zł; Parlux Alyon Ionic, Amazon.pl 527,69 zł | Не куплено |
+| Перчатки (L для него, M в Decathlon / S в других брендах для неё) | Simond MT500 Warm, Decathlon 89,99 zł / Viking Windcross GWS, CentrumRowerowe 109,99 zł. Кандидат: Viking Arbok GWS, 8a.pl 101,19 zł с кодом T-Mobile | Не куплено. Нужны тонкие и красивые, как Van Rysel EDR jesienne, тёплые около 0 °C |
+| Баф | Viking Regular 22,99 zł / BUFF Lightweight Merino: чёрный **куплен 22.11** (85,35 zł), второй светло-серый — 8a.pl 94,84 zł со вторым кодом T-Mobile | 1 куплен |
+| Кабель USB-C ↔ USB-C 1,5 м | UGREEN US264 60 W, x-kom 17,90 zł / Cablexpert USB4 240 W, Allegro 48,48 zł | Не куплено |
+| Крепление Ant Design Q1 V2 | Aluminium 79 + 29 = 108 zł / Titanium 120 + 29 = 149 zł (antdesign.com) | Не куплено, рабочих публичных кодов не найдено |
+| Профессиональный фен | BaByliss PRO Caruso HQ, Friser 249,90 zł / Parlux Alyon, Amazon.pl 527,69 zł (без Amazon: Notino 593,10 zł) | Не куплено |
+
+## Независимая проверка (22.11.2026)
+
+Вторая модель проверила снимок по `REVIEW_PROMPT.md`. Её отчёт — `review/01-report-second-model.md`. Каждое утверждение о цене перепроверено в браузере: часть цен оказалась неверной (Notino −15%, Sportano 89,99, Media Expert 13,90, «распродано» на 8a.pl и Biedronka). Что подтвердилось, что нет и что применено в Notion — `review/02-verification-and-applied.md`. Применённые изменения строк — `review/applied/*.json`.
+
+Структура Notion после переделки — `docs/notion-structure.md`. Файлы в `notion/` — снимок **до** переделки (468 строк в одной базе); приватные ссылки chatgpt.com/library в них заменены на `[приватная-ссылка-chatgpt-удалена]`.
 
 ## Как получен снимок
 
