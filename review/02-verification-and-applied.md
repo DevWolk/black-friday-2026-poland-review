@@ -57,3 +57,32 @@
 - Суперскидки: метка снята с 7 позиций, добавлена EP1200/00; MG Home возвращён в товары.
 
 Сегодня в 23:59 заканчиваются коды HP Envy и Braun: завтра их строки нужно перевести в «Закончилась».
+
+## Дополнение 22.11 вечером: сверка полноты
+
+Пользователь спросил, всё ли из отчёта и из второго списка второй модели («Собрал всё найденное в один список») попало в Notion. Не всё. Ниже — что добавлено после сверки. Цены открыты в браузере 22.11 около 19:15, если не сказано иное.
+
+Не было в Notion и добавлено в «Товары и находки»:
+- Находки второй модели, проверенные сейчас: Columbia Powder Lite (Modivo, 324,99 при минимуме 649,99; −10% DEALS2026 только от 2 вещей, до 22.11 22:59), Fire TV Stick HD (93,99 / 279,99), Kindle Colorsoft (709,99 / 1299,99), Echo Dot (180,99 / 409,99), Anker Nano 10000 (129 / 211,11), eufy P2 Pro (149 / 230,49), eufy E30 (204 / 294,29) — с меткой «Суперскидка». UGREEN Nexode 65 W (79,99 / 99,99, −20%), Govee (249,99 / 332,70), подставка UGREEN (37,40 / 50,48), Logitech MX Vertical (207,99, без строки минимума), OneBlade 360 Face (117,34), Apple USB-C 240 W 2 м (79,99) — без метки.
+- Опровергнуто и сразу в архив с причиной: Tefal OptiGrill GC7128 (359 с кодом при минимуме 335,08 — вторая модель писала 559,99 и −36%), Roborock Saros 20 (Media Expert 3199 при минимуме 2892,40 — вторая модель писала 3099), INIU 20000 (93,30 / 98,22), Anker MagGo (189,05 / 199). Timberland 6 In Premium — «Ten produkt jest obecnie niedostępny».
+- Мои находки 21.11 из `research-deals.json`, которые не дошли до Notion (27 строк): перепроверены сегодня Peakfreak, PossibleCooker, Guerlain, Silver Monkey, Azzaro, Tom Ford, HyperX, NB BB550, Quiksilver, Armani, Beyerdynamic, Tefal Pure Tex, Hot Wheels, Astro A10, Alpinus, Tommy Jeans, Merrell Moab Speed 2 — цены совпали. Lidl KW48 (топпер, пылесос, аэрогриль, Tom Tailor, Remington, Parkside, Russell Hobbs), Mega Bloks, Merrell Agility Peak 6 / Trail, LEGO Botanicals, Melitta, BUFF Midweight — по данным 21.11, статус «Уточнить».
+- Метка «Суперскидка» не ставилась, если скидка к рынку меньше 25% (Peakfreak −6%, PossibleCooker −11%, Pure Tex −6%, Agility Peak −20%) или к минимуму за 30 дней меньше 30%.
+- Перчатки из `research-gloves-thin.json`, о которых писал отчёт: Salomon Cross Warm, Nike Sphere 4.0 мужские и женские (Martes, роль «Запасной», данные 21.11).
+
+Исправлено в существующих строках:
+- Roborock Qrevo 5AE: в базе уже была карточка Media Expert, я добавил дубль. Дубль в архиве, метка «Суперскидка» и минимум за 30 дней 1249,99 перенесены в исходную карточку.
+- Anker 735: проверено, «Najniższa cena z 30 dni przed obniżką: 115,00 zł».
+- Ant Design Q1 V2: в карточке было «~75 кодов», в `research-antdesign.md` проверено 44. Исправлено. Условия возврата проверены на antdesign.com/policies/refund-policy: 30 дней, только в нераспечатанной упаковке, обратная доставка и пошлины за счёт покупателя, возврат в Валенсию. «Бесплатная доставка от 79 USD» и «регулярная цена 35 USD» из отчёта не подтвердил.
+- BaByliss Excess-HQ: добавлено утверждение отчёта о потоке 75 против 83 м³/ч у Caruso (не проверял).
+- BUFF светло-серый: добавлена ловушка Allegro из отчёта (лот «Light Grey» за 88 zł в параметрах Solid Grey).
+- Купоны: «Мин. покупка» 199 у Clarins и Wiejska Zagroda (было 14 из 16 строк отчёта). Названия магазинов: Samsung Polska → Samsung (3), RTV EURO AGD → RTV Euro AGD, T-Mobile Polska → T-Mobile (2), MMT Sklep Górski → MMT (2), Lidl.pl → Lidl. География «Катовице и Силезия» у 5 ресторанов (Taj, BUŁKĘS, Aleje Smaku, KATO Ramen, Współwinni).
+- Главная страница: сроки 22.11 22:59 (Modivo), 23.11 и 26–29.11 (Lidl, x-kom), раздел «Личные купоны и баллы: на что тратить» по таблице отчёта с исправлением про Notino.
+
+Уже было в Notion (проверено запросом): все подписки, доставка еды и рестораны из третьего и четвёртого разделов второго списка (активны), Lidl Nutella и Wedel, Kaufland Costa d'Oro и Coccolino, Tchibo −30%; подарок Friser от 250 zł, отзыв о швах Windcross, цена Mammut 215 zł в августе.
+
+Не добавлял:
+- Fire TV Stick 4K, Anker PowerCore 737, Soundcore Q30, Anker Nano 100 W из подборки ThinkApple — во втором списке нет ссылок.
+- Sklep Biegacza BUFF чёрный 99,99 — второй чёрный не нужен, и он дороже 8a.pl с кодом.
+- CentrumRowerowe BUFF светло-серый 99,99 — сам отчёт пишет «конфигурация недоступна», ссылки нет.
+- CEP Core Run 102,15 — перчатки отклонены, цену не проверял.
+- 11 ссылок chatgpt.com/library в Notion оставлены: пространство личное, удалены только из публичного репозитория.
