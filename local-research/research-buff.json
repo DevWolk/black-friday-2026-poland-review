@@ -1,0 +1,4148 @@
+[
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool solid black",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/30115/chusta-wielofunkcyjna-buff-lightweight-merino-wool-solid-black",
+  "price_pln": 94.99,
+  "regular_price_pln": 99.99,
+  "lowest_30d_pln": 84.99,
+  "bf_discount": false,
+  "bf_discount_note": "Code price 94.99 is above the 30-day low 84.99 -> not a real BF discount (crossed-out 119.99 is irrelevant).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 103.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": 4.8,
+  "rating_count": 6,
+  "colours_in_stock": [
+   "solid black"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool solid grey",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/30101/chusta-wielofunkcyjna-buff-lightweight-merino-wool-solid-grey",
+  "price_pln": 88.99,
+  "regular_price_pln": 88.99,
+  "lowest_30d_pln": 79.99,
+  "bf_discount": false,
+  "bf_discount_note": "No BLACKDEALS code on this colour; 88.99 vs 30-day low 79.99 -> no discount. Still cheaper than black with code.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 97.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": 4.8,
+  "rating_count": 6,
+  "colours_in_stock": [
+   "solid grey"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool solid bark",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/32973/chusta-wielofunkcyjna-buff-lightweight-merino-wool-solid-bark",
+  "price_pln": 89.99,
+  "regular_price_pln": 89.99,
+  "lowest_30d_pln": 89.99,
+  "bf_discount": false,
+  "bf_discount_note": "No code; price equals 30-day low.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 98.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "solid bark (green)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool solid cinnamon",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/772010/chusta-wielofunkcyjna-buff-lightweight-merino-wool-solid-cinnamon",
+  "price_pln": 93.49,
+  "regular_price_pln": 109.99,
+  "lowest_30d_pln": 98.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -15%: 109.99 -> 93.49, below 30-day low 98.99 (real, -5.6% vs low).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 102.48,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": 4.8,
+  "rating_count": 6,
+  "colours_in_stock": [
+   "solid cinnamon"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool night blue",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/761282/chusta-wielofunkcyjna-buff-lightweight-merino-wool-night-blue",
+  "price_pln": 93.09,
+  "regular_price_pln": 97.99,
+  "lowest_30d_pln": 85.49,
+  "bf_discount": false,
+  "bf_discount_note": "Code price 93.09 > 30-day low 85.49.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 102.08,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "night blue"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool lake blue / light grey",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/761059/chusta-wielofunkcyjna-buff-lightweight-merino-wool-lake-blue",
+  "price_pln": 93.49,
+  "regular_price_pln": 109.99,
+  "lowest_30d_pln": 89.99,
+  "bf_discount": false,
+  "bf_discount_note": "BLACKDEALS -15% -> 93.49 but 30-day low 89.99 (lake blue) / 85.49 (light grey, p/36062) -> not real.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 102.48,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec via retailers EMS/Sports Basement); ~47 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "lake blue",
+   "solid light grey"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch skar cloud",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/763668/chusta-wielofunkcyjna-buff-original-ecostretch-skar-cloud",
+  "price_pln": 55.99,
+  "regular_price_pln": 69.99,
+  "lowest_30d_pln": 59.49,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -20%: 69.99 -> 55.99, below 30-day low 59.49 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 64.98,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single-layer microfibre; light",
+  "rating": 5.0,
+  "rating_count": 5,
+  "colours_in_stock": [
+   "skar cloud (patterned)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch nedre graphite",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/763683/chusta-wielofunkcyjna-buff-original-ecostretch-nedre-graphite",
+  "price_pln": 56.69,
+  "regular_price_pln": 62.99,
+  "lowest_30d_pln": 59.84,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -10%: 62.99 -> 56.69, below 30-day low 59.84 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 65.68,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "nedre graphite (dark pattern)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch micor graphite",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/291994/chusta-wielofunkcyjna-buff-original-ecostretch-micor-graphite",
+  "price_pln": 72.24,
+  "regular_price_pln": 84.99,
+  "lowest_30d_pln": 76.49,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -15%: 84.99 -> 72.24, below 30-day low 76.49 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 81.23,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "micor graphite"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch new cashmere red",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/27077/chusta-wielofunkcyjna-buff-original-ecostretch-new-cashmere-red",
+  "price_pln": 71.09,
+  "regular_price_pln": 78.99,
+  "lowest_30d_pln": 75.04,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -10%: 78.99 -> 71.09, below 30-day low 75.04 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 80.08,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": 5.0,
+  "rating_count": 8,
+  "colours_in_stock": [
+   "new cashmere red"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "JSON-LD InStock on 21.11 23:50. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch solid black",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/30124/chusta-wielofunkcyjna-buff-original-ecostretch-solid-black",
+  "price_pln": 71.99,
+  "regular_price_pln": 79.99,
+  "lowest_30d_pln": 71.99,
+  "bf_discount": false,
+  "bf_discount_note": "BLACKDEALS -10% -> 71.99 = 30-day low 71.99 -> not a real discount.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 80.98,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": 5.0,
+  "rating_count": 8,
+  "colours_in_stock": [
+   "solid black"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch oser blue / skar black / gem tourmaline",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/763674/chusta-wielofunkcyjna-buff-original-ecostretch-skar-black",
+  "price_pln": 68.99,
+  "regular_price_pln": 68.99,
+  "lowest_30d_pln": 65.24,
+  "bf_discount": false,
+  "bf_discount_note": "No code on these colours; 68.99 > 30-day low 65.24.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 77.98,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "skar black",
+   "oser blue",
+   "gem tourmaline"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch 2025/26 prints (black 1015788, slate grey, beetle green, jorp navy...)",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/1015788/chusta-wielofunkcyjna-buff-original-ecostretch-black",
+  "price_pln": 74.99,
+  "regular_price_pln": 99.99,
+  "lowest_30d_pln": 74.99,
+  "bf_discount": false,
+  "bf_discount_note": "BLACKDEALS -25% -> 74.99 equals 30-day low 74.99 -> not real.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 83.98,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": "single layer microfibre; light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "black",
+   "solid slate grey",
+   "beetle green",
+   "jorp navy",
+   "aqua haze",
+   "blix cloud"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Coolnet UV kovey ivory",
+  "brand_model": "BUFF Coolnet UV",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/938166/chusta-wielofunkcyjna-buff-coolnet-uv-kovey-ivory",
+  "price_pln": 36.55,
+  "regular_price_pln": 84.99,
+  "lowest_30d_pln": 41.65,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -57%: 84.99 -> 36.55, below 30-day low 41.65 (real). Cheapest real-BF BUFF found.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 45.54,
+  "material": "95% recycled polyester, 5% elastane (Coolnet UV+, HeiQ Smart Temp, UPF50)",
+  "weight_or_thickness": "thinnest BUFF fabric, summer/cooling oriented",
+  "rating": 5.0,
+  "rating_count": 16,
+  "colours_in_stock": [
+   "kovey ivory (beige/brown print)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Coolnet is a cooling summer fabric; fine as a thin autumn layer but warms less than EcoStretch/merino. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF ThermoNet ultramarine",
+  "brand_model": "BUFF ThermoNet",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/411935/chusta-wielofunkcyjna-buff-thermonet-ultramarine",
+  "price_pln": 70.39,
+  "regular_price_pln": 87.99,
+  "lowest_30d_pln": 74.79,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -20%: 87.99 -> 70.39, below 30-day low 74.79 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 79.38,
+  "material": "58% recycled polyester, 38% PrimaLoft polyester, 4% elastane",
+  "weight_or_thickness": "light thermal single layer (warmer than EcoStretch)",
+  "rating": 4.8,
+  "rating_count": 4,
+  "colours_in_stock": [
+   "ultramarine"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Brubeck Merino Wool komin stalowy (KM10360U)",
+  "brand_model": "Brubeck Merino Wool neck gaiter",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/517743/komin-brubeck-merino-wool-stalowy",
+  "price_pln": 53.99,
+  "regular_price_pln": 59.99,
+  "lowest_30d_pln": 56.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -10%: 59.99 -> 53.99, below 30-day low 56.99 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 62.98,
+  "material": "54% merino, 41% polyamide, 5% elastane",
+  "weight_or_thickness": "Sportano: 185 g/m2; brubeck.pl spec: 227 g/m2, two-layer knit (warmer than BUFF LW)",
+  "rating": 5.0,
+  "rating_count": 5,
+  "colours_in_stock": [
+   "stalowy (steel grey)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sizes S/M and L/XL. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Brubeck Merino Wool komin jeansowy (KM10360U)",
+  "brand_model": "Brubeck Merino Wool neck gaiter",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/517742/komin-brubeck-merino-wool-jeansowy",
+  "price_pln": 53.09,
+  "regular_price_pln": 58.99,
+  "lowest_30d_pln": 56.04,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -10%: 58.99 -> 53.09, below 30-day low 56.04 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 62.08,
+  "material": "54% merino, 41% polyamide, 5% elastane",
+  "weight_or_thickness": "185-227 g/m2 (see stalowy)",
+  "rating": 5.0,
+  "rating_count": 5,
+  "colours_in_stock": [
+   "jeansowy (denim blue)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "WOOLCANO Merino 100% SPT24-33 fioletowy",
+  "brand_model": "Woolcano Merino 100% komin",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/489060/komin-woolcano-merino-100-spt24-33-fioletowy",
+  "price_pln": 48.99,
+  "regular_price_pln": 48.99,
+  "lowest_30d_pln": 45.99,
+  "bf_discount": false,
+  "bf_discount_note": "No code; 48.99 > 30-day low 45.99. Other colours 58.99-69.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 57.98,
+  "material": "100% merino",
+  "weight_or_thickness": "190 g/m2",
+  "rating": 5.0,
+  "rating_count": 32,
+  "colours_in_stock": [
+   "fioletowy"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Cheapest 100% merino tube found; Polish brand, less known than BUFF/Icebreaker. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Surfanic Merino Snood black",
+  "brand_model": "Surfanic Merino Snood",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/1108035/komin-surfanic-merino-snood-black",
+  "price_pln": 52.49,
+  "regular_price_pln": 69.99,
+  "lowest_30d_pln": 59.49,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -25%: 69.99 -> 52.49, below 30-day low 59.49 (real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 61.48,
+  "material": "70% merino, 30% polyamide",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "black",
+   "purple"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Dynafit Light Merino Neck Gaiter (smoke blue / overcast)",
+  "brand_model": "Dynafit Light Merino",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/770803/chusta-wielofunkcyjna-dynafit-light-merino-smoke-blue",
+  "price_pln": 95.99,
+  "regular_price_pln": 119.99,
+  "lowest_30d_pln": 101.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -20%: 119.99 -> 95.99, below 30-day low 101.99 (real). Cabana variant 93.49 vs low 98.99 also real.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 104.98,
+  "material": "50% merino, 50% polyester",
+  "weight_or_thickness": "light (model name)",
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "smoke blue",
+   "overcast",
+   "cabana (93.49)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Icebreaker Flexi Chute lazurite",
+  "brand_model": "Icebreaker Merino 200 Flexi Chute",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/972600/chusta-wielofunkcyjna-icebreaker-flexi-chute-lazurite",
+  "price_pln": 89.99,
+  "regular_price_pln": 99.99,
+  "lowest_30d_pln": 90.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -10%: 99.99 -> 89.99, 1 zl under 30-day low 90.99 (technically real, marginal).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 98.98,
+  "material": "100% merino",
+  "weight_or_thickness": "200 g/m2 (Merino 200)",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "lazurite"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Other colours: black 90.24 (low 84.99), jet heather 89.99 (low 84.99), dark loden 89.99 (low 89.99) -> not real. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Arc'teryx Satoro Merino neck gaiter black/arctic silk",
+  "brand_model": "Arc'teryx Satoro Merino",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/1102052/chusta-wielofunkcyjna-arcteryx-satoro-merino-black-arctic-silk",
+  "price_pln": 167.99,
+  "regular_price_pln": 239.99,
+  "lowest_30d_pln": 239.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -30%: 239.99 -> 167.99, 30-day low 239.99 (real, -30%).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 176.98,
+  "material": "52% merino, 28% lyocell (remainder not stated on page)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "black/arctic silk"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Premium option; expensive for a baf. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Castelli Merino Neckwarmer light black",
+  "brand_model": "Castelli Merino Neckwarmer",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/749179/chusta-wielofunkcyjna-castelli-merino-neckwarmer-light-black",
+  "price_pln": 123.49,
+  "regular_price_pln": 129.99,
+  "lowest_30d_pln": 129.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -5%: 129.99 -> 123.49 below 30-day low 129.99 (real but small).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 132.48,
+  "material": "75% merino, 18% polyamide, 7% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "light black"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Columbia Trail Shaker collegiate navy / city grey",
+  "brand_model": "Columbia Trail Shaker gaiter",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/119509/komin-columbia-trail-shaker-collegiate-navy",
+  "price_pln": 67.99,
+  "regular_price_pln": 79.99,
+  "lowest_30d_pln": 71.99,
+  "bf_discount": true,
+  "bf_discount_note": "BLACKDEALS -15%: 79.99 -> 67.99, below 30-day low 71.99 (real). Black colour 71.99 = low (not real).",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 76.98,
+  "material": "100% polyester",
+  "weight_or_thickness": "light summer/trail gaiter",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "collegiate navy",
+   "city grey"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Regatta Steadfast Gaitor 3 navy",
+  "brand_model": "Regatta Steadfast Gaitor",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/498574/komin-regatta-steadfast-gaitor-3-navy",
+  "price_pln": 20.99,
+  "regular_price_pln": 20.99,
+  "lowest_30d_pln": 18.99,
+  "bf_discount": false,
+  "bf_discount_note": "No code; 20.99 > 30-day low 18.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 29.98,
+  "material": "100% polyester",
+  "weight_or_thickness": "light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "navy"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Cheapest gaiter at Sportano; basic quality. Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Rogelli Solid black",
+  "brand_model": "Rogelli Solid tube",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/505486/chusta-wielofunkcyjna-rogelli-solid-black",
+  "price_pln": 21.59,
+  "regular_price_pln": 23.99,
+  "lowest_30d_pln": 21.59,
+  "bf_discount": false,
+  "bf_discount_note": "BLACKDEALS -10% -> 21.59 = 30-day low.",
+  "code": "BLACKDEALS",
+  "code_conditions": "BLACKDEALS: % shown on product card, 19.11.2026 00:00 - 24.11.2026 23:59, enter in cart 'Posiadam kod rabatowy', no login, no minimum, does not combine with other promotions (incl. newsletter 50 zl / APP 40 zl codes).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 30.58,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "black"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "medium",
+  "notes": "Sportano /dostawa table (page also still shows a Christmas-2025 table); product JSON-LD shippingRate says 7.99 - confirm in cart. Free Paczkomat/ORLEN/DPD above 299 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino neck gaiter, Granatowy (navy)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0BR5N66D5",
+  "price_pln": 67.98,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 82.98,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 67.98 vs 'Najniższa cena z 30 dni przed obniżką' 82.98 (-18%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 67.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF LW spec)",
+  "rating": 4.6,
+  "rating_count": 136,
+  "colours_in_stock": [
+   "Granatowy (navy)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sold and shipped by Amazon (Sprzedawca / Wysylka: Amazon); free delivery shown with no condition (delivery Mon 23.11 to the default Krakow location). Page <title> names it 'Buff Uniseks Storm 117819.759.10.00, Granatowy'. -18% badge. Other colours in this ASIN family have other prices."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino (slim fit), magenta",
+  "brand_model": "BUFF Lightweight Merino Wool slim",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0D152RKNJ",
+  "price_pln": 67.98,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 110.49,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 67.98 vs 'Najniższa cena z 30 dni przed obniżką' 110.49 (-38%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 67.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 class; slim cut",
+  "rating": 4.7,
+  "rating_count": 58,
+  "colours_in_stock": [
+   "magenta"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sold and shipped by Amazon; free delivery."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Lightweight 'Chusta wielofunkcyjna Wool', Czerwien makowa (poppy red)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0D9WFNZ65",
+  "price_pln": 67.98,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 101.32,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 67.98 vs 'Najniższa cena z 30 dni przed obniżką' 101.32 (-33%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 67.98,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (stated on page)",
+  "rating": 4.5,
+  "rating_count": 44,
+  "colours_in_stock": [
+   "Czerwien makowa (poppy red)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sold and shipped by Amazon; free delivery."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino, Zielony morski (sea green)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0CNVT3V4D",
+  "price_pln": 82.94,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 87.49,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 82.94 vs 'Najniższa cena z 30 dni przed obniżką' 87.49 (-5%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 82.94,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 class",
+  "rating": 4.6,
+  "rating_count": 228,
+  "colours_in_stock": [
+   "Zielony morski"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Sold and shipped by Amazon."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Lightweight (variant B08CBZCGV7)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B08CBZCGV7",
+  "price_pln": 80.74,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 84.99,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 80.74 vs 'Najniższa cena z 30 dni przed obniżką' 84.99 (-5%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 80.74,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 class",
+  "rating": 4.3,
+  "rating_count": 98,
+  "colours_in_stock": [
+   null
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "medium",
+  "notes": "Search-result data only (colour not read)."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Lightweight (variant B002PHHB62)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B002PHHB62",
+  "price_pln": 78.74,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Not reduced (no Omnibus label shown).",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 78.74,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 class",
+  "rating": 4.6,
+  "rating_count": 3018,
+  "colours_in_stock": [
+   null
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Not reduced; reference price for the most-reviewed listing."
+ },
+ {
+  "item": "buff",
+  "title": "DANISH ENDURANCE merino neck gaiter, black",
+  "brand_model": "Danish Endurance Merino neck gaiter",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B09F9MV6TJ",
+  "price_pln": 59.8,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 129.95,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 59.8 vs 'Najniższa cena z 30 dni przed obniżką' 129.95 (-54%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon delivery (free only on first order)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 59.8,
+  "material": "80% merino, 20% polyamide",
+  "weight_or_thickness": "160-180 g/m2 (stated on page)",
+  "rating": 4.5,
+  "rating_count": 2923,
+  "colours_in_stock": [
+   "Czarny"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "medium",
+  "notes": "Sold by DANISH ENDURANCE PL, shipped by Amazon. Free delivery shown only 'przy pierwszym zamowieniu'; otherwise delivery cost not shown -> unknown."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Midweight (B0D153TDK9)",
+  "brand_model": "BUFF Merino Midweight",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0D153TDK9",
+  "price_pln": 71.43,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 103.45,
+  "bf_discount": true,
+  "bf_discount_note": "'Okazja Black Friday': 71.43 vs 'Najniższa cena z 30 dni przed obniżką' 103.45 (-31%)",
+  "code": null,
+  "code_conditions": "Automatic Amazon Black Friday Week deal price; price is per colour (ASIN) and can change any time.",
+  "delivery": [
+   {
+    "method": "Amazon standard delivery (sold & shipped by Amazon, free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 71.43,
+  "material": "100% merino wool",
+  "weight_or_thickness": "midweight (warmer, not the light pick)",
+  "rating": 4.5,
+  "rating_count": 57,
+  "colours_in_stock": [
+   null
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "medium",
+  "notes": "Search-result data only. Midweight is thicker than requested."
+ },
+ {
+  "item": "buff",
+  "title": "Viking Regular komin czarny 410-21-1214-08",
+  "brand_model": "Viking Regular",
+  "shop": "Sportbazar",
+  "url": "https://www.sportbazar.pl/chusta-bandamka-regular-viking-czarna-410-21-1214/3-2687-102810",
+  "price_pln": 29.9,
+  "regular_price_pln": 39.0,
+  "lowest_30d_pln": 29.9,
+  "bf_discount": false,
+  "bf_discount_note": "29.90 equals 30-day low 29.90; 39.00 is only 'cena producenta'.",
+  "code": null,
+  "code_conditions": "Newsletter -10% from 200 zl, not on reduced items - not usable here.",
+  "delivery": [
+   {
+    "method": "DHL Punkt",
+    "cost_pln": 9.9
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": 12.9
+   },
+   {
+    "method": "Courier (prepaid)",
+    "cost_pln": 15.0
+   }
+  ],
+  "free_delivery_threshold_pln": 199,
+  "cheapest_total_pln": 39.8,
+  "material": "100% polyester microfibre, anti-pilling",
+  "weight_or_thickness": "light",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "czarny (1-5 pcs)"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Store in Miszewko (Gdansk area), not Katowice."
+ },
+ {
+  "item": "buff",
+  "title": "Brubeck Komin unisex welniany (KM10360U) malinowy/blekitny L/XL",
+  "brand_model": "Brubeck Merino Wool neck gaiter",
+  "shop": "Brubeck (brubeck.pl, official)",
+  "url": "https://brubeck.pl/produkt/komin-unisex-welniany/",
+  "price_pln": 46.74,
+  "regular_price_pln": 74.49,
+  "lowest_30d_pln": 46.74,
+  "bf_discount": false,
+  "bf_discount_note": "Sale price 46.74 equals 'Najnizsza cena z 30 dni przed obnizka' 46.74 -> not new.",
+  "code": null,
+  "code_conditions": "Newsletter -10% on first order (not checked whether it stacks with sale prices).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 13.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 13.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 18.99
+   }
+  ],
+  "free_delivery_threshold_pln": 300,
+  "cheapest_total_pln": 60.73,
+  "material": "54% merino, 41% polyamide, 5% elastane",
+  "weight_or_thickness": "227 g/m2, two-layer knit",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "malinowy L/XL",
+   "blekitny L/XL"
+  ],
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "high",
+  "notes": "Other colours (czarny, granatowy, jeansowy, stalowy, sliwkowy) 74.49 regular."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Lightweight (Skapiec lowest listing)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "ovolt.eu (via Skapiec)",
+  "url": "https://www.skapiec.pl/site/cat/9044/comp/948116896",
+  "price_pln": 83.84,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Via aggregator; shop page not checked.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "unknown (aggregator)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "low",
+  "notes": "Other Skapiec listings: Empik night blue 86.90, tricentre.pl 90.93, sportello 99.49 - all above Amazon 67.98."
+ },
+ {
+  "item": "buff",
+  "title": "4F Bandana unisex komin ABDAU117 AW25",
+  "brand_model": "4F bandana/komin",
+  "shop": "Empik.com marketplace (via Skapiec)",
+  "url": "https://www.skapiec.pl/site/cat/2530/comp/956474317",
+  "price_pln": 14.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Via aggregator only; Omnibus not checked.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost (cost not shown on Skapiec)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:56:00+01:00",
+  "confidence": "low",
+  "notes": "Cheapest gaiter seen anywhere; seller and delivery unknown. Other 4F bandanas 19.00-34.99 on Empik/Morele via Skapiec."
+ },
+ {
+  "item": "buff",
+  "title": "Komin Icebreaker Merino 200 Oasis Flexi Chute",
+  "brand_model": "Icebreaker Merino 200 Oasis Flexi Chute (IB100962)",
+  "shop": "MMT",
+  "url": "https://mmtsklep.pl/komin-icebreaker-merino-200-oasis-flexi-chute-black",
+  "price_pln": 103.2,
+  "regular_price_pln": 129.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf price 129.00 (not reduced, so no Omnibus shown). BLACK20 gives 103.20. Internal omnibus field = 103.00 dated 2026-08-03 (older summer sale, outside 30-day window); price assumed stable at 129 for last 30 days, so BLACK20 is a real cut.",
+  "code": "BLACK20",
+  "code_conditions": "BLACK20: -20% on every product incl. reduced, 20.11.2026 08:00-30.11.2026 23:59, enter at checkout, no login; not combinable with other codes/coupons/cards",
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "cheapest_total_pln": 114.2,
+  "material": "100% merino wool, 200 g/m2",
+  "weight_or_thickness": "200 g/m2, 66 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Black (13)",
+   "Jet HTHR (6)",
+   "Lazurite (8)",
+   "Dk Loden (6)",
+   "Grey Plum (7)",
+   "Fresh (6)"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Total = 103.20 + DPD 11. Two pcs = 206.40 > 200 zł, likely free shipping (unclear whether threshold uses pre- or post-code value). Bytom store has 1-3 pcs per colour (free pickup not confirmed). No reviews on MMT page."
+ },
+ {
+  "item": "buff",
+  "title": "Komin Icebreaker Merino 260 Tech Chute",
+  "brand_model": "Icebreaker Merino 260 Tech Chute",
+  "shop": "MMT",
+  "url": "https://mmtsklep.pl/komin-icebreaker-merino-260-tech-chute-black",
+  "price_pln": 127.2,
+  "regular_price_pln": 159.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 159 (not reduced); BLACK20 -> 127.20. Old omnibus field 139 dated 2022, irrelevant.",
+  "code": "BLACK20",
+  "code_conditions": "BLACK20: -20% on every product incl. reduced, 20.11.2026 08:00-30.11.2026 23:59, enter at checkout, no login; not combinable with other codes/coupons/cards",
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "cheapest_total_pln": 138.2,
+  "material": "100% merino wool, 260 g/m2",
+  "weight_or_thickness": "260 g/m2, 106 g (midweight, warmer than wanted)",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Black (13)",
+   "Midnight Navy",
+   "Agate",
+   "Gritstone HTHR"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Heavier 260 gsm; for autumn the 200 Flexi Chute fits better."
+ },
+ {
+  "item": "buff",
+  "title": "Komin Mammut Neck Gaiter Logo",
+  "brand_model": "Mammut Neck Gaiter Logo (1191-01385)",
+  "shop": "MMT",
+  "url": "https://mmtsklep.pl/komin-mammut-neck-gaiter-logo-holunder-acacia",
+  "price_pln": 87.2,
+  "regular_price_pln": 109.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "New Winter 26/27 item at 109, not reduced; BLACK20 -> 87.20.",
+  "code": "BLACK20",
+  "code_conditions": "BLACK20: -20% on every product incl. reduced, 20.11.2026 08:00-30.11.2026 23:59, enter at checkout, no login; not combinable with other codes/coupons/cards",
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "cheapest_total_pln": 98.2,
+  "material": "100% recycled polyester, seamless, reflective details",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "holunder-acacia (15)",
+   "deep teal-black (7)",
+   "other colour versions listed"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Synthetic; quality brand but not merino."
+ },
+ {
+  "item": "buff",
+  "title": "Komin Black Yak Gurla Merino Neckgaiter",
+  "brand_model": "Black Yak Gurla Merino Neckgaiter",
+  "shop": "MMT",
+  "url": "https://mmtsklep.pl/komin-black-yak-gurla-merino-neckgaiter-syrah",
+  "price_pln": 139.2,
+  "regular_price_pln": 174.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "Not reduced; BLACK20 -> 139.20.",
+  "code": "BLACK20",
+  "code_conditions": "BLACK20: -20% on every product incl. reduced, 20.11.2026 08:00-30.11.2026 23:59, enter at checkout, no login; not combinable with other codes/coupons/cards",
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "cheapest_total_pln": 150.2,
+  "material": "72% polyamide, 20% merino, 8% elastane",
+  "weight_or_thickness": "45 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "syrah (2)"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Expensive for merino blend; only 2 pcs."
+ },
+ {
+  "item": "buff",
+  "title": "Komin z wełny merino Norrona /29 PureUll Neck",
+  "brand_model": "Norrona /29 PureUll Neck",
+  "shop": "MMT",
+  "url": "https://mmtsklep.pl/komin-z-welny-merino-norrona-29-pureull-neck-caviar-black",
+  "price_pln": 175.2,
+  "regular_price_pln": 219.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "Not reduced; BLACK20 -> 175.20.",
+  "code": "BLACK20",
+  "code_conditions": "BLACK20: -20% on every product incl. reduced, 20.11.2026 08:00-30.11.2026 23:59, enter at checkout, no login; not combinable with other codes/coupons/cards",
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "cheapest_total_pln": 186.2,
+  "material": "merino wool (composition not parsed)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "caviar black",
+   "cashmere blue",
+   "port",
+   "whisper white",
+   "indigo night"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "medium",
+  "notes": "Premium price; stock per colour not checked. MMT has no BUFF, Viking, Smartwool or Brubeck gaiters."
+ },
+ {
+  "item": "buff",
+  "title": "Komin VIKING 1048 Regular 410/20/1048/09",
+  "brand_model": "Viking 1048 Regular",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/szaliki-kominy-i-bandany-meskie/komin-viking-1048-regular-410-20-1048-09-viking",
+  "price_pln": 19.99,
+  "regular_price_pln": 29.99,
+  "lowest_30d_pln": 29.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf promo 29.99 -> 19.99 (-33%); Omnibus 30-day low 29.99, so a real cut. No code needed; not labelled Black Week.",
+  "code": null,
+  "code_conditions": "None of PREMIUM15/MARTES20 applies (not PREMIUM-labelled, not Martes brand).",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie Martes (Katowice: Galeria Katowicka, Libero, Silesia City Center) via GLS",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automaty 24/7 i punkty",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier InPost",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Kurier DPD pobranie",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Kurier DHL pobranie",
+    "cost_pln": 19.99
+   }
+  ],
+  "free_delivery_threshold_pln": 199.99,
+  "cheapest_total_pln": 25.98,
+  "material": "100% polyester, seamless, 4-way stretch",
+  "weight_or_thickness": null,
+  "rating": 4.5,
+  "rating_count": null,
+  "colours_in_stock": [
+   "czarny"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Total = 19.99 + 5.99 pickup in a Katowice Martes store (3 stores). Two pcs = 45.97. Free pickup from 199.99 zł (149.99 zł in app). Martes has no other Viking/BUFF light gaiters (only BUFF knitted neckwarmer 159.99)."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta VIKING Regular (szary-czarny)",
+  "brand_model": "Viking Regular",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-viking-regular-pd20922/?v_Id=136497",
+  "price_pln": 22.99,
+  "regular_price_pln": 29.9,
+  "lowest_30d_pln": 26.99,
+  "bf_discount": true,
+  "bf_discount_note": "Black Weeks badge; -14% vs Omnibus 30-day low 26.99. Only the szary-czarny variant; other 7 colours at 29.99, not reduced.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 22.99,
+  "material": "100% polyester microfibre",
+  "weight_or_thickness": null,
+  "rating": 4.9,
+  "rating_count": 20,
+  "colours_in_stock": [
+   "szary-czarny (22.99)",
+   "7 other colours at 29.99 incl. granatowy-pomarańczowy, lazurowy-czarny"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Free delivery to Paczkomat/DPD/Orlen/courier, so 22.99 total; two pcs 45.98."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta VIKING Regular new",
+  "brand_model": "Viking Regular (new)",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-viking-regular-new-pd24847/?v_Id=151501",
+  "price_pln": 26.99,
+  "regular_price_pln": 30.99,
+  "lowest_30d_pln": 30.99,
+  "bf_discount": true,
+  "bf_discount_note": "Black Weeks badge; -12% vs 30-day low 30.99 (czarny and szary-biały-niebieski variants).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 26.99,
+  "material": "100% polyester",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 7,
+  "colours_in_stock": [
+   "czarny (26.99)",
+   "szary-biały-niebieski (26.99)",
+   "2 other colours at 30.99"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Black colour at a real BF price with free delivery."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna BUFF Original EcoStretch (czarny-beżowy)",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-wielofunkcyjna-buff-original-ecostretch-pd38706/?v_Id=308009",
+  "price_pln": 79.99,
+  "regular_price_pln": 99.99,
+  "lowest_30d_pln": 99.99,
+  "bf_discount": true,
+  "bf_discount_note": "-20% vs Omnibus 30-day low 99.99 for czarny-beżowy; fioletowy-żółty-niebieski variant 79.99 vs 30-day low 89.99 (-11%); granatowy 79.99 with no reduction (catalog 99.90). No Black Weeks badge, but a real reduction.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 79.99,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "14 colours listed online (all 79.99 in listing)"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna BUFF Original EcoStretch Solid (szary-niebieski)",
+  "brand_model": "BUFF Original EcoStretch Solid",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-wielofunkcyjna-buff-original-ecostretch-solid-pd43739/",
+  "price_pln": 79.99,
+  "regular_price_pln": 99.9,
+  "lowest_30d_pln": 89.99,
+  "bf_discount": true,
+  "bf_discount_note": "-11% vs 30-day low 89.99 (default variant).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 79.99,
+  "material": "95% polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "8 solid colours listed"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna BUFF Merino Lightweight",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-wielofunkcyjna-buff-merino-lightweight-pd9966/",
+  "price_pln": 99.99,
+  "regular_price_pln": 129.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "99.99 vs catalog 129.90 only; no Omnibus/strike-through, so no BF discount. Some colours 119.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 99.99,
+  "material": "100% merino wool",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "12 colours listed (czarny-grafitowy, szmaragdowy ... at 99.99; some 119.99)"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Free delivery makes it 99.99 total, vs Sportano 94.99 + shipping."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna BUFF ThermoNet",
+  "brand_model": "BUFF ThermoNet",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-wielofunkcyjna-buff-thermonet-pd38707/?v_Id=212706",
+  "price_pln": 69.99,
+  "regular_price_pln": 119.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "zielony 69.99 vs catalog 119.99, no Omnibus shown (not a BF reduction). Default morski-beżowy-różowy 99.99 is -16% vs 30-day low 119.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 69.99,
+  "material": "96% polyester, 4% elastane (PrimaLoft)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "7 colours listed; zielony 69.99, others 89.99-99.99"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Warmer than EcoStretch; still a thin tube."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna VIKING Globe Bamboo",
+  "brand_model": "Viking Globe Bamboo",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/chusta-wielofunkcyjna-viking-globe-bamboo-pd43757/",
+  "price_pln": 69.99,
+  "regular_price_pln": 79.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalog price comparison only; no Omnibus.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 69.99,
+  "material": "66% bamboo, 26% merino, 8% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": 0,
+  "colours_in_stock": [
+   "szary"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Ships in 5-10 days."
+ },
+ {
+  "item": "buff",
+  "title": "Komin ENDURA BaaBaa Merino Tech",
+  "brand_model": "Endura BaaBaa Merino Tech Multitube",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/komin-endura-baabaa-merino-tech-pd17238/",
+  "price_pln": 79.99,
+  "regular_price_pln": 99.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalog comparison only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 79.99,
+  "material": "100% merino wool",
+  "weight_or_thickness": null,
+  "rating": 4.7,
+  "rating_count": 52,
+  "colours_in_stock": [
+   "czarny"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "Best-reviewed merino tube found in my shops (52 reviews), 20 zł cheaper than BUFF Lightweight Merino at CR."
+ },
+ {
+  "item": "buff",
+  "title": "Komin BRUBECK unisex (merino)",
+  "brand_model": "Brubeck komin unisex",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/komin-brubeck-unisex-pd47800/",
+  "price_pln": 74.99,
+  "regular_price_pln": 84.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 74.99,
+  "material": "54% merino, 41% polyamide, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "niebieski"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "item": "buff",
+  "title": "Komin BRUBECK Wool",
+  "brand_model": "Brubeck Wool",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/komin-brubeck-wool-pd43159/",
+  "price_pln": 69.99,
+  "regular_price_pln": 84.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 69.99,
+  "material": "54% wool, 41% polyamide, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "granatowy",
+   "4 colours listed"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "item": "buff",
+  "title": "Komin EYEN Vern Merino",
+  "brand_model": "Eyen Vern Merino",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/komin-eyen-vern-merino-pd45849/",
+  "price_pln": 49.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 49.99,
+  "material": "40% merino, 60% polyester",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 4,
+  "colours_in_stock": [
+   "5 colours listed"
+  ],
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "high",
+  "notes": "CR house brand; cheapest merino blend here."
+ },
+ {
+  "item": "buff",
+  "title": "Komin trekkingowy Simond/Forclaz MT500 merino",
+  "brand_model": "Forclaz (Simond) MT500 merino",
+  "shop": "Decathlon",
+  "url": "https://www.decathlon.pl/p/komin-trekkingowy-forclaz-mt500-merino/_/R-p-183231",
+  "price_pln": 59.99,
+  "regular_price_pln": 59.99,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Search snippet: '59,99 zł lub 47,99 zł z kodem APPDAYS' (snippet date unknown). APPDAYS runs 16-30.11.2026 in app/stores (up to -30%) per decathlon.pl special-code page snippet.",
+  "code": "APPDAYS",
+  "code_conditions": "App (and stores) only; whether this item is included now is unverified.",
+  "delivery": [
+   {
+    "method": "Click&Collect, sklep Decathlon Katowice (Decathlon-sold items)",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": null
+   },
+   {
+    "method": "Kurier (threshold 199.99 zł, cost not retrieved)",
+    "cost_pln": null
+   },
+   {
+    "method": "Marketplace seller own shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 199.99,
+  "cheapest_total_pln": null,
+  "material": "merino wool (composition not verified)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl blocks automated fetches (Cloudflare 403); figure via aggregator (web search snippet). Click&Collect in Katowice store is free, so 59.99 or 47.99 total."
+ },
+ {
+  "item": "buff",
+  "title": "Komin do biegania wielofunkcyjny Kiprun",
+  "brand_model": "Kiprun neck warmer (polyester)",
+  "shop": "Decathlon",
+  "url": "https://www.decathlon.pl/brands/kiprun",
+  "price_pln": 24.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Click&Collect, sklep Decathlon Katowice (Decathlon-sold items)",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": null
+   },
+   {
+    "method": "Kurier (threshold 199.99 zł, cost not retrieved)",
+    "cost_pln": null
+   },
+   {
+    "method": "Marketplace seller own shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 199.99,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl blocks automated fetches (Cloudflare 403); figure via aggregator (search snippet of Kiprun brand listing, 3 colours). Pepper.pl thread 7.10.2026 had it at 13.49 with EXTRA10 (expired)."
+ },
+ {
+  "item": "buff",
+  "title": "Komin na szyję na rower Van Rysel 100",
+  "brand_model": "Van Rysel 100 neck warmer",
+  "shop": "Decathlon",
+  "url": "https://www.pepper.pl/promocje/komin-na-szyje-na-rower-van-rysel-100-at-decathlon-granatowy-bialy-lub-rozowy-darmowa-dostawa-w-aplikacji-1391721",
+  "price_pln": 10.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Click&Collect, sklep Decathlon Katowice (Decathlon-sold items)",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": null
+   },
+   {
+    "method": "Kurier (threshold 199.99 zł, cost not retrieved)",
+    "cost_pln": null
+   },
+   {
+    "method": "Marketplace seller own shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Via pepper.pl thread 16.11.2026: 10.99 zł, granatowy/biały/różowy, free delivery in app. Thin cycling polyester; not verified on decathlon.pl."
+ },
+ {
+  "item": "buff",
+  "title": "Komin na szyję wielofunkcyjny Viking Regular",
+  "brand_model": "Viking Regular (marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/85854/comp/971122852",
+  "price_pln": 18.69,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "EAN 5901115812562; Decathlon.pl marketplace offer via Skąpiec; seller and shipping unknown. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Wielofunkcyjny komin całoroczny dla dorosłych Viking Regular",
+  "brand_model": "Viking Regular (marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/85854/comp/971111143",
+  "price_pln": 25.42,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl marketplace via Skąpiec; also comp/972856981 at 25.42. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Komin WOOLCANO Merino 100% SPT24-33",
+  "brand_model": "Woolcano Merino 100% (marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/2228/comp/976374378",
+  "price_pln": 48.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl marketplace via Skąpiec; other colours 55.99-59.99. 100% merino per title. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Komin z wełną merino Brubeck K2",
+  "brand_model": "Brubeck K2 (marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/85854/comp/971055639",
+  "price_pln": 59.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl marketplace via Skąpiec. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna Buff Original EcoStretch",
+  "brand_model": "BUFF Original EcoStretch (marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/9226/comp/949351748",
+  "price_pln": 89.85,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl marketplace via Skąpiec; dearer than CR 79.99 with free shipping. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Komin chusta wielofunkcyjna z wełny merino lightweight",
+  "brand_model": "BUFF Lightweight Merino (EAN 8428927564795, marketplace)",
+  "shop": "Decathlon (marketplace)",
+  "url": "https://www.skapiec.pl/site/cat/2228/comp/945808644",
+  "price_pln": 126.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Marketplace seller shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "material": null,
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Decathlon.pl marketplace via Skąpiec; overpriced vs Sportano/CR. Price via aggregator; APPDAYS/APPY50 do not apply to partner products."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna Buff Original EcoStretch 132425.330 koury cinnamon",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Intersport",
+  "url": "https://www.intersport.pl/chusta-wielofunkcyjna-buff-original-ecostretch-132425-330.html",
+  "price_pln": 79.99,
+  "regular_price_pln": 99.99,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "If the item carries the BF20 label: 63.99. Label status and Omnibus unverified (site behind Cloudflare).",
+  "code": "BF20",
+  "code_conditions": "Extra -20% only on specially labelled products (homepage banner via search snippet); end date unknown.",
+  "delivery": [
+   {
+    "method": "Odbiór w salonie Intersport",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat (from, via pepper.pl, date unclear)",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": 349,
+  "cheapest_total_pln": null,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Price from web search snippet of intersport.pl; also 'Buff Solid Black 129999.999' from 79.99 zł."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta Buff Lightweight Merino Wool (solid bark / cloud / solid grey / black)",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "8a.pl",
+  "url": "https://8a.pl/chusta-buff-lightweight-merino-wool-solid-bark",
+  "price_pln": 89.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Cached search snippets: solid bark 89.99/91.99, cloud 84.99/103.99, solid magenta 114.99 or 91.99 with code MOUNT (date unknown). Current price and Omnibus unverified.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Kurier / punkty odbioru / odbiór osobisty (costs not retrieved, site behind Cloudflare)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": null,
+  "material": "100% merino wool",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "8a.pl blocks automated fetches (403); all figures via search snippets."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta wielofunkcyjna Buff Original EcoStretch - banff",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "8a.pl",
+  "url": "https://8a.pl/chusta-wielofunkcyjna-buff-original-ecostretch-banff",
+  "price_pln": 54.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Search snippet price, date unknown; oser blue 71.99 (68.39 with code); mnich 57.99 (out of stock).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Kurier / punkty odbioru / odbiór osobisty (costs not retrieved, site behind Cloudflare)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": null,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:59:00+01:00",
+  "confidence": "low",
+  "notes": "Worth a manual check: if 54.99 is live it is the cheapest EcoStretch found."
+ },
+ {
+  "item": "buff",
+  "title": "Heber Peak Merino190 RootHe. Neckwarmer",
+  "brand_model": "Heber Peak Merino190 RootHe",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/heber-peak-merino190-roothe-neckwarmer-neckerchief/",
+  "price_pln": 48.91,
+  "regular_price_pln": 88.94,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 19.95 -> EUR 10.97 (45%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 75.44,
+  "material": "100% merino wool (mulesing-free), 18.5 micron",
+  "weight_or_thickness": "190 g/m2, 70 g",
+  "rating": 4.8,
+  "rating_count": 141,
+  "colours_in_stock": [
+   "Rust Red (EUR 10.97)",
+   "Soft Lavender (EUR 10.97)",
+   "Black (EUR 15.37)",
+   "Dark Smoke Melange (EUR 15.37)",
+   "Navy (EUR 15.37)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Price depends on colour: EUR 10.97 only Rust Red / Soft Lavender; Black/Navy/Dark Smoke EUR 15.37 (68.52 zl). Heber Peak is a Bergfreunde house brand. Best rating count of any merino gaiter found."
+ },
+ {
+  "item": "buff",
+  "title": "Stoic Merino150 SadjemSt. Neckwarmer",
+  "brand_model": "Stoic Merino150 SadjemSt",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/stoic-merino150-sadjemst-neckwarmer-neckerchief/",
+  "price_pln": 66.74,
+  "regular_price_pln": 111.23,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 24.95 -> EUR 14.97 (40%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 93.27,
+  "material": "85% merino wool, 12% polyamide, 3% elastane, 17.5 micron",
+  "weight_or_thickness": "150 g/m2",
+  "rating": 4.6,
+  "rating_count": 14,
+  "colours_in_stock": [
+   "Avocado Green",
+   "Black",
+   "Blue Bell Purple",
+   "Ink Grey / AOP",
+   "Olive Green / AOP",
+   "Plum Red",
+   "Sky Grey / AOP",
+   "Sky Grey"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Stoic is a Bergfreunde house brand. Thin, stretchy merino blend; all 8 colours at EUR 14.97."
+ },
+ {
+  "item": "buff",
+  "title": "Bergfreunde Merino190 RomersteinBF. Neckwarmer",
+  "brand_model": "Bergfreunde Merino190 RomersteinBF",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/bergfreunde-merino190-roemersteinbf-neckwarmer-neckerchief/",
+  "price_pln": 56.26,
+  "regular_price_pln": 102.32,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 22.95 -> EUR 12.62 (45%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 82.79,
+  "material": "100% merino wool, 18.5 micron",
+  "weight_or_thickness": "shop spec says 240 g/m2 (name says 190), 70 g",
+  "rating": null,
+  "rating_count": 0,
+  "colours_in_stock": [
+   "Black"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). No reviews yet; thickness spec contradicts model name."
+ },
+ {
+  "item": "buff",
+  "title": "Stoic MerinoSoft245 TuleboSt. Neckwarmer",
+  "brand_model": "Stoic MerinoSoft245 TuleboSt",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/stoic-merinosoft245-tulebost-neckwarmer-tube-scarf/",
+  "price_pln": 61.17,
+  "regular_price_pln": 111.23,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 24.95 -> EUR 13.72 (45%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 87.7,
+  "material": "42% polyester, 41% merino wool, 17% acetate, 16.5 micron",
+  "weight_or_thickness": "245 g/m2, 50 g",
+  "rating": 5.0,
+  "rating_count": 5,
+  "colours_in_stock": [
+   "Olive Green"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Only one colour left; less merino than the 150/190 models."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Lightweight Merino Wool",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/buff-lightweight-merino-wool-tube-scarf/",
+  "price_pln": 99.69,
+  "regular_price_pln": 124.61,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 27.95 -> EUR 22.36 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 126.22,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2",
+  "rating": 4.8,
+  "rating_count": 112,
+  "colours_in_stock": [
+   "Black II",
+   "Grey",
+   "Magenta",
+   "Night Blue",
+   "Pansy",
+   "Solid Bark",
+   "Solid Cloud",
+   "Solid Garnet",
+   "Solid Light Grey",
+   "Solid Lime",
+   "Solid Pool",
+   "Teal",
+   "Tempest",
+   "Solid Cinnamon (EUR 22.92)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Same model as Sportano/Hardloop BUFF Lightweight Merino; here 99.69 zl before shipping."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Lightweight (2026 range)",
+  "brand_model": "BUFF Merino Lightweight",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/buff-merino-lightweight-neckerchief/",
+  "price_pln": 99.69,
+  "regular_price_pln": 124.61,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 27.95 -> EUR 22.36 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 126.22,
+  "material": "100% merino wool",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 8,
+  "colours_in_stock": [
+   "Solid Flint",
+   "Solid Seagrove Green"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Original EcoStretch",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/buff-original-ecostretch-tube-scarf/",
+  "price_pln": 71.15,
+  "regular_price_pln": 88.94,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 19.95 -> EUR 15.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 97.68,
+  "material": "95% polyester (recycled), 5% elastane",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 5,
+  "colours_in_stock": [
+   "Apalash Night Blue",
+   "Camo Cash Multi",
+   "Esyr Midnight Navy",
+   "Jorp Navy",
+   "Lise Maroon",
+   "Micor Graphite",
+   "Mount Fuji Peak Blue",
+   "Myler Olive Green",
+   "Onlar Multi",
+   "Rewo Cloud",
+   "Tinsu Navy",
+   "Unal Garnet",
+   "Unal Grey",
+   "Virta Grape Ice",
+   "Dryen Blue (EUR 16.36)",
+   "M / Blank Peak Multi (EUR 16.36)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Icebreaker Flexi Chute",
+  "brand_model": "Icebreaker Merino Flexi Chute (200)",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/icebreaker-flexi-chute-tube-scarf/",
+  "price_pln": 106.82,
+  "regular_price_pln": 133.53,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 29.95 -> EUR 23.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 133.35,
+  "material": "100% merino wool",
+  "weight_or_thickness": "not stated on this listing (Flexi Chute is the 200 g/m2 model)",
+  "rating": 4.6,
+  "rating_count": 50,
+  "colours_in_stock": [
+   "Black",
+   "Grey Plum",
+   "Jet Heather"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Icebreaker 200 Oasis Flexi Chute",
+  "brand_model": "Icebreaker 200 Oasis Flexi Chute",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/icebreaker-200-oasis-flexi-chute-neckerchief/",
+  "price_pln": 106.82,
+  "regular_price_pln": 133.53,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 29.95 -> EUR 23.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 133.35,
+  "material": "100% merino wool, 18.9 micron",
+  "weight_or_thickness": "200 g/m2, 66 g",
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "Dark Loden"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Devold Breeze Merino 150 Headover",
+  "brand_model": "Devold Breeze Merino 150 Headover",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/devold-breeze-merino-150-headover-neckerchief/",
+  "price_pln": 106.82,
+  "regular_price_pln": 133.53,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 29.95 -> EUR 23.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 133.35,
+  "material": "100% merino wool",
+  "weight_or_thickness": "150 g/m2",
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "Coral",
+   "Falcon",
+   "Royal"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Smartwool Merino Neck Gaiter",
+  "brand_model": "Smartwool Merino Neck Gaiter",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/smartwool-merino-neck-gaiter-tube-scarf/",
+  "price_pln": 124.65,
+  "regular_price_pln": 155.82,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 34.95 -> EUR 27.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 151.18,
+  "material": "88% merino wool, 12% polyamide",
+  "weight_or_thickness": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "colours_in_stock": [
+   "Black"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF Merino Move",
+  "brand_model": "BUFF Merino Move",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/buff-merino-move-neckerchief/",
+  "price_pln": 106.82,
+  "regular_price_pln": 133.53,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 29.95 -> EUR 23.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 133.35,
+  "material": "91% merino wool, 8% polyamide, 1% elastane",
+  "weight_or_thickness": "205 g/m2",
+  "rating": 4.5,
+  "rating_count": 2,
+  "colours_in_stock": [
+   "Block Magenta",
+   "Denim",
+   "Graphite",
+   "Block Teal (EUR 29.95, not reduced)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Salomon Neck Gaiter",
+  "brand_model": "Salomon Neck Gaiter",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/salomon-neck-gaiter-neckerchief/",
+  "price_pln": 88.99,
+  "regular_price_pln": 111.23,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 24.95 -> EUR 19.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 115.52,
+  "material": "98% polyester, 2% elastane",
+  "weight_or_thickness": "28 g",
+  "rating": null,
+  "rating_count": 0,
+  "colours_in_stock": [
+   "Deep Black",
+   "Burnt Umber (EUR 20.46)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl)."
+ },
+ {
+  "item": "buff",
+  "title": "Ortovox 120 Cool Tec Logo Neckwarmer",
+  "brand_model": "Ortovox 120 Cool Tec Logo Neckwarmer",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/ortovox-120-cool-tec-logo-neckwarmer-neckerchief/",
+  "price_pln": 129.34,
+  "regular_price_pln": 155.82,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 34.95 -> EUR 29.01 (17%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 155.87,
+  "material": "merino/Tencel blend (per Hardloop spec: 52% merino, 33% lyocell, 15% polyamide)",
+  "weight_or_thickness": "120 g/m2 class, ~30 g (Hardloop spec)",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "low",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Price from category listing only; product page not opened, colours/stock not checked."
+ },
+ {
+  "item": "buff",
+  "title": "Original Buff (classic polyester tube)",
+  "brand_model": "BUFF Original",
+  "shop": "Bergfreunde",
+  "url": "https://www.bergfreunde.eu/buff-original-buff-tube-scarf/",
+  "price_pln": 71.15,
+  "regular_price_pln": 88.94,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "EUR 19.95 -> EUR 15.96 (20%). Black Outdoor Deals automatic markdown 2-30 Nov 2026 23:59; shop states struck price = its price before the promotion. 30-day lowest price field is filled by JS and was empty in static HTML, so not verified.",
+  "code": null,
+  "code_conditions": "No BF code needed (automatic). Account-creation voucher EUR 5 (min EUR 40, not combinable with other codes) exists but requires creating an account.",
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not stated; home delivery)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "cheapest_total_pln": 97.68,
+  "material": "polyester microfibre (classic Original)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": null,
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "low",
+  "notes": "bergfreunde.pl redirects to bergfreunde.eu (EUR). PLN = EUR x 4.4583 (ECB 2026-11-20); card/PayPal FX spread not included. Displayed prices include 19% German VAT; checkout for a Polish address may recalc to 23% PL VAT (up to ~+3.4%) - verify in cart. Shipping to PL EUR 5.95, free from EUR 69 (~307.62 zl). Listing price 'from EUR 15.96'; product page not opened."
+ },
+ {
+  "item": "buff",
+  "title": "Buff Lightweight Merino Wool - Komin",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/21229-buff-lightweight-merino-wool-komin",
+  "price_pln": 129.0,
+  "regular_price_pln": 129.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Not reduced (129 = regular). Only BF5 -5% with 2+ items: 122.55 zl each.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 154.0,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2 (BUFF spec)",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Solid Black (36)",
+   "Solid Night Blue (16)",
+   "Solid Magenta (10)",
+   "Solid Pool (10)",
+   "Solid Grey (7)",
+   "Solid Garnet (7)",
+   "Solid Pansy (6)",
+   "Solid Bark (5)",
+   "Tempest (5)",
+   "Solid Teal (4)",
+   "Solid Cloud (2)",
+   "Multistripes Forest (2)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only). 2 pcs with BF5 = 245.10 + 25 = 270.10 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Buff Original Ecostretch - Komin",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/40826-buff-original-ecostretch-tour-de-cou",
+  "price_pln": 89.0,
+  "regular_price_pln": 89.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Not reduced. BF5 with 2+ items: 84.55 zl each.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 114.0,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Sunif (8)",
+   "Solid Black (4)",
+   "Esyr Midnight Navy (4)",
+   "Bryn Tourmaline (3)",
+   "N-Tribe Black (2)",
+   "Embers Black (1)",
+   "New Cashmere Black (1)",
+   "Camo Cash Multi (1)",
+   "Lise Maroon (1)",
+   "N_Temple Multi (1)",
+   "Matterhorn Peak Multi (1)",
+   "Mogress Multi (1)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only). 2 pcs with BF5 = 169.10 + 25 = 194.10 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Ortovox 120 Cool Tec Logo Neckwarmer",
+  "brand_model": "Ortovox 120 Cool Tec Logo Neckwarmer",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/102673-ortovox-120-cool-tec-logo-neckwarmer-komin-z-welny-merynosa",
+  "price_pln": 127.11,
+  "regular_price_pln": 159.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "-20% on Chestnut and Blue Note only (159 -> 127.11); 30-day lowest not shown. BF5 on top with 2+ items: 120.75 zl.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 152.11,
+  "material": "52% merino wool, 33% TENCEL lyocell, 15% polyamide",
+  "weight_or_thickness": "30 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Chestnut (6) 127.11",
+   "Blue Note (4) 127.11",
+   "Black Raven (7) 159",
+   "Green Sage (3) 159"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only). Very light, premium merino/Tencel. Whether -20% is a new BF markdown cannot be checked (no Omnibus field)."
+ },
+ {
+  "item": "buff",
+  "title": "Picture Organic Clothing Neckwarmer",
+  "brand_model": "Picture Neckwarmer",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/111066-picture-organic-clothing-neckwarmer-komin",
+  "price_pln": 92.51,
+  "regular_price_pln": 139.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "-33% (139 -> 92.51); 30-day lowest not shown. BF5 extra with 2+ items.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 117.51,
+  "material": "85% recycled polyester, 15% elastane",
+  "weight_or_thickness": "30 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Emerald (2)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only)."
+ },
+ {
+  "item": "buff",
+  "title": "Buff Merino Move Block - Komin",
+  "brand_model": "BUFF Merino Move Block",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/67487-buff-merino-move-block-komin-z-welny-merynosa",
+  "price_pln": 139.0,
+  "regular_price_pln": 139.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Not reduced.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 164.0,
+  "material": "91% merino wool, 8% polyamide, 1% elastane",
+  "weight_or_thickness": "60 g",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only). Stock shows 0/-1 for all colours (Block Magenta, Denim, Block Graphite) - likely not orderable now."
+ },
+ {
+  "item": "buff",
+  "title": "Mons Royale Double Up Merino Neckwarmer",
+  "brand_model": "Mons Royale Double Up Merino Neckwarmer",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/71456-mons-royale-double-up-merino-neckwarmer-komin-z-welny-merynosa",
+  "price_pln": 176.42,
+  "regular_price_pln": 209.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "-16% (209 -> 176.42); 30-day lowest not shown.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 201.42,
+  "material": "100% merino wool, double layer",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Black (9)",
+   "Flamingo (6)",
+   "Fig (4)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only). Double-layer = warmer than a single 150-200 g tube; premium but expensive."
+ },
+ {
+  "item": "buff",
+  "title": "Dynafit Light Merino Neck Gaiter",
+  "brand_model": "Dynafit Light Merino Neck Gaiter",
+  "shop": "Hardloop",
+  "url": "https://www.hardloop.pl/oferta/120813-dynafit-light-merino-neck-gaiter-komin",
+  "price_pln": 129.0,
+  "regular_price_pln": 129.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Not reduced.",
+  "code": "BF5",
+  "code_conditions": "BF5 = extra -5% when the basket has at least 2 products with the 'BF5' label (no minimum value); valid to 30.11.2026 23:59 Paris time; not combinable with other ongoing promotions/codes; label is shown also on items already marked down; if a return leaves only 1 eligible item the 5% is lost.",
+  "delivery": [
+   {
+    "method": "DPD Pickup point (punkt odbioru)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": 154.0,
+  "material": "conflicting: spec table '100% polyester', description '50% merino + PrimaLoft'",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Smoke Blue (3)",
+   "Overcast (3)",
+   "Cloud Blue (2)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "low",
+  "notes": "Hardloop (FR) ships to PL via DPD: pickup point 25 zl, home 35 zl, free from 750 zl. No Omnibus 30-day price shown on page ('Cena pierwotna' only)."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF chusta Merino Lightweight",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Alpinsport",
+  "url": "https://www.alpinsport.pl/buff-chusta-merino-lightweight-54192",
+  "price_pln": 130.0,
+  "regular_price_pln": 130.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price, no promotion.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 145.0,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Solid Night Blue",
+   "Solid Magenta (https://www.alpinsport.pl/buff-chusta-merino-lightweight-54541)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Alpinsport (Mikolow HQ/warehouse, stores in Zakopane). No Black Week code or Omnibus field found on pages; newsletter gives one-time 5% (requires signup, not used). Free shipping from 300 zl."
+ },
+ {
+  "item": "buff",
+  "title": "BUFF chusta Original EcoStretch",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Alpinsport",
+  "url": "https://www.alpinsport.pl/buff-chusta-original-ecostr-56074",
+  "price_pln": 100.0,
+  "regular_price_pln": 100.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price, no promotion.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 115.0,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Larto Navy",
+   "Gem Tourmaline",
+   "Gem Ruby",
+   "Sunif Multi",
+   "M Blanc Peak"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Alpinsport (Mikolow HQ/warehouse, stores in Zakopane). No Black Week code or Omnibus field found on pages; newsletter gives one-time 5% (requires signup, not used). Free shipping from 300 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta Smartwool SC953 Merino 250",
+  "brand_model": "Smartwool Merino 250 Neck Gaiter",
+  "shop": "Alpinsport",
+  "url": "https://www.alpinsport.pl/chusta-sw0sc953-merino-250-43553",
+  "price_pln": 135.0,
+  "regular_price_pln": 170.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "135 vs 'Regular Price' 170 (-21%); no Omnibus/30-day figure shown, so not a verifiable BF discount.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 150.0,
+  "material": "100% merino wool, interlock (2-layer knit)",
+  "weight_or_thickness": "shop says 20 g; 250 g/m2 (midweight)",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "D25 Wave Blue"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Alpinsport (Mikolow HQ/warehouse, stores in Zakopane). No Black Week code or Omnibus field found on pages; newsletter gives one-time 5% (requires signup, not used). Free shipping from 300 zl. Midweight, warmer than the 125-200 g tubes."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta Black Diamond Gaiter",
+  "brand_model": "Black Diamond Gaiter",
+  "shop": "Alpinsport",
+  "url": "https://www.alpinsport.pl/chusta-bd-gaiter-45671",
+  "price_pln": 65.0,
+  "regular_price_pln": 80.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "65 vs 'Regular Price' 80; no Omnibus figure shown.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 80.0,
+  "material": "100% polyester single jersey",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Vista Print",
+   "Ultra Blue Icon Print"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Alpinsport (Mikolow HQ/warehouse, stores in Zakopane). No Black Week code or Omnibus field found on pages; newsletter gives one-time 5% (requires signup, not used). Free shipping from 300 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Komin MONTURA Executive",
+  "brand_model": "Montura Executive",
+  "shop": "Alpinsport",
+  "url": "https://www.alpinsport.pl/komin-montura-executive-100660",
+  "price_pln": 80.0,
+  "regular_price_pln": 115.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "80 vs 'Regular Price' 115; no Omnibus figure shown.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 95.0,
+  "material": "polyester knit (hollow fibre)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "4786 light green/atlantic blue"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Alpinsport (Mikolow HQ/warehouse, stores in Zakopane). No Black Week code or Omnibus field found on pages; newsletter gives one-time 5% (requires signup, not used). Free shipping from 300 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta/maska Buff Merino Wool Solid lightweight 125",
+  "brand_model": "BUFF Lightweight Merino Wool",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-5708-Chusta-maska-Buff-Merino-Wool-Solid-Black-lightweight-125-czarna.html",
+  "price_pln": 129.9,
+  "regular_price_pln": 129.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Paczkomat weekend (prepaid)",
+    "cost_pln": 17.98
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "cheapest_total_pln": 142.89,
+  "material": "100% merino wool",
+  "weight_or_thickness": "125 g/m2",
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Solid Black",
+   "Solid Pansy",
+   "Solid Teal",
+   "Solid Fluor Fuchsia",
+   "Multistripes Tempest"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Natural Born Runners (natural-born-runners.pl, Poznan; naturalbornrunners.pl does not resolve). No BF code found; 'Black Deals' is a markdown category with no neck gaiters in it. Free shipping (DPD/Paczkomat, prepaid) from 250 zl. Black checked on product page: in stock, ships in 2 days."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta/maska Buff Original EcoStretch",
+  "brand_model": "BUFF Original EcoStretch",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-6762-Chusta-maska-Buff-Original-EcoStretch-Solid-Black-czarna.html",
+  "price_pln": 99.9,
+  "regular_price_pln": 99.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Paczkomat weekend (prepaid)",
+    "cost_pln": 17.98
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "cheapest_total_pln": 112.89,
+  "material": "95% recycled polyester, 5% elastane",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Solid Black",
+   "Speed Graphite",
+   "Sineb Night Blue",
+   "Jorp Navy",
+   "Lise Maroon",
+   "Virta Grape Ice",
+   "Only Multi"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "high",
+  "notes": "Natural Born Runners (natural-born-runners.pl, Poznan; naturalbornrunners.pl does not resolve). No BF code found; 'Black Deals' is a markdown category with no neck gaiters in it. Free shipping (DPD/Paczkomat, prepaid) from 250 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta/maska Buff Merino Move",
+  "brand_model": "BUFF Merino Move",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-12811-Chusta-maska-Buff-Merino-Move-Teal-niebieska.html",
+  "price_pln": 149.9,
+  "regular_price_pln": 149.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Paczkomat weekend (prepaid)",
+    "cost_pln": 17.98
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "cheapest_total_pln": 162.89,
+  "material": "merino blend (BUFF: 91% merino)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Teal",
+   "Magenta",
+   "Denim",
+   "Graphite"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Natural Born Runners (natural-born-runners.pl, Poznan; naturalbornrunners.pl does not resolve). No BF code found; 'Black Deals' is a markdown category with no neck gaiters in it. Free shipping (DPD/Paczkomat, prepaid) from 250 zl."
+ },
+ {
+  "item": "buff",
+  "title": "Chusta/maska Buff Dryflx Solid Lime",
+  "brand_model": "BUFF Dryflx",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-10257-Chusta-maska-Buff-Dryflx-Solid-Lime-zolta.html",
+  "price_pln": 99.9,
+  "regular_price_pln": 129.9,
+  "lowest_30d_pln": 99.9,
+  "bf_discount": false,
+  "bf_discount_note": "-23% but the price-change date on the page is 2023-12-06, so this is an old markdown, not a BF offer.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Paczkomat weekend (prepaid)",
+    "cost_pln": 17.98
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "cheapest_total_pln": 112.89,
+  "material": "polyester, reflective (Dryflx)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "Solid Lime"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Natural Born Runners (natural-born-runners.pl, Poznan; naturalbornrunners.pl does not resolve). No BF code found; 'Black Deals' is a markdown category with no neck gaiters in it. Free shipping (DPD/Paczkomat, prepaid) from 250 zl. lowest_30d set to the current price because the price has not changed since 2023 (page data-change-date)."
+ },
+ {
+  "item": "buff",
+  "title": "Komin Brubeck KM10360 z welny merino",
+  "brand_model": "Brubeck KM10360 merino komin",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-6473-Komin-Brubeck-KM10360-926-z-welny-merino-czarny.html",
+  "price_pln": 72.99,
+  "regular_price_pln": 72.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Full price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Paczkomat weekend (prepaid)",
+    "cost_pln": 17.98
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "cheapest_total_pln": 85.98,
+  "material": "merino wool (exact composition not on page)",
+  "weight_or_thickness": null,
+  "rating": null,
+  "rating_count": null,
+  "colours_in_stock": [
+   "czarny (926)",
+   "granatowy (612)"
+  ],
+  "checked_at": "2026-11-21T23:45:00+01:00",
+  "confidence": "medium",
+  "notes": "Natural Born Runners (natural-born-runners.pl, Poznan; naturalbornrunners.pl does not resolve). No BF code found; 'Black Deals' is a markdown category with no neck gaiters in it. Free shipping (DPD/Paczkomat, prepaid) from 250 zl."
+ }
+]

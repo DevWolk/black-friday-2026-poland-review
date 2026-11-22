@@ -1,0 +1,1080 @@
+[
+ {
+  "item": "cable",
+  "title": "Kabel USB typ C SBS TECABLETCC6015WGRS 1,5m 60W Niebieski",
+  "brand_model": "SBS TECABLETCC6015WGRS (USB-C/USB-C, PD 60 W, USB 2.0)",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_kabel-usb-typ-c-sbs-tecabletcc6015wgrs-15m-60-w-niebieski-1493187.html",
+  "price_pln": 19.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 49.99,
+  "bf_discount": true,
+  "bf_discount_note": "-60%: product page shows \"Najniższa cena z 30 dni przed obniżką 49,99 zł\" next to 19,99 zł; Black Friday price sold by MediaMarkt itself",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (page: \"darmowa dostawa\")",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "pickup in MediaMarkt store (availability not checked)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 19.99,
+  "key_specs": "USB-C to USB-C, 1.5 m, Power Delivery up to 60 W, 480 Mb/s (USB 2.0), no video; colours blue/green/white",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:48:34+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Green variant TECABLETCC6015LBGRS (1493188) same price, Omnibus 47.99. SBS is an Italian accessory brand, not one of the named premium brands; no reviews on MediaMarkt. Meets the 60 W lower bound only."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C SBS 1.5m Szary TECABLETISSUETCCG (oplot)",
+  "brand_model": "SBS TECABLETISSUETCCG (USB-C/USB-C, USB 2.0, braided)",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_kabel-usb-c-sbs-15m-szary-tecabletissuetccg-1478092.html",
+  "price_pln": 19.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 35.99,
+  "bf_discount": true,
+  "bf_discount_note": "-44%: product page shows \"Najniższa cena z 30 dni przed obniżką 35,99 zł\"",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (page: \"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 19.99,
+  "key_specs": "USB-C to USB-C, 1.5 m, fabric braid, USB 2.0; charging wattage NOT stated on the page",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:48:36+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Wattage unknown, so it may not meet the 60-100 W requirement; prefer the 60 W TECABLETCC6015 above."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel SBS USB-C 1.5m Czarny (TECABLETCC20K)",
+  "brand_model": "SBS TECABLETCC20K (USB-C/USB-C, USB 2.0)",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_kabel-sbs-usb-c-15m-czarny-1463602.html",
+  "price_pln": 29.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 38.99,
+  "bf_discount": true,
+  "bf_discount_note": "-23% vs Omnibus 38.99 (listing data)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (\"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 29.99,
+  "key_specs": "USB-C/USB-C 1.5 m, USB 2.0, wattage not stated",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:48:39+01:00",
+  "confidence": "verified on shop page",
+  "notes": "More expensive than the 60 W SBS and wattage unknown."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel HAMA Ładujący/data Reflected USB-C - USB-C 1.5m Niebieski",
+  "brand_model": "Hama Reflected USB-C/USB-C 1.5 m",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_kabel-hama-ladujacydata-reflected-usb-c-usb-c-15m-niebieski-1472976.html",
+  "price_pln": 49.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 79.99,
+  "bf_discount": true,
+  "bf_discount_note": "-37% vs strike \"LOP\" 79.99 in MediaMarkt listing data (product page not opened)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (\"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 49.99,
+  "key_specs": "USB-C/USB-C 1.5 m; data rate and wattage not checked",
+  "rating": 5.0,
+  "rating_count": 2,
+  "checked_at": "2026-11-21T23:47:42+01:00",
+  "confidence": "via aggregator",
+  "notes": "Listing JSON from mediamarkt.pl search; same-colour red variant is 44.99 without discount."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel 1.5m USB-C USB-C 3MK incharge OmniLink 100W PD Czarny",
+  "brand_model": "3mk InCharge OmniLink 100 W 1.5 m",
+  "shop": "MediaMarkt Marketplace (seller 3mk PL)",
+  "url": "https://mediamarkt.pl/pl/product/_kabel-15m-usb-c-usb-c-3mk-incharger-omnilink-100w-pd-czarny-178224105.html",
+  "price_pln": 55.9,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 69.9,
+  "bf_discount": true,
+  "bf_discount_note": "-20%: listing shows \"Najniższa cena: 69,90 zł\" (marketplace offer, Black Friday badge)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "seller delivery",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 55.9,
+  "key_specs": "100 W PD, 1.5 m; data speed not checked",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:47:42+01:00",
+  "confidence": "via aggregator",
+  "notes": "Marketplace seller, no store pickup."
+ },
+ {
+  "item": "cable",
+  "title": "UGREEN Kabel USB-C do USB-C US264 60W 1.5m biały",
+  "brand_model": "UGREEN US264 60 W 1.5 m",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1489172-kabel-usb-ugreen-kabel-usb-c-do-usb-c-us264-60w-15m-bialy.html",
+  "price_pln": 17.9,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No crossed-out price, no Omnibus line; regular price",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "x-kom salon pickup (Katowice / Katowice Silesia)",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "other delivery",
+    "cost_pln": 10.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": true,
+  "cheapest_total_pln": 17.9,
+  "key_specs": "USB-C/USB-C 1.5 m, 60 W PD, 480 Mb/s",
+  "rating": 5.0,
+  "rating_count": 1,
+  "checked_at": "2026-11-21T23:51:59+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Page states \"Darmowa dostawa do salonu, inne sposoby dostawy od 10,99 zł\". Stock in the Katowice salons not checked."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C - USB-C UGREEN US264 60W 1.5 m Biały",
+  "brand_model": "UGREEN US264 60 W 1.5 m",
+  "shop": "Media Expert",
+  "url": "https://www.mediaexpert.pl/ (offer via Ceneo product 127619672)",
+  "price_pln": 13.9,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible (mediaexpert.pl blocks automated access)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"Wysyłka od 7,99 zł\")",
+    "cost_pln": 7.99
+   },
+   {
+    "method": "Media Expert store pickup Katowice (usual free pickup, not verified)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 21.89,
+  "key_specs": "USB-C/USB-C 1.5 m, 60 W PD, 480 Mb/s",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:04+01:00",
+  "confidence": "via aggregator",
+  "notes": "Cheapest price seen for a branded 1.5 m cable. If ME store pickup is free, total 13.90. Same price at avans.pl/electro.pl (ME group)."
+ },
+ {
+  "item": "cable",
+  "title": "UGREEN USB-C do USB-C US316 100W 1,5m Czarny",
+  "brand_model": "UGREEN US316 100 W 1.5 m (70428)",
+  "shop": "RTV Euro AGD",
+  "url": "https://www.euro.com.pl/kable-do-telefonow/ugreen-kabel-usb-c-do-usb-c-us316-100w-1-5m-cza.bhtml",
+  "price_pln": 25.21,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Same 25.21 price at ~10 shops incl. UGREEN official shop: a list price, not a BF cut (earlier session: ME 30-day min 25.24)",
+  "code": "67ZA500051126 / 5th item for 1 zł",
+  "code_conditions": "67 zł off per 500 zł basket; 5th item for 1 zł needs 5 items - irrelevant for one cable",
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"Wysyłka od 4,95 zł\", free from 99 zł)",
+    "cost_pln": 4.95
+   },
+   {
+    "method": "pickup in RTV Euro AGD store (earlier session: free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 99.0,
+  "katowice_store_pickup": true,
+  "cheapest_total_pln": 25.21,
+  "key_specs": "USB-C/USB-C 1.5 m, 100 W (5 A) PD, 480 Mb/s (USB 2.0)",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "euro.com.pl blocks automated access; price via Ceneo, store pickup from earlier session."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C - USB-C UGREEN US316 100W 1.5 m Czarny",
+  "brand_model": "UGREEN US316 100 W 1.5 m (70428)",
+  "shop": "Media Expert",
+  "url": "https://www.mediaexpert.pl/smartfony-i-zegarki/akcesoria-do-telefonow/kable-i-przewody/kabel-usb-c-usb-c-ugreen-us316-100w-1-5-m-czarny",
+  "price_pln": 25.21,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 25.24,
+  "bf_discount": false,
+  "bf_discount_note": "Earlier session: 30-day min 25.24 vs 25.21 now: 0.03 zł, not a real discount",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"Wysyłka od 7,99 zł\")",
+    "cost_pln": 7.99
+   },
+   {
+    "method": "Media Expert store pickup Katowice (usual free pickup, not verified)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 33.2,
+  "key_specs": "USB-C/USB-C 1.5 m, 100 W PD, USB 2.0",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Ceneo maps ME offer name as \"2 m\" but the ME URL is the 1.5 m item - check length in the basket."
+ },
+ {
+  "item": "cable",
+  "title": "Gembird USB-C - USB-C 1,5m",
+  "brand_model": "Gembird USB-C/USB-C 1.5 m",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1329906-kabel-usb-gembird-usb-c-usb-c-15m.html",
+  "price_pln": 15.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No discount shown",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "x-kom salon pickup",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "other delivery",
+    "cost_pln": 10.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": true,
+  "cheapest_total_pln": 15.99,
+  "key_specs": "USB-C/USB-C 1.5 m; wattage not in listing summary",
+  "rating": 4.57,
+  "rating_count": 7,
+  "checked_at": "2026-11-21T23:45:58+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Cheapest at x-kom, but wattage not confirmed (likely 60 W/3 A) - check before buying."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C - USB-C CABLEXPERT 240W 1.5 m (CCBP-USB4-CMCM240-1.5M)",
+  "brand_model": "Cablexpert CCBP-USB4-CMCM240-1.5M",
+  "shop": "Allegro",
+  "url": "https://allegro.pl/ (offer via Ceneo product 165953315)",
+  "price_pln": 37.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Ceneo shows only Allegro's generic \"Black Weeks do -50%\" tag; Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro delivery (Ceneo: \"od 10,49 zł\"); Smart free only if seller offers Smart and the order meets the Smart minimum",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 48.48,
+  "key_specs": "USB4 Gen 3x2 40 Gb/s, 240 W PD, 8K60 video, 1.5 m (spec from gembird24.pl offer title); braided per Cablexpert CCBP series - not verified",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:10+01:00",
+  "confidence": "via aggregator",
+  "notes": "Best spec per zł. allegro.pl blocks automated access: open the offer to confirm seller, Smart and length."
+ },
+ {
+  "item": "cable",
+  "title": "Gembird USB-C 240W 40 Gb/s 1,5m Czarny",
+  "brand_model": "Cablexpert CCBP-USB4-CMCM240-1.5M",
+  "shop": "RTV Euro AGD",
+  "url": "https://www.euro.com.pl/ (offer via Ceneo product 165953315)",
+  "price_pln": 79.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible",
+  "code": "67ZA500051126",
+  "code_conditions": "67 zł per 500 zł basket - not reachable with one cable",
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"od 4,95 zł\")",
+    "cost_pln": 4.95
+   },
+   {
+    "method": "RTV Euro AGD store pickup (free per earlier session)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 99.0,
+  "katowice_store_pickup": true,
+  "cheapest_total_pln": 79.99,
+  "key_specs": "USB4 40 Gb/s, 240 W, 8K60, 1.5 m",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:10+01:00",
+  "confidence": "via aggregator",
+  "notes": "Twice the Allegro price; only worth it for same-day store pickup."
+ },
+ {
+  "item": "cable",
+  "title": "Cablexpert kabel USB4 USB-C USB-C CCBP-USB4-CMCM240-1.5M 40 Gb/s 240 W 8K 60 Hz 1,5 m",
+  "brand_model": "Cablexpert CCBP-USB4-CMCM240-1.5M",
+  "shop": "gembird24.pl (Gembird distributor shop)",
+  "url": "https://gembird24.pl/ (offer via Ceneo product 165953315)",
+  "price_pln": 49.9,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "no discount info",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"od 16,99 zł\")",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 66.89,
+  "key_specs": "USB4 40 Gb/s, 240 W, 8K60, 1.5 m",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:10+01:00",
+  "confidence": "via aggregator",
+  "notes": ""
+ },
+ {
+  "item": "cable",
+  "title": "Axagon BUCM32-CM15AB, SPEED+ kabel USB-C - USB-C, 1.5m, USB 20Gbps",
+  "brand_model": "Axagon BUCM32-CM15AB",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1353477-kabel-usb-axagon-bucm32-cm15ab-speed-kabel-usb-c-usb-c-15m-usb-20gbp.html",
+  "price_pln": 76.11,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No discount shown",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "x-kom salon pickup (Katowice / Katowice Silesia)",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "other delivery",
+    "cost_pln": 10.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": true,
+  "cheapest_total_pln": 76.11,
+  "key_specs": "USB 3.2 Gen 2x2 20 Gb/s, PD 5 A (100 W), 4K60 video, braided (Oplot: Tak), aluminium plugs, 1.5 m - all from x-kom spec table",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:52:02+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Verified spec and free Katowice pickup, but 2x the Allegro price."
+ },
+ {
+  "item": "cable",
+  "title": "BUCM32-CM15AB Kabel USB-C - USB-C 3.2 Gen 2, 1.5m, PD 100W, 5A, 4K HD, ALU, oplot",
+  "brand_model": "Axagon BUCM32-CM15AB",
+  "shop": "Allegro",
+  "url": "https://allegro.pl/ (offer via Ceneo product 181544552)",
+  "price_pln": 49.12,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro delivery (Ceneo: \"od 18,60 zł\")",
+    "cost_pln": 18.6
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 67.72,
+  "key_specs": "20 Gb/s, 100 W, 4K60, E-marker, braided",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:51:14+01:00",
+  "confidence": "via aggregator",
+  "notes": "Other Ceneo offers: ctistore.pl 51.60 + 14.76; 4PPL 46.09 + 16.99 (earlier session)."
+ },
+ {
+  "item": "cable",
+  "title": "AXAGON BUCM32-CM15AB kabel USB 3.2 Gen 2x2 1.5 m",
+  "brand_model": "Axagon BUCM32-CM15AB",
+  "shop": "4PPL",
+  "url": "https://4ppl.pl/sklep/p/axagon-bucm32-cm15ab-kabel-usb-usb-3-2-gen-2x2-1-5-m-usb-c-20-gbit-s-8595247908469",
+  "price_pln": 46.09,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "not re-checked",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "courier",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 63.08,
+  "key_specs": "20 Gb/s, 100 W, 1.5 m",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21",
+  "confidence": "stale",
+  "notes": "From earlier session; not re-opened."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C - USB-C CABLEXPERT USB 3.2 Gen. 2 100W 1.5 m Czarny (CCBP-USB3-CMCM100-1.5M)",
+  "brand_model": "Cablexpert CCBP-USB3-CMCM100-1.5M",
+  "shop": "Media Expert",
+  "url": "https://www.mediaexpert.pl/smartfony-i-zegarki/akcesoria-do-telefonow/kable-i-przewody/kabel-usb-c-usb-c-cablexpert-usb-3-2-gen-2-100w-1-5-m-czarny",
+  "price_pln": 29.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "not re-checked (mediaexpert.pl blocks automated access)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Media Expert store pickup - \"select stores only\" per earlier session",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 29.99,
+  "key_specs": "20 Gb/s (gembird24 title), 100 W, 4K60, 1.5 m",
+  "rating": 4.8,
+  "rating_count": 3,
+  "checked_at": "2026-11-21",
+  "confidence": "stale",
+  "notes": "Earlier session. Same cable: gembird24.pl 25.00 + 16.99, Allegro 27.24 + 10.49 (Ceneo 165953312). Ask whether a Katowice ME store has it."
+ },
+ {
+  "item": "cable",
+  "title": "Kabel USB-C HAMA 240W USB 3.2 Gen2 10Gbit/s 1.5m Biały (201724)",
+  "brand_model": "Hama 201724 240 W 10 Gb/s 1.5 m",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/ (MediaMarkt product 1504060)",
+  "price_pln": 99.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No strike price in listing",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (\"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 99.99,
+  "key_specs": "10 Gb/s, 240 W, 1.5 m, nylon braid (Amazon title)",
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:47:42+01:00",
+  "confidence": "via aggregator",
+  "notes": "Amazon.pl 91.21 free delivery, x-kom 99, ME/Euro 109.90 (Ceneo 173391809). Expensive for the spec."
+ },
+ {
+  "item": "dryer",
+  "title": "BaByliss PRO Caruso-HQ BAB6970IE suszarka do włosów z jonizacją 2400W",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "Friser",
+  "url": "https://friser.pl/babyliss-pro/caruso-hq-suszarka-do-wlosow-z-jonizacja-2400w",
+  "price_pln": 249.9,
+  "regular_price_pln": 279.0,
+  "lowest_30d_pln": 279.0,
+  "bf_discount": true,
+  "bf_discount_note": "Black Week price 249.90 vs Omnibus 30-day min 279 (-10.4%) - Omnibus line seen by the earlier session on 21.11; the 249.90 price is still listed on Ceneo at 21.11 23:43",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat (earlier session)",
+    "cost_pln": 11.9
+   },
+   {
+    "method": "Ceneo now lists \"Darmowa wysyłka\" for this offer - unconfirmed",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 350.0,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 261.8,
+  "key_specs": "2400 W AC motor, ionic, 2 speeds x 3 heats + cool shot, 2.7 m cord (Ceneo description), 83 m3/h (retailer spec)",
+  "rating": 4.9,
+  "rating_count": 93,
+  "checked_at": "2026-11-21T23:43:51+01:00",
+  "confidence": "via aggregator",
+  "notes": "friser.pl blocks automated access (Cloudflare). Total 249.90-261.80 depending on whether the free-delivery flag on Ceneo is real. Ceneo product rating 4.9/5 (93)."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów Babyliss Pro Caruso 2400W czarna jonizacja zimny nawiew",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "Allegro (seller artforyou_okapy per earlier session)",
+  "url": "https://allegro.pl/produkt/suszarka-do-wlosow-babyliss-pro-caruso-2400w-czarna-jonizacja-zimny-nawiew-8b184841-918a-440a-a826-461af556e470?offerId=19015017258",
+  "price_pln": 237.8,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Offer still listed on Ceneo at 237.80 at 21.11 23:43; Omnibus/discount status unknown (allegro.pl blocks automated access)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro Smart (free)",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "without Smart (Ceneo: \"od 10,49 zł\")",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 237.8,
+  "key_specs": "same as Caruso above",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:43:51+01:00",
+  "confidence": "via aggregator",
+  "notes": "Cheapest Caruso. Re-open the offer on Allegro to confirm seller, Smart and the Omnibus line."
+ },
+ {
+  "item": "dryer",
+  "title": "BaByliss PRO Caruso HQ BAB6970IE - Allegro HairStyl",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "Allegro (seller HairStyl)",
+  "url": "https://allegro.pl/oferta/babyliss-pro-suszarka-caruso-hq-2400w-bab6970ie-12135662739",
+  "price_pln": 243.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "BF not confirmed (earlier session)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro Smart (free)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 243.0,
+  "key_specs": "same as Caruso above",
+  "rating": 4.94,
+  "rating_count": 1967,
+  "checked_at": "2026-11-21",
+  "confidence": "stale",
+  "notes": "Earlier session; not re-opened. 4.94/5 from 1967 ratings as recorded then."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka BABYLISS Pro Caruso HQ BAB6970IE 2400W",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "Media Expert",
+  "url": "https://www.mediaexpert.pl/agd-male/zdrowie-i-uroda/suszarki-do-wlosow/babyliis-pro-caruso-suszarka-bab6970ie",
+  "price_pln": 251.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible; Ceneo title only mentions \"50 zł rabatu na akcesoria\"",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "delivery (Ceneo: \"Darmowa wysyłka\")",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "Media Expert store pickup Katowice (usual free pickup, not verified)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 251.99,
+  "key_specs": "same as Caruso above",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:43:51+01:00",
+  "confidence": "via aggregator",
+  "notes": "Same 251.99 at avans.pl and electro.pl (same group)."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka BaBylissPRO BAB6970IE",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "Morele.net",
+  "url": "https://www.morele.net/suszarka-babylisspro-bab6970ie-11733601/",
+  "price_pln": 249.3,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No crossed-out price or Omnibus line on the product page",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Morele delivery (cost not in page HTML)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": null,
+  "key_specs": "same as Caruso above",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:59:34+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Sold and shipped by Morele.net; 4 more marketplace offers from 249.30."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów BaByliss Pro Caruso HQ BAB6970IE - other shops",
+  "brand_model": "BaByliss PRO Caruso HQ BAB6970IE",
+  "shop": "rozetka.pl / Empik",
+  "url": "https://www.ceneo.pl/96266100",
+  "price_pln": 255.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "rozetka \"Wyjątkowe ceny na Black Weeks\", Empik \"Black Weeks do -70%\" - generic campaign tags",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "rozetka.pl free delivery",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 255.0,
+  "key_specs": "same",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:43:51+01:00",
+  "confidence": "via aggregator",
+  "notes": "Empik 258-259 + 13 zł. Not competitive."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów BaByliss Pro BAB6950IE Levante 2100W Jonizacja",
+  "brand_model": "BaByliss PRO Levante HQ BAB6950IE",
+  "shop": "Allegro",
+  "url": "https://allegro.pl/ (offer via Ceneo product 107038995)",
+  "price_pln": 207.39,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro delivery (Ceneo: \"od 10,48 zł\"; Smart free if offered)",
+    "cost_pln": 10.48
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 217.87,
+  "key_specs": "2100 W AC motor, ionic (lower power than Caruso)",
+  "rating": 4.5,
+  "rating_count": 21,
+  "checked_at": "2026-11-21T23:56:03+01:00",
+  "confidence": "via aggregator",
+  "notes": "Cheapest BaByliss PRO AC dryer found. Next: YAGO24.PL 239 with free delivery; Friser 299.90."
+ },
+ {
+  "item": "dryer",
+  "title": "BaByliss Pro Hq Excess suszarka do włosów z jonizacją BAB6990IE",
+  "brand_model": "BaByliss PRO Excess HQ BAB6990IE",
+  "shop": "Allegro",
+  "url": "https://allegro.pl/ (offer via Ceneo product 121673933)",
+  "price_pln": 246.05,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro delivery (Ceneo: \"od 10,49 zł\")",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 256.54,
+  "key_specs": "2600 W AC motor, ionic",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:59+01:00",
+  "confidence": "via aggregator",
+  "notes": "Caruso sibling with more power for about the same price. Empik 264.99 + 8.99; easylook.pl 299.99 free; Friser 349.90."
+ },
+ {
+  "item": "dryer",
+  "title": "Parlux Alyon Ceramic & Ionic profesjonalna suszarka do włosów z jonizacją Night Blue",
+  "brand_model": "Parlux Alyon (Night Blue)",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/ (offer via Ceneo product 117601555)",
+  "price_pln": 531.68,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible (amazon.pl blocks automated access)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon delivery (Ceneo: \"Darmowa wysyłka\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 531.68,
+  "key_specs": "2250 W, K-Advance Plus motor (maker claims up to 3000 h), 84 m3/h, 2 speeds x 4 heats + cool shot, 3 m cord (retailer specs)",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:35+01:00",
+  "confidence": "via aggregator",
+  "notes": "Cheapest Alyon. Confirm the seller is Amazon/EU and that the plug is EU."
+ },
+ {
+  "item": "dryer",
+  "title": "Parlux Alyon Ceramic & Ionic Night Blue",
+  "brand_model": "Parlux Alyon (Night Blue)",
+  "shop": "Notino",
+  "url": "https://www.notino.pl/parlux/alyon-ceramic-ionic-profesjonalna-suszarka-do-wlosow-z-jonizatorem/",
+  "price_pln": 560.15,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Ceneo tag \"Aż do -30% z kodem\"; unclear whether 560.15 already includes the code; Omnibus not visible (notino.pl blocks automated access)",
+  "code": "notino (per earlier session, 10%)",
+  "code_conditions": "basket code; check exclusions",
+  "delivery": [
+   {
+    "method": "DHL / courier (Ceneo: \"od 8,90 zł\")",
+    "cost_pln": 8.9
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 569.05,
+  "key_specs": "see Alyon above",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:35+01:00",
+  "confidence": "via aggregator",
+  "notes": "Matt Black 563.55, Advance Light 512.55 at Notino (Ceneo). Earlier session: Pink 593.10 with code vs previous min 585 - not a real discount for that colour."
+ },
+ {
+  "item": "dryer",
+  "title": "Parlux Alyon Ceramic & Ionic Pink - Notino Black Friday",
+  "brand_model": "Parlux Alyon (Pink)",
+  "shop": "Notino",
+  "url": "https://www.notino.pl/parlux/alyon-ceramic-ionic-profesjonalna-suszarka-do-wlosow-z-jonizatorem/",
+  "price_pln": 593.1,
+  "regular_price_pln": 659.0,
+  "lowest_30d_pln": 585.0,
+  "bf_discount": false,
+  "bf_discount_note": "Earlier session: 659 -> 593.10 with code, but previous min was 585, so the code price is above the earlier low",
+  "code": "notino",
+  "code_conditions": "10% code",
+  "delivery": [
+   {
+    "method": "DHL",
+    "cost_pln": 8.9
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 602.0,
+  "key_specs": "see Alyon above",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21",
+  "confidence": "stale",
+  "notes": "Not re-opened."
+ },
+ {
+  "item": "dryer",
+  "title": "Parlux Advance Light suszarka do włosów Blue-Silver",
+  "brand_model": "Parlux Advance Light",
+  "shop": "Notino",
+  "url": "https://www.notino.pl/ (offer via Ceneo product 59187644)",
+  "price_pln": 512.55,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Ceneo tag \"Aż do -30% z kodem\"; Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "courier (Ceneo: \"od 8,90 zł\")",
+    "cost_pln": 8.9
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 521.45,
+  "key_specs": "2200 W, ionic & ceramic",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:46+01:00",
+  "confidence": "via aggregator",
+  "notes": "Older/heavier sibling of the Alyon."
+ },
+ {
+  "item": "dryer",
+  "title": "Parlux Digitalyon antracyt (+ dyfuzor Magic Sense)",
+  "brand_model": "Parlux Digitalyon",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/ (offer via Ceneo product 136389581)",
+  "price_pln": 630.38,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon delivery (free per Ceneo)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 630.38,
+  "key_specs": "2400 W, digital brushless motor, diffuser included (per listing title)",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:50+01:00",
+  "confidence": "via aggregator",
+  "notes": "Parlux brushless model; check that the bundle includes the diffuser."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów DYSON Supersonic r Straight+Wavy Pastelowy róż/Różowe złoto",
+  "brand_model": "Dyson Supersonic r HD17 (113332-01)",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_suszarka-do-wlosow-dyson-supersonic-r-straightwavy-pastelowy-rozrozowe-zloto-1491307.html",
+  "price_pln": 999.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No strike price/Omnibus line on the page, so not a declared reduction vs the 30-day low. Same 999 at dyson.pl, Media Expert, RTV Euro AGD (Ceneo); Notino lists 2039, robotworld 1990-2489, Sephora 1499",
+  "code": null,
+  "code_conditions": "MediaMarkt basket discount (\"Do 7500 zł rabatu!\") applies only with 2-6 different items from 500 zł",
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (\"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 999.0,
+  "key_specs": "Dyson digital motor, ionic, 3 speeds, 4 heats, 2.7 m cord, 5 attachments (MediaMarkt spec table)",
+  "rating": 4.43,
+  "rating_count": 166,
+  "checked_at": "2026-11-21T23:54:23+01:00",
+  "confidence": "verified on shop page",
+  "notes": "About 50-60% below the prices still asked elsewhere, but that is not an Omnibus-verified BF cut. Amazon.pl 979.99 (Ceneo). Media Expert title mentions \"5% rabatu\" (code not verified)."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów DYSON Supersonic Origin 1600W Czarny/nikiel",
+  "brand_model": "Dyson Supersonic Origin (HD07 family)",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_suszarka-do-wlosow-dyson-supersonic-origin-1600w-czarnynikiel-1508110.html",
+  "price_pln": 1249.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No strike price/Omnibus line on the page",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "MediaMarkt delivery (\"darmowa dostawa\")",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": 1249.0,
+  "key_specs": "1600 W, 13.3 l/s airflow, 2 m cord, concentrator only",
+  "rating": 4.79,
+  "rating_count": 86,
+  "checked_at": "2026-11-21T23:54:25+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Worse value than the Supersonic r at 999."
+ },
+ {
+  "item": "dryer",
+  "title": "ghd Helios Suszarka Do Włosów, Biało/Złoty",
+  "brand_model": "ghd Helios (white)",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/ (offer via Ceneo product 95866306)",
+  "price_pln": 594.98,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Omnibus not visible; other shops 811-939",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon delivery (free per Ceneo)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "cheapest_total_pln": 594.98,
+  "key_specs": "2200 W brushless motor, ionic, 2 speeds, 3 heats (per listing)",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:56:59+01:00",
+  "confidence": "via aggregator",
+  "notes": "Allegro offer for ghd Helios black at 439.90 (Ceneo 182522283) is far below every other shop (869-939): verify seller and authenticity before trusting it."
+ },
+ {
+  "item": "dryer",
+  "title": "Ga.Ma Italy iQ Perfetto Dual Filter Rose Gold",
+  "brand_model": "GA.MA iQ Perfetto",
+  "shop": "(cheapest of 12 shops on Ceneo)",
+  "url": "https://www.ceneo.pl/154510916",
+  "price_pln": 560.4,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "not opened (Ceneo rate-limited)",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": null,
+  "key_specs": "brushless digital motor, lightweight",
+  "rating": 5.0,
+  "rating_count": 19,
+  "checked_at": "2026-11-21T23:56:28+01:00",
+  "confidence": "via aggregator",
+  "notes": "Search-result minimum only; shop and delivery unknown."
+ },
+ {
+  "item": "dryer",
+  "title": "Suszarka do włosów BaByliss PRO BAB7600E LUPIA",
+  "brand_model": "BaByliss PRO Lupia BAB7600E",
+  "shop": "(cheapest of 17 shops on Ceneo)",
+  "url": "https://www.ceneo.pl/193482662",
+  "price_pln": 449.28,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "not opened",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": null,
+  "cheapest_total_pln": null,
+  "key_specs": "2200 W digital motor",
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:21+01:00",
+  "confidence": "via aggregator",
+  "notes": "Earlier session: Allegro eCSI 449.28. MediaMarkt marketplace 522."
+ }
+]

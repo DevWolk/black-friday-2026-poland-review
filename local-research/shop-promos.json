@@ -1,0 +1,650 @@
+[
+ {
+  "shop": "Sportano",
+  "codes": [
+   {
+    "code": "BLACKDEALS",
+    "value": "Per-product %, shown on each product card ('Dodatkowe -X% z kodem BLACKDEALS'); on neck gaiters seen -5% to -57%",
+    "scope": "Only products marked with the BLACKDEALS badge (listed at sportano.pl/black-month-blind-deals); unmarked products get nothing",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-24T23:59:00+01:00 (start 2026-11-19 00:00)",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": true,
+    "source_url": "https://sportano.pl/uploads/documents/pl/regulations/campaigns/regulamin_promocji_blackdeals_2026_pl.pdf"
+   },
+   {
+    "code": "Newsletter welcome code (individual, sent by e-mail)",
+    "value": "50 zl off",
+    "scope": "Site block: 'na produkty o lacznej wartosci powyzej 499 zl, promocje nie lacza sie ze soba'. One-time use and logged-in-only come from the text the buyer received (not published on the site or in the newsletter regulamin).",
+    "min_basket_pln": 499.01,
+    "valid_until": null,
+    "needs_app_or_login": true,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://sportano.pl/ (newsletter block: 'Odbierz 50 zl znizki na zakupy* dolaczajac do newslettera')"
+   },
+   {
+    "code": "APP",
+    "value": "40 zl off",
+    "scope": "All products except gift cards; only in the Sportano mobile app; one use per participant",
+    "min_basket_pln": 399,
+    "valid_until": "2026-12-31 (start 2026-09-04)",
+    "needs_app_or_login": true,
+    "combinable": false,
+    "applies_to_reduced": true,
+    "source_url": "https://sportano.pl/regulamin-promocji-app"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7 (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "ORLEN Paczka (prepaid)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup point (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 11.99
+   },
+   {
+    "method": "DPD courier cash on delivery",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "katowice_store_pickup": false,
+  "notes": "Only physical store: Warszawa, Homepark Targowek (Malborska 47). Delivery from sportano.pl/dostawa: Paczkomat/ORLEN/DPD Pickup/DPD courier free above 299 zl, InPost courier 9.99 above 299. Product JSON-LD lists shippingRate 7.99 - cheapest method may be 7.99 in cart; not confirmed. Newsletter code: value 50 zl off orders over 499 zl, from the signup block on every sportano.pl page; the newsletter regulamin (from 2026-09-18) does not describe the code at all, so validity period and whether it works on already-reduced prices are not published (an older 2023 RABAT50 leaflet code of the same value excluded reduced items). Getting it: subscribe with e-mail on sportano.pl, tick consent, click the activation link; code arrives by e-mail; must be logged in to a Sportano account at checkout. Can it replace BLACKDEALS? Yes as an alternative, not in addition: BLACKDEALS reg. pt 13 and the newsletter note both say promotions do not combine (whether the cart technically accepts two codes was not tested). Use the newsletter/APP code only if the basket is over 499/399 zl and the BLACKDEALS savings on marked items are below 50/40 zl. BLACKDEALS reduces the 'obowiazujaca cena' (current price, often already crossed out), so check each item's Omnibus 'Najnizsza cena' - many code prices equal or exceed the 30-day low."
+ },
+ {
+  "shop": "MMT",
+  "codes": [
+   {
+    "code": "BLACK20",
+    "value": "-20%",
+    "scope": "every product and brand, online and in MMT stores",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-30T23:59+01:00 (from 2026-11-20 08:00)",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": true,
+    "source_url": "https://mmtsklep.pl/regulamin-promocji-black-week-2026"
+   },
+   {
+    "code": "newsletter (code sent after signup)",
+    "value": "70 zł",
+    "scope": "one-time, all products, first purchase",
+    "min_basket_pln": 500,
+    "valid_until": null,
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://mmtsklep.pl/kody-rabatowe-i-promocje"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "DPD kurier / DPD Pickup (prepaid)",
+    "cost_pln": 11
+   },
+   {
+    "method": "InPost Paczkomat / kurier (prepaid)",
+    "cost_pln": 15
+   },
+   {
+    "method": "Pobranie DPD or InPost",
+    "cost_pln": 15
+   },
+   {
+    "method": "Odbiór osobisty, salon MMT Bytom ul. Kędzierzyńska 17B (only if item in stock there; fee not stated)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 200,
+  "katowice_store_pickup": false,
+  "notes": "Shipping table: prepaid DPD 11 / InPost 15, COD 15/15, free above 200 zł. No Katowice store; nearest Sklep i outlet MMT Bytom (ul. Kędzierzyńska 17B, Mon-Fri 9-17), pickup only for items in stock there. BLACK20 does not stack with the newsletter code. Order dispatch within 48-72 working hours, longer during Black Week."
+ },
+ {
+  "shop": "Intersport",
+  "codes": [
+   {
+    "code": "BF20",
+    "value": "extra -20%",
+    "scope": "only products with a special label",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.intersport.pl/"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Odbiór w salonie Intersport",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat (from, via pepper.pl, date unclear)",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": 349,
+  "katowice_store_pickup": null,
+  "notes": "intersport.pl behind Cloudflare (403); BF20 and the 349 zł free-delivery threshold come from web-search snippets of intersport.pl pages; Paczkomat 'from 10.49 zł' and free store pickup from an earlier pepper.pl thread. End date, combinability and Katowice store not verified."
+ },
+ {
+  "shop": "8a.pl",
+  "codes": [
+   {
+    "code": "unknown (aggregators: 'do -35%', maybe CRAZY)",
+    "value": "up to -35%",
+    "scope": null,
+    "min_basket_pln": null,
+    "valid_until": "2026-11-30 (per mamyje.pl)",
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://mamyje.pl/kalendarz-promocji/black-friday"
+   },
+   {
+    "code": "newsletter",
+    "value": "50 zł",
+    "scope": "first purchase, new subscribers",
+    "min_basket_pln": 500,
+    "valid_until": null,
+    "needs_app_or_login": null,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://www.picodi.com/pl/8a-pl"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Kurier / punkty odbioru / odbiór osobisty (costs not retrieved, site behind Cloudflare)",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "katowice_store_pickup": null,
+  "notes": "8a.pl behind Cloudflare (403) for curl and WebFetch. BF code not confirmed from 8a.pl itself. Free delivery from 299 zł from a banner in a search snippet of 8a.pl FAQ. Delivery prices and Katowice store unknown."
+ },
+ {
+  "shop": "Decathlon",
+  "codes": [
+   {
+    "code": "APPDAYS",
+    "value": "up to -30%",
+    "scope": "selected items in the Decathlon app and stores",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-30 (from 2026-11-16)",
+    "needs_app_or_login": true,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.decathlon.pl/butiki/special-code"
+   },
+   {
+    "code": "APPY50",
+    "value": "50 zł",
+    "scope": "app only; Decathlon-sold items, not marketplace partners",
+    "min_basket_pln": null,
+    "valid_until": "2026-12-31",
+    "needs_app_or_login": true,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://contents.mediadecathlon.com/s1386328/k$c01f8e1588aaab4a9c1ca5ada8e5d5fe/defaut.pdf"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Click&Collect, sklep Decathlon Katowice (Decathlon-sold items)",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": null
+   },
+   {
+    "method": "Kurier (threshold 199.99 zł, cost not retrieved)",
+    "cost_pln": null
+   },
+   {
+    "method": "Marketplace seller own shipping",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": 199.99,
+  "katowice_store_pickup": true,
+  "notes": "decathlon.pl returns 403 to automated fetches; codes from web-search snippets of decathlon.pl pages and the APPY50 regulation PDF (text not machine-readable here). Aggregators say APPY50 may be new-users-only and has a minimum basket; unverified. Click&Collect free per decathlon.pl/dostarczamy.html snippet; courier threshold 199.99 zł; Paczkomat price not found. Decathlon has a Katowice store (decathlon.pl bike-shop Katowice landing page)."
+ },
+ {
+  "shop": "Martes Sport",
+  "codes": [
+   {
+    "code": "PREMIUM15",
+    "value": "-15%",
+    "scope": "products labelled PREMIUM",
+    "min_basket_pln": 100,
+    "valid_until": "2026-11-26T23:59+01:00 (from 2026-11-19)",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://sklepmartes.pl/regulamin-produkty-oznaczone-kodem"
+   },
+   {
+    "code": "MARTES20",
+    "value": "-20%",
+    "scope": "Martes brand products",
+    "min_basket_pln": 100,
+    "valid_until": "2026-11-22T23:59+01:00 (one day only)",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://sklepmartes.pl/regulamin-produkty-oznaczone-kodem"
+   },
+   {
+    "code": "SKI15",
+    "value": "-15%",
+    "scope": "skis and ski boots",
+    "min_basket_pln": 299,
+    "valid_until": "2026-11-22T23:59+01:00",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://sklepmartes.pl/regulamin-produkty-oznaczone-kodem"
+   },
+   {
+    "code": "KUPON -20% / -30% labels",
+    "value": "-20% / -30%",
+    "scope": "labelled products (e.g. Hi-Tec, O'Neill gaiters)",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": true,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://sklepmartes.pl/regulamin-ogolny-wykorzystywania-kodow-rabatowych-kuponow-promocyjnych-w-aplikacji-m-club"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie Martes (Katowice: Galeria Katowicka, Libero, Silesia City Center) via GLS",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automaty 24/7 i punkty",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier InPost",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Kurier DPD pobranie",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Kurier DHL pobranie",
+    "cost_pln": 19.99
+   }
+  ],
+  "free_delivery_threshold_pln": 199.99,
+  "katowice_store_pickup": true,
+  "notes": "Store pickup 5.99 zł, free from 199.99 zł (149.99 zł in app); 'free' threshold quoted only for store pickup. Katowice pickup stores: Galeria Katowicka (3 Maja 30), Galeria Libero (Kościuszki 229), Silesia City Center (Chorzowska 107). KUPON labels assumed to be M-Club app coupons (not verified). Viking 1048 Regular is already reduced to 19.99 without a code."
+ },
+ {
+  "shop": "CentrumRowerowe",
+  "codes": [
+   {
+    "code": null,
+    "value": "Black Weeks automatic price cuts on selected items",
+    "scope": "items with 'Black Weeks' badge",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": false,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.centrumrowerowe.pl/okazje/black-weeks/"
+   },
+   {
+    "code": "loyalty points",
+    "value": "500 points = 10 zł (1 pt per 1 zł)",
+    "scope": "next purchase",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": true,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.centrumrowerowe.pl/regulamin-programu-lojalnosciowego/"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 0
+   },
+   {
+    "method": "DPD Pickup / Żabka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 0
+   },
+   {
+    "method": "Kurier",
+    "cost_pln": 0
+   },
+   {
+    "method": "Odbiór w salonie CR (nearest Zabrze; no Katowice store)",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "katowice_store_pickup": false,
+  "notes": "Black Weeks started 3.11.2026; no sitewide code found; end date not stated. All delivery methods free for these items (product page: 'Dostawa jest GRATIS'). Stores: Bydgoszcz, Gdańsk, Kraków, Poznań, Rzeszów, Warszawa, Wrocław, Zabrze (nearest)."
+ },
+ {
+  "shop": "Alpinsport",
+  "codes": [
+   {
+    "code": null,
+    "value": "5% one-time",
+    "scope": "newsletter signup discount (not a BF code)",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": "newsletter signup",
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.alpinsport.pl/"
+   },
+   {
+    "code": null,
+    "value": "price drop on LOWA Renegade 2026",
+    "scope": "'Renegade 2026 - z kodem taniej' - LOWA Renegade boots only, selected sizes (code itself not read; page not opened - irrelevant for gaiters/gloves)",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.alpinsport.pl/promocje/renegade-2026-z-kodem-taniej"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD courier (prepaid)",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD (InPost/DPD)",
+    "cost_pln": 17.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "katowice_store_pickup": false,
+  "notes": "No Black Week/Black Friday code or sitewide sale found on homepage, /promocje or web search (21.11 late evening). Prices on pages show 'Regular Price' strike-through but no Omnibus 30-day figure. HQ/warehouse at ul. Rybnicka 20, 43-190 Mikolow (next to Katowice): opening hours Mon-Thu 8:30-16, Fri 8:30-14, 'call first, mainly LOWA boots and Osprey packs' - it is not listed as an order pickup point. Retail stores are in Zakopane. Source: https://www.alpinsport.pl/koszt-dostawy, https://www.alpinsport.pl/nasze-sklepy"
+ },
+ {
+  "shop": "Hardloop",
+  "codes": [
+   {
+    "code": "BF5",
+    "value": "-5% extra",
+    "scope": "items labelled 'BF5' (most outdoor items incl. already-reduced ones carry the label); requires at least 2 eligible products in the basket",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-30 23:59 Paris time (CET)",
+    "needs_app_or_login": false,
+    "combinable": false,
+    "applies_to_reduced": true,
+    "source_url": "https://faq.hardloop.com/hc/pl/articles/360018946540"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "DPD Pickup point (1100 points in PL)",
+    "cost_pln": 25.0
+   },
+   {
+    "method": "DPD courier to home/work",
+    "cost_pln": 35.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "katowice_store_pickup": false,
+  "notes": "French e-shop (hardloop.pl). BF5 FAQ: 'not combinable with other ongoing promotions'; if a return leaves only 1 eligible item the 5% is lost. Black Week markdowns 'do -60%' on /outlet/7896-odziez-sprzet-promocja (slider dated 19.11-06.12.2026). No Omnibus 30-day price shown on product pages. 100-day free returns. Delivery FAQ: https://faq.hardloop.com/hc/pl/articles/360024387691 (updated 2026-11-21)."
+ },
+ {
+  "shop": "Bergfreunde",
+  "codes": [
+   {
+    "code": null,
+    "value": "automatic markdowns, mostly -20% on neck gaiters, up to -45% on house brands (Stoic/Heber Peak/Bergfreunde)",
+    "scope": "'Black Outdoor Deals' selected products, price already reduced on page",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-30 23:59 (each sub-promotion ends then)",
+    "needs_app_or_login": false,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.bergfreunde.eu/black-outdoor-days-info/"
+   },
+   {
+    "code": "(issued on account creation)",
+    "value": "EUR 5 (~22.29 zl)",
+    "scope": "welcome voucher for creating a customer account; not valid on books/maps, food, vouchers",
+    "min_basket_pln": 178.33,
+    "valid_until": null,
+    "needs_app_or_login": "account creation",
+    "combinable": false,
+    "applies_to_reduced": null,
+    "source_url": "https://www.bergfreunde.eu/"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Standard shipping DE->PL (carrier not named on page)",
+    "cost_pln": 26.53
+   }
+  ],
+  "free_delivery_threshold_pln": 307.62,
+  "katowice_store_pickup": false,
+  "notes": "bergfreunde.pl 301-redirects to bergfreunde.eu (English, EUR). Shipping to Poland EUR 5.95, free from EUR 69 (table cell spans NL/BE/IT/IE, DK/FI/PL/LU, PT). PLN figures use ECB 2026-11-20 rate 4.4583. Prices are shown incl. 19% German VAT; whether checkout re-prices at 23% PL VAT was not verified. 100-day returns. Source: https://www.bergfreunde.eu/delivery-and-payment/"
+ },
+ {
+  "shop": "Natural Born Runners",
+  "codes": [],
+  "delivery": [
+   {
+    "method": "Paczkomat InPost (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD (prepaid)",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat COD",
+    "cost_pln": 14.99
+   },
+   {
+    "method": "Kurier DPD COD",
+    "cost_pln": 16.99
+   },
+   {
+    "method": "Paczkomat weekend delivery (prepaid)",
+    "cost_pln": 17.98
+   },
+   {
+    "method": "Odbior osobisty Poznan, ul. Sokola 22",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 250.0,
+  "katowice_store_pickup": false,
+  "notes": "Domain is natural-born-runners.pl (naturalbornrunners.pl does not resolve). 'Black Deals' = markdown category (~41 pages x 24), no code or end date found on site; no neck gaiters discounted there. Free delivery from 250 zl applies to prepaid DPD/Paczkomat, not COD or weekend parcels (weekend 4.99 above 250). Store only in Poznan. Source: https://natural-born-runners.pl/WYSYLKA-cinfo-pol-14.html"
+ },
+ {
+  "shop": "Bikestacja",
+  "codes": [
+   {
+    "code": "BLACKWEEK10X",
+    "value": "-10%",
+    "scope": "'na wszystkie produkty' (all products) per Black Week 2026 homepage banner",
+    "min_basket_pln": null,
+    "valid_until": "2026-11-27 (banner: 20.11.2026 - 27.11.2026; time not stated)",
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.bikestacja.pl/images/Bikestacja_BlackWeek_FINAL_fonty_loga_oryginalne_6912x3456.jpg"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Kurier GLS - odbior w punkcie (pickup point)",
+    "cost_pln": 11.9
+   },
+   {
+    "method": "ORLEN Paczka",
+    "cost_pln": 15.99
+   },
+   {
+    "method": "Kurier GLS (home)",
+    "cost_pln": 20.0
+   },
+   {
+    "method": "Kurier GLS COD",
+    "cost_pln": 21.0
+   },
+   {
+    "method": "Odbior osobisty Boleslawiec",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "notes": "Bike shop (Cube dealer) in Boleslawiec, ul. Garncarska 8. Code conditions exist only as banner image text; no promo regulamin found, so combinability/exclusions unknown. Only neck gaiter found (GripGrab Freedom seamless komin) is 'Niedostepny' - no orderable baf. No free-shipping threshold found. Regulamin lists older carrier prices (InPost 15, DPD 14, GLS 15) - the live price list (cennik-wysylek-pm-29, product page) shows GLS point 11.90 / ORLEN 15.99. Source: https://www.bikestacja.pl/cennik-wysylek-pm-29.html"
+ },
+ {
+  "shop": "Amazon.pl (extra, not in shop list)",
+  "codes": [
+   {
+    "code": null,
+    "value": "Automatic 'Okazja Black Friday' prices per ASIN",
+    "scope": "Marked listings only; Omnibus 'Najnizsza cena z 30 dni przed obnizka' shown",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": false,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://www.amazon.pl/dp/B0BR5N66D5"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "Standard delivery, items sold by Amazon (shown as DARMOWA)",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "katowice_store_pickup": false,
+  "notes": "BUFF items sold and shipped by Amazon showed free delivery (program 'cfs') with delivery Mon 23.11. Exact free-delivery threshold not verified. Third-party items (e.g. Danish Endurance) show free delivery only on the first order."
+ },
+ {
+  "shop": "Brubeck (brubeck.pl, extra)",
+  "codes": [
+   {
+    "code": "Newsletter",
+    "value": "-10% on first order",
+    "scope": "first order",
+    "min_basket_pln": null,
+    "valid_until": null,
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": null,
+    "source_url": "https://brubeck.pl/"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 13.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 13.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 18.99
+   }
+  ],
+  "free_delivery_threshold_pln": 300,
+  "katowice_store_pickup": null,
+  "notes": "No Black Week banner in static HTML on 21.11; some colours on sale."
+ },
+ {
+  "shop": "Sportbazar (extra)",
+  "codes": [
+   {
+    "code": "Newsletter",
+    "value": "-10%",
+    "scope": "Non-reduced products only",
+    "min_basket_pln": 200,
+    "valid_until": null,
+    "needs_app_or_login": null,
+    "combinable": null,
+    "applies_to_reduced": false,
+    "source_url": "https://www.sportbazar.pl/"
+   }
+  ],
+  "delivery": [
+   {
+    "method": "DHL Punkt",
+    "cost_pln": 9.9
+   },
+   {
+    "method": "InPost Paczkomat",
+    "cost_pln": 12.9
+   },
+   {
+    "method": "Courier",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "Courier COD",
+    "cost_pln": 18.0
+   }
+  ],
+  "free_delivery_threshold_pln": 199,
+  "katowice_store_pickup": false,
+  "notes": "No Black Week code seen on homepage/product page on 21.11. Free pickup only in Miszewko store (Pomerania)."
+ }
+]

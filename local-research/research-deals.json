@@ -1,0 +1,1088 @@
+[
+ {
+  "title": "Philips Airfryer XXL Connected HD9285/90 (7.2 l, Wi-Fi)",
+  "category": "Дом и техника",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_frytkownica-beztluszczowa-air-fryer-philips-hd928590-czarny-1507945.html",
+  "price_pln": 299.0,
+  "lowest_30d_pln": 899.0,
+  "discount_vs_30d_pct": 66.7,
+  "crossed_out_pln": 899.0,
+  "code": null,
+  "code_conditions": "No code. Same price in the MediaMarkt app.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "next cheapest shop on Skapiec (name not shown)",
+    "price_pln": 672.82
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 699.95
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 754.79
+   }
+  ],
+  "rating": 4.5,
+  "rating_count": 544,
+  "checked_at": "2026-11-21T23:57:00+01:00",
+  "confidence": "high",
+  "why_good": "The shop page prints -66% against its 30-day lowest of 899. The other 11 offers on Skapiec start at 672.82, so it is about 55% below the market too. MediaMarkt lists it among its own Black Friday top offers.",
+  "caveats": "The page says the price excludes delivery; pickup in a MediaMarkt store (Katowice has several) avoids that cost. No end date is shown. The buyer already owns a Ninja AF180, so this only makes sense as a gift or a second unit."
+ },
+ {
+  "title": "JLab JBuds Lux ANC over-ear headphones, Cloud White",
+  "category": "Электроника",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1273543",
+  "price_pln": 149.0,
+  "lowest_30d_pln": 399.99,
+  "discount_vs_30d_pct": 62.7,
+  "crossed_out_pln": 399.99,
+  "code": "black-weeks63",
+  "code_conditions": "Maximum 1 unit. Valid to 13.12.2026 or until the pool runs out.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": "2026-12-13",
+  "other_shop_prices": [
+   {
+    "shop": "MediaMarkt (graphite, green)",
+    "price_pln": 229.0
+   },
+   {
+    "shop": "x-kom / MediaMarkt (graphite, purple)",
+    "price_pln": 239.99
+   }
+  ],
+  "rating": 4.33,
+  "rating_count": 15,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "high",
+  "why_good": "The 30-day lowest printed on the page is 399.99. The other colours sell for 229–240 elsewhere, so the white one at 149 is about 35% below the market.",
+  "caveats": "Only the white colour is at 149. The code price is already shown as x-kom's 30-day low, so it has been running for some days. These are mid-range ANC headphones; the buyer already owns Sony WH-1000XM6."
+ },
+ {
+  "title": "SilverCrest SEMST 1500 A1 ekspres kolbowy z wbudowanym młynkiem (smart, 1500 W)",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy, katalog od 23.11; lidl.pl)",
+  "url": "https://www.lidl.pl/p/silvercrest-ekspres-kolbowy-z-wbudowanym-mlynkiem-smart-1500-w-semst-1500-a1/p100395742",
+  "price_pln": 599,
+  "lowest_30d_pln": 1499,
+  "discount_vs_30d_pct": 60.0,
+  "crossed_out_pln": 1499,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-28 (od pon. 23.11, do wyczerpania)",
+  "other_shop_prices": [
+   {
+    "shop": "lowest other shop per Pepper nextBestPrice (aggregator-only)",
+    "price_pln": 834
+   },
+   {
+    "shop": "Allegro (Pepper user comment, unverified)",
+    "price_pln": 888
+   }
+  ],
+  "rating": 4.2,
+  "rating_count": 50,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "high",
+  "why_good": "60% below the 30-day lowest; also ~28% below the next cheapest seller (834). Lowest price this model has had in PL (March 2026 promo was 999).",
+  "caveats": "In-store from Monday 23.11 while stock lasts; online price on lidl.pl was still 1499 at check time (online promo valid to 22.11), 599 online not confirmed. 15 bar pump only (review site calls it modest). Confidence note: price + Omnibus from Lidl's own leaflet p.14; lidl.pl shows 1499 since 23.10, so 30-day lowest 1499 is consistent"
+ },
+ {
+  "title": "Keen Headout Mid WP 1028306 (men's, green) waterproof hiking boots",
+  "category": "Одежда и обувь",
+  "shop": "eobuwie.com.pl",
+  "url": "https://www.eobuwie.com.pl/p/trekkingi-keen-headout-mid-wp-1028306-zielony-0000304757822",
+  "price_pln": 273.99,
+  "lowest_30d_pln": 549.99,
+  "discount_vs_30d_pct": 50.2,
+  "crossed_out_pln": 549.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "military.eu (EUR 91.79, about 390 zł; WebSearch snippet)",
+    "price_pln": 390.0
+   }
+  ],
+  "rating": 4.6,
+  "rating_count": 51,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "high",
+  "why_good": "Page shows 'Najniższa cena z 30 dni przed obniżką: 549,99 zł', so this is a real -50%. Leather waterproof mid boot, 4.6/5 from 51 reviews.",
+  "caveats": "'HOT DEAL' price with no printed end date; the BLACK DEALS wave ends 22.11 22:59 and prices may change after it. The page says the boot runs small, so take a size up. Sizes are flagged 'Ostatnie sztuki'. One recent review complains about a wrong colour being shipped. Free delivery from 199 zł for non-club buyers; 14-day returns."
+ },
+ {
+  "title": "Columbia Peakfreak II Mid OutDry 2100691 (men's, grey) hiking boots",
+  "category": "Одежда и обувь",
+  "shop": "eobuwie.com.pl",
+  "url": "https://www.eobuwie.com.pl/p/trekkingi-columbia-peakfreak-ii-mid-outdry-2100691-szary-0000303978044",
+  "price_pln": 313.99,
+  "lowest_30d_pln": 629.99,
+  "discount_vs_30d_pct": 50.2,
+  "crossed_out_pln": 629.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "Ceneo range for Peakfreak II Mid OutDry (WebSearch snippet, aggregator-only)",
+    "price_pln": 333.49
+   }
+  ],
+  "rating": 4.4,
+  "rating_count": 10,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "high",
+  "why_good": "-50% against the printed 30-day lowest of 629.99 zł; also below the 333-382 zł Ceneo range the search returned.",
+  "caveats": "Sizes 40-47 are listed but marked 'Ostatnie sztuki'; the HTML does not show stock per size. One review says the boot is not fully waterproof. The price is a HOT DEAL with no end date."
+ },
+ {
+  "title": "eufy Omni E28 robot vacuum/mop with auto-empty station",
+  "category": "Дом и техника",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1340955",
+  "price_pln": 2099.0,
+  "lowest_30d_pln": 4199.0,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 4199.0,
+  "code": "black-weeks5",
+  "code_conditions": "Enter the code in the basket. Maximum 3 units per order. Valid to 23.11.2026 or until the pool runs out.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": "2026-11-23",
+  "other_shop_prices": [
+   {
+    "shop": "two shops on Skapiec",
+    "price_pln": 2499.0
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 2523.99
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 3141.7
+   }
+  ],
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:53:00+01:00",
+  "confidence": "high",
+  "why_good": "x-kom prints a 30-day lowest of 4199 before the cut; with the code it is 2099. It is also the cheapest of 14 offers on Skapiec, 400 zł under the next shop.",
+  "caveats": "The code ends on Monday 23.11. x-kom shows 2099 as its 'lowest in the last 30 days', so the code price has run for a while. Free delivery is to an x-kom store; courier delivery is from 17.99. There are no reviews on x-kom. The buyer already owns a Dreame L50 Ultra."
+ },
+ {
+  "title": "SteelSeries Apex Pro Mini Wireless keyboard (OmniPoint 2.0, 60%)",
+  "category": "Электроника",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1051296",
+  "price_pln": 599.0,
+  "lowest_30d_pln": 1199.0,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 1199.0,
+  "code": "steelseries-bf1",
+  "code_conditions": "Maximum 1 unit. Valid to 07.12.2026 or until the pool runs out.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": "2026-12-07",
+  "other_shop_prices": [
+   {
+    "shop": "two shops on Skapiec",
+    "price_pln": 699.0
+   },
+   {
+    "shop": "Skapiec highest",
+    "price_pln": 735.0
+   },
+   {
+    "shop": "Amazon.pl (German layout)",
+    "price_pln": 832.63
+   }
+  ],
+  "rating": 4.7,
+  "rating_count": 50,
+  "checked_at": "2026-11-21T23:52:00+01:00",
+  "confidence": "high",
+  "why_good": "The page prints a 30-day lowest of 1199 before the cut and 599 with the code. Other shops ask 699–735, so it is about 14% below the market. Skapiec's previous low was 1048.93.",
+  "caveats": "The discount against the market is much smaller than the -50% headline. The layout is US ANSI. x-kom Outlet sells one for 521."
+ },
+ {
+  "title": "Columbia Powder Lite women's jacket 1699071 (pink)",
+  "category": "Одежда и обувь",
+  "shop": "modivo.pl",
+  "url": "https://modivo.pl/p/columbia-kurtka-przejsciowa-powder-lite-1699071-rozowy-active-fit-0000300325032",
+  "price_pln": 324.99,
+  "lowest_30d_pln": 649.99,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 649.99,
+  "code": "DEALS2026",
+  "code_conditions": "Extra -10% when buying at least 2 items (the second item need not be in the promo): 292.49 zł, -55% against the 30-day lowest. Valid until 22.11.2026 22:59.",
+  "delivery_cost_pln": null,
+  "valid_until": "2026-11-22T22:59:00+01:00",
+  "other_shop_prices": [],
+  "rating": 4.8,
+  "rating_count": 27,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "high",
+  "why_good": "Well-known synthetic-insulated jacket at -50% against the printed 30-day lowest, -55% with the 2-item code; 4.8/5 from 27 reviews.",
+  "caveats": "Pink only, sizes 34-42. Modivo shows delivery terms only after a size is picked, because some sizes ship from partners. The code needs a second item in the basket."
+ },
+ {
+  "title": "Philips Seria 2200 EP2223/40 ekspres automatyczny",
+  "category": "Дом и техника",
+  "shop": "Biedronka Home (online)",
+  "url": "https://home.biedronka.pl/philips-ekspres-cisnieniowy-automatyczny-philips-ep2223%2f40-15-barow-1500-w-bialy-000000000000817964.html",
+  "price_pln": 949,
+  "lowest_30d_pln": 1699,
+  "discount_vs_30d_pct": 44.1,
+  "crossed_out_pln": 1699,
+  "code": "RABAT50",
+  "code_conditions": "logged-in Biedronka Home account; code -50 zł in cart; to 30.11.2026. Without code 999 (-41%).",
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-30",
+  "other_shop_prices": [
+   {
+    "shop": "next cheapest on Skapiec",
+    "price_pln": 1099
+   },
+   {
+    "shop": "other Skapiec offers",
+    "price_pln": 1156.2
+   },
+   {
+    "shop": "Skapiec offer (1028 reviews)",
+    "price_pln": 1176.73
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "high",
+  "why_good": "44% below the 30-day lowest with code; ~14% below the next shop.",
+  "caveats": "Price has been 999 since 31.10, so it is not a new BF drop; code needs an account (do not create one without the buyer). Buyer already gets a Philips EP1200 at Lidl, so this is only relevant if he wants an automatic with milk frother. Confidence note: for price/Omnibus/dates (shop product page: 'Najniższa cena z 30 dni przed obniżką 1.699', 'Cena obowiązuje 31.10-30.11.2026'); stock InStock per schema.org"
+ },
+ {
+  "title": "Ninja Foodi PossibleCooker MC1101EU 8w1, 6 l",
+  "category": "Дом и техника",
+  "shop": "Biedronka Home (online)",
+  "url": "https://home.biedronka.pl/ninja-wolnowar-ninja-foodi-possiblecooker-mc1101eu-6-l-1000-w-000000000000674076.html",
+  "price_pln": 399,
+  "lowest_30d_pln": 699,
+  "discount_vs_30d_pct": 42.9,
+  "crossed_out_pln": 699,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-12-31 (Cena obowiązuje 14.11-31.12.2026, 11 szt. left at check)",
+  "other_shop_prices": [
+   {
+    "shop": "Komputronik (temporarily unavailable)",
+    "price_pln": 449
+   },
+   {
+    "shop": "Coolshop (search snippet)",
+    "price_pln": 699
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "high",
+  "why_good": "43% below 30-day lowest; 50 zł below the only other PL listing and below its 2025 record low (499 per okazje.info.pl).",
+  "caveats": "Biedronka's 699 Omnibus is above the market; real saving vs market is ~11%. Low stock (11). Confidence note: shop page Omnibus 699, Komputronik page checked"
+ },
+ {
+  "title": "Philips Series 5400 LatteGo EP5441/50 automatic espresso machine",
+  "category": "Дом и техника",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_ekspres-cisnieniowy-philips-series-5400-lattego-ep544150-1429770.html",
+  "price_pln": 1599.0,
+  "lowest_30d_pln": 2599.0,
+  "discount_vs_30d_pct": 38.5,
+  "crossed_out_pln": 2599.0,
+  "code": null,
+  "code_conditions": "No code. Same price in the app.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "another shop on Skapiec",
+    "price_pln": 1599.0
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 1772.2
+   },
+   {
+    "shop": "Skapiec offer",
+    "price_pln": 2078.96
+   }
+  ],
+  "rating": 4.6,
+  "rating_count": 3124,
+  "checked_at": "2026-11-21T23:57:00+01:00",
+  "confidence": "high",
+  "why_good": "It is 38.5% below the printed 30-day lowest, delivery is free, and 3124 reviews average 4.6. It ties for the cheapest of 34 offers on Skapiec.",
+  "caveats": "This is in the 25–40% band, not 40%+. Another shop matches the price. The buyer is already getting a Philips EP1200 at Lidl, so this is only worth it as a step up to a milk system."
+ },
+ {
+  "title": "Apple Mac mini M6 16 GB / 256 GB (MHQK4ZE/A), the same configuration the buyer has",
+  "category": "Электроника",
+  "shop": "Lantre (Apple Premium Reseller)",
+  "url": "https://lantre.pl/apple-mac-mini-m6-16-gb-256-gb-12-core-cpu-12-core-gpu-gigabit-ethernet-srebrny-silver-mhqk4ze-a.html",
+  "price_pln": 3799.0,
+  "lowest_30d_pln": null,
+  "discount_vs_30d_pct": null,
+  "crossed_out_pln": 4499.0,
+  "code": null,
+  "code_conditions": "A 'Lantre Hot Deal' with a countdown on the page. No code needed.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "x-kom",
+    "price_pln": 3949.0
+   },
+   {
+    "shop": "Media Expert",
+    "price_pln": 3949.0
+   },
+   {
+    "shop": "Amazon.pl",
+    "price_pln": 3949.0
+   },
+   {
+    "shop": "Allegro",
+    "price_pln": 3941.19
+   },
+   {
+    "shop": "MediaMarkt",
+    "price_pln": 3999.0
+   },
+   {
+    "shop": "RTV Euro AGD",
+    "price_pln": 3999.0
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:46:00+01:00",
+  "confidence": "high",
+  "why_good": "Same product as the buyer's x-kom order at 3949; Lantre is 150 zł cheaper and the cheapest of 14 shops on Ceneo. It is in stock, with delivery from 24.11.",
+  "caveats": "This is not a 40% deal; it is the 'better price for the exact same product' case. Lantre shows the manufacturer's price of 4499, not a 30-day lowest. If the x-kom order can still be cancelled or returned within 14 days, switching saves 150 zł. Delivery cost was not checked."
+ },
+ {
+  "title": "Guerlain Aqua Allegoria Pamplelune EDT 125 ml",
+  "category": "Красота и уход",
+  "shop": "Empik",
+  "url": "https://www.empik.com/guerlain-aqua-allegoria-pamplelune-woda-toaletowa-125-ml-guerlain,p1053981603,perfumy-p",
+  "price_pln": 279.99,
+  "lowest_30d_pln": 949.99,
+  "discount_vs_30d_pct": 70.5,
+  "crossed_out_pln": 949.99,
+  "code": null,
+  "code_conditions": "Homepage tile marks it 'Taniej w apce' (cheaper in the app). The product page offer (Empik's own, offer index 0) also carries the 279.99 discount.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "notino.fr (EUR 119, about 505 zł; WebSearch snippet)",
+    "price_pln": 505.0
+   }
+  ],
+  "rating": 4.7,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "The deepest real cut found: -70% against Empik's 30-day lowest, and about 45% under the EU Notino price.",
+  "caveats": "Empik's 949.99 regular price is far above the market, so the honest saving is about 45% against other shops, not 70%. Price may be app-only at checkout. Ships within 24h. Delivery is free with Empik Premium; the standard fee was not read."
+ },
+ {
+  "title": "Tom Tailor ręcznik kąpielowy 100% bawełna / zestaw ręczników / koc",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 59,
+  "lowest_30d_pln": 199,
+  "discount_vs_30d_pct": 70.4,
+  "crossed_out_pln": 199,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "od czw. 26.11 do wyczerpania",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "Branded textiles at 61-70% below the 30-day lowest.",
+  "caveats": "Thursday 26.11 only while stock lasts; towel sizes not in leaflet text; the 199 'lowest' is Lidl's own reference for an item not normally stocked. Confidence note: Lidl leaflet p.30; prices: ręcznik 59 vs 199 (-70%), zestaw ręczników 49.99 vs 169 (-70%), koc 54 vs 139 (-61%"
+ },
+ {
+  "title": "Silver Monkey MagCharger 3-in-1 foldable travel charging station (black or white)",
+  "category": "Аксессуары",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1222059",
+  "price_pln": 99.0,
+  "lowest_30d_pln": 249.0,
+  "discount_vs_30d_pct": 60.2,
+  "crossed_out_pln": 249.0,
+  "code": "black-weeks3",
+  "code_conditions": "Maximum 3 units. Valid to 29.11.2026 or until the pool runs out. Also counts towards x-kom's 'cheapest item for 1 zł' accessory bundle.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": "2026-11-29",
+  "other_shop_prices": [],
+  "rating": 4.72,
+  "rating_count": 466,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "x-kom's own brand, rated well by 466 buyers, and 60% below the printed 30-day lowest.",
+  "caveats": "It is x-kom's private label, so there is no other shop to compare with; the 249 base price is x-kom's own number. It is a foldable 3-in-1 for phone, watch and earbuds, so check it is MagSafe/Qi2-compatible with an iPhone 17."
+ },
+ {
+  "title": "Mega Bloks dinosaur ride-on build set (25 pcs)",
+  "category": "Разное",
+  "shop": "Smyk",
+  "url": "https://www.smyk.com/",
+  "price_pln": 69.99,
+  "lowest_30d_pln": 159.99,
+  "discount_vs_30d_pct": 56.3,
+  "crossed_out_pln": 159.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "-56% against the printed 30-day lowest on the Smyk homepage.",
+  "caveats": "Read from the homepage tile; product URL and stock not opened. Not cross-checked."
+ },
+ {
+  "title": "Livarno nakładka na materac (topper)",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 79,
+  "lowest_30d_pln": 169,
+  "discount_vs_30d_pct": 53.3,
+  "crossed_out_pln": 169,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-28 (od 23.11)",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "53% below 30-day lowest; same page: all plush bedding -50%, Livarno nightstand 89 vs 299 (-70%).",
+  "caveats": "Size and thickness not in leaflet text ('sprawdź także inne rozmiary'). Confidence note: Lidl leaflet p.24"
+ },
+ {
+  "title": "Merrell Agility Peak 6 (men's, blue J00005008) trail running shoes",
+  "category": "Одежда и обувь",
+  "shop": "merrell.pl",
+  "url": "https://www.merrell.pl/agility-peak-6-blue-j00005008",
+  "price_pln": 329.0,
+  "lowest_30d_pln": 699.0,
+  "discount_vs_30d_pct": 52.9,
+  "crossed_out_pln": 699.0,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "8a.pl (Agility Peak 6 pigeon, with -5% code; WebSearch snippet)",
+    "price_pln": 413.24
+   },
+   {
+    "shop": "8a.pl (Agility Peak 6 black, with -10% code; WebSearch snippet)",
+    "price_pln": 561.59
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "Current 2026 trail model at 329 zł; 11 of 12 men's sizes (41-47) in stock; at least 20% below the cheapest other PL shop found.",
+  "caveats": "merrell.pl does not print a separate Omnibus number: the crossed 699 is the field the page labels 'Najniższa cena sprzed 30 dni przed wprowadzeniem obniżki'. Sale (Wyprzedaż) price with no end date. Other grey colourways are 309 zł but have few sizes left (J00005072 men's 3/11, J00005074 women's 5/10). Free InPost delivery from 300 zł, so this one ships free."
+ },
+ {
+  "title": "Merrell Agility Trail (men's, light brown J00003282 / white J00003286) trail shoes",
+  "category": "Одежда и обувь",
+  "shop": "merrell.pl",
+  "url": "https://www.merrell.pl/agility-trail-light-brown-j00003282",
+  "price_pln": 199.0,
+  "lowest_30d_pln": 419.0,
+  "discount_vs_30d_pct": 52.5,
+  "crossed_out_pln": 419.0,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 9.0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "Merrell trail runner (FloatPro foam) at under half its 30-day price; light brown has 12 of 16 size variants in stock (40-50).",
+  "caveats": "The 419 zł Omnibus is the crossed price the shop's template labels as the 30-day lowest; no separate number is printed. Not cross-checked on Ceneo (it serves a bot challenge). The black colour is still 419 zł, with -30% only via the FALL30 code. InPost costs 9 zł under 300 zł."
+ },
+ {
+  "title": "Azzaro Chrome EDT 100 ml",
+  "category": "Красота и уход",
+  "shop": "Empik",
+  "url": "https://www.empik.com/azzaro-chrome-woda-toaletowa-dla-mezczyzn-100-ml-azzaro,p1045735805,perfumy-p",
+  "price_pln": 139.99,
+  "lowest_30d_pln": 289.99,
+  "discount_vs_30d_pct": 51.7,
+  "crossed_out_pln": 289.99,
+  "code": null,
+  "code_conditions": "Homepage tile marks it 'Taniej w apce'.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 4.8,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "-52% against the 30-day lowest shown on Empik's homepage tile.",
+  "caveats": "Read from the homepage tile, not the product page. Not cross-checked. May be app-only."
+ },
+ {
+  "title": "Tom Ford Black Orchid EDP 50 ml",
+  "category": "Красота и уход",
+  "shop": "Empik",
+  "url": "https://www.empik.com/tom-ford-black-orchid-woda-perfumowana-50-ml-tom-ford,p1103344956,perfumy-p",
+  "price_pln": 359.99,
+  "lowest_30d_pln": 739.99,
+  "discount_vs_30d_pct": 51.4,
+  "crossed_out_pln": 739.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "Notino.pl (100 ml, WebSearch snippet)",
+    "price_pln": 765.0
+   },
+   {
+    "shop": "Alza.cz (50 ml, 2309 CZK, about 400 zł; WebSearch snippet)",
+    "price_pln": 400.0
+   }
+  ],
+  "rating": 4.5,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "-51% against Empik's 30-day lowest; about 10% below the cheapest 50 ml price found abroad.",
+  "caveats": "Against other shops the saving is modest. No PL 50 ml EDP price was found. Delivery fee not read."
+ },
+ {
+  "title": "HyperX Pulsefire Haste 2 Core Wireless mouse, black",
+  "category": "Электроника",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1311369",
+  "price_pln": 149.0,
+  "lowest_30d_pln": 299.0,
+  "discount_vs_30d_pct": 50.2,
+  "crossed_out_pln": 299.0,
+  "code": null,
+  "code_conditions": "No code needed. It also qualifies for the 'cheapest item for 1 zł' and 'mouse pad -50%' bundles.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 4.8,
+  "rating_count": 46,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "No code is needed: 149 against a printed 30-day lowest of 299, and it is rated 4.8 by 46 buyers.",
+  "caveats": "I could not compare other shops (Ceneo blocked me, Skapiec had no listing). The white/green version costs 50 zł more. Free delivery is to an x-kom store; courier from 10.99. No end date on the page; x-kom Black Weeks run to 29.11."
+ },
+ {
+  "title": "Parkside Performance akumulatorowa wiertarkowkrętarka w zestawie z 2 akumulatorami, ładowarką, bitami i torbą",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 149,
+  "lowest_30d_pln": 299,
+  "discount_vs_30d_pct": 50.2,
+  "crossed_out_pln": 299,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-28 (ding.pl: start pt. 27.11)",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "50% below 30-day lowest for a Performance-line drill kit with two batteries.",
+  "caveats": "Voltage (12 V per ding.pl) and battery Ah not confirmed; Friday stock usually sells out in the morning. Confidence note: Lidl leaflet p.1 and p.42; start day per ding.pl 27.11, leaflet text ambiguous"
+ },
+ {
+  "title": "Timberland 6 In Premium TB0A2P6WEJE1 (men's, burgundy) boots",
+  "category": "Одежда и обувь",
+  "shop": "eobuwie.com.pl",
+  "url": "https://www.eobuwie.com.pl/p/trapery-timberland-6-in-premium-tb0a2p6weje1-bordowy-0000304467110",
+  "price_pln": 498.99,
+  "lowest_30d_pln": 999.99,
+  "discount_vs_30d_pct": 50.1,
+  "crossed_out_pln": 999.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "Kaufland.pl marketplace, Premium 6-inch WP in other colours (WebSearch snippet)",
+    "price_pln": 928.25
+   }
+  ],
+  "rating": 3.7,
+  "rating_count": 6,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "Iconic waterproof 6-inch boot at half its 30-day lowest; other PL listings found sit around 900+ zł.",
+  "caveats": "Burgundy colourway only. The cross-check is a different colour code. 3.7/5 from 6 reviews: the two 1-star reviews are about service and cashback, not the boot. 'Ostatnie sztuki', sizes 40-47.5."
+ },
+ {
+  "title": "SilverCrest akumulatorowy odkurzacz cyklonowy z silnikiem bezszczotkowym (stacja szybkiego ładowania, LED, ssawki)",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy, katalog od 23.11)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 499,
+  "lowest_30d_pln": 999,
+  "discount_vs_30d_pct": 50.1,
+  "crossed_out_pln": 999,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-28 (od 23.11, do wyczerpania)",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "50% vs Omnibus 30-day lowest on a brushless stick vacuum with fast-charge dock; ding.pl lists the same 499 for 23.11.",
+  "caveats": "Lidl-only house brand, no market comparison possible; exact model/suction not verified. Same page: SilverCrest 2-in-1 vacuum with station 799 vs 1069 (-25%). Confidence note: Lidl leaflet p.19, price and 'najniższa cena z 30 dni przed obniżką' 999; model number not in leaflet text"
+ },
+ {
+  "title": "New Balance BB550VTG (beige) sneakers",
+  "category": "Одежда и обувь",
+  "shop": "eobuwie.com.pl",
+  "url": "https://www.eobuwie.com.pl/p/sneakersy-new-balance-bb550vtg-bezowy-0000304478963",
+  "price_pln": 324.99,
+  "lowest_30d_pln": 649.99,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 649.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 5.0,
+  "rating_count": 1,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "NB 550 at 325 zł against a printed 30-day lowest of 649.99 zł.",
+  "caveats": "Not cross-checked at other shops (Ceneo blocked). 'Ostatnie sztuki', sizes 38-47.5. The 649.99 regular price is at the top of the market range."
+ },
+ {
+  "title": "Quiksilver The Puffer Jckt EQYJK03981 (men's, navy) down jacket",
+  "category": "Одежда и обувь",
+  "shop": "modivo.pl",
+  "url": "https://modivo.pl/p/quiksilver-kurtka-puchowa-the-puffer-jckt-eqyjk03981-granatowy-regular-fit-0000303007324",
+  "price_pln": 359.99,
+  "lowest_30d_pln": 719.99,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 719.99,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "Branded puffer at -50% against the printed 30-day lowest.",
+  "caveats": "'Ostatnie sztuki' XS-XXL. Not cross-checked. Delivery terms show only after picking a size (partner stock possible)."
+ },
+ {
+  "title": "Giorgio Armani Acqua di Gio pour Homme EDT 100 ml",
+  "category": "Красота и уход",
+  "shop": "Empik",
+  "url": "https://www.empik.com/giorgio-armani-acqua-di-gio-pour-homme-woda-toaletowa-100-ml-giorgio-armani,p1045727693,perfumy-p",
+  "price_pln": 259.99,
+  "lowest_30d_pln": 519.99,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 519.99,
+  "code": null,
+  "code_conditions": "Homepage tile marks it 'Taniej w apce'.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 4.6,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "-50% against Empik's printed 30-day lowest.",
+  "caveats": "Not cross-checked. Empik's regular perfume prices run high, so check Notino or Douglas before buying. May be app-only."
+ },
+ {
+  "title": "SilverCrest frytkownica beztłuszczowa Air Fryer 3,6 l z książeczką przepisów",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 124.5,
+  "lowest_30d_pln": 249,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 249,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-28 (od 23.11)",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "50% below the 30-day lowest.",
+  "caveats": "Buyer already has a Ninja AF180; only useful as a gift. Small basket, house brand. Confidence note: Lidl leaflet p.13"
+ },
+ {
+  "title": "Remington: maszynka do strzyżenia (84,50 vs 169), suszarka z dyfuzorem (64,50 vs 129), suszarkolokówka (79 vs 159), trymer 59",
+  "category": "Красота и уход",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 84.5,
+  "lowest_30d_pln": 169,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": 169,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "od czw. 26.11 (leaflet p.3: 'wszystkie produkty Remington -50%')",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "All Remington items 50% below the 30-day lowest; clipper has cordless operation, self-sharpening ceramic blades.",
+  "caveats": "Models unknown, so market comparison not possible; Thursday stock. Confidence note: Lidl leaflet p.3, p.32-34; model numbers not in leaflet text"
+ },
+ {
+  "title": "Beyerdynamic DJ300 PRO X CLUB wired DJ headphones, black",
+  "category": "Электроника",
+  "shop": "x-kom",
+  "url": "https://www.x-kom.pl/p/1504831",
+  "price_pln": 399.0,
+  "lowest_30d_pln": 766.0,
+  "discount_vs_30d_pct": 47.9,
+  "crossed_out_pln": 766.0,
+  "code": "black-weeks87",
+  "code_conditions": "Maximum 1 unit. Valid to 15.01.2027 or until the pool runs out.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": "2027-01-15",
+  "other_shop_prices": [
+   {
+    "shop": "Morele (DJ 300 PRO X, non-Club listing)",
+    "price_pln": 572.85
+   }
+  ],
+  "rating": null,
+  "rating_count": 0,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "It is 48% below the printed 30-day lowest, and the next listing of the DJ300 PRO X is 573 at Morele.",
+  "caveats": "Delivery time is extended ('Zapytaj o termin'). Free delivery is to an x-kom store; courier from 10.99. There are no reviews on x-kom. These are wired, studio/DJ-style headphones."
+ },
+ {
+  "title": "Tefal Pure Tex DT9530E1 parownica do ubrań 1700 W",
+  "category": "Дом и техника",
+  "shop": "Biedronka Home (online)",
+  "url": "https://home.biedronka.pl/tefal-parownica-do-ubran-tefal-pure-tex-dt9530e1-1700-w-000000000000673783.html",
+  "price_pln": 259,
+  "lowest_30d_pln": 479,
+  "discount_vs_30d_pct": 45.9,
+  "crossed_out_pln": 479,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-30",
+  "other_shop_prices": [
+   {
+    "shop": "Amazon.pl (DEMO unit, via Skapiec)",
+    "price_pln": 275
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "medium",
+  "why_good": "46% below the 30-day lowest on a premium Tefal steamer.",
+  "caveats": "On this price since 31.10; only one other listing found (a demo unit at 275), so market saving is small. Confidence note: Omnibus on shop page; market check thin"
+ },
+ {
+  "title": "Hot Wheels City Mega Garaż Gigapętla playset",
+  "category": "Разное",
+  "shop": "Smyk",
+  "url": "https://www.smyk.com/pl/pl/p/hot-wheels-city-mega-garaz-gigapetla-zestaw-do-zabawy-i8032404",
+  "price_pln": 159.99,
+  "lowest_30d_pln": 289.0,
+  "discount_vs_30d_pct": 44.6,
+  "crossed_out_pln": 289.0,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": 5,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "Product page shows 'Najniższa cena z 30 dni przed obniżką: 289,00 zł', so this is a real -45%; a popular Christmas gift.",
+  "caveats": "The same 159.99 price was posted on Pepper in October 2026, so this is a repeat low, not a record. Delivery promised 25-26.11. Delivery fee not read."
+ },
+ {
+  "title": "Logitech Astro A10 headset (PC/PS5), black",
+  "category": "Электроника",
+  "shop": "MediaMarkt",
+  "url": "https://mediamarkt.pl/pl/product/_sluchawki-logitech-astro-a10-pcps5-czarny-1483101.html",
+  "price_pln": 129.0,
+  "lowest_30d_pln": 229.99,
+  "discount_vs_30d_pct": 43.9,
+  "crossed_out_pln": 229.99,
+  "code": null,
+  "code_conditions": "No code.",
+  "delivery_cost_pln": 0.0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 4.2,
+  "rating_count": 35,
+  "checked_at": "2026-11-21T23:57:00+01:00",
+  "confidence": "medium",
+  "why_good": "The page prints -43% against a 30-day lowest of 229.99, with free delivery.",
+  "caveats": "I could not compare other shops (Ceneo blocked me, Skapiec had no match). This is an entry-level wired gaming headset."
+ },
+ {
+  "title": "Alpinus Tarfala 35 L hiking backpack (green AI11152 / black AI18420)",
+  "category": "Разное",
+  "shop": "Empik",
+  "url": "https://www.empik.com/alpinus-plecak-turystyczny-tarfala-35-l-ai11152-zielony,p1481157942,sport-p",
+  "price_pln": 169.99,
+  "lowest_30d_pln": 299.0,
+  "discount_vs_30d_pct": 43.1,
+  "crossed_out_pln": 299.0,
+  "code": null,
+  "code_conditions": "Homepage tile marks it 'Taniej w apce'.",
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": 5.0,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "-43% against the 30-day lowest on the Empik tile.",
+  "caveats": "Read from the homepage tile only. Alpinus's own shop runs Black Weeks up to -40% until 1.12, so compare there."
+ },
+ {
+  "title": "Tommy Jeans men's down jacket DM0DM19786 (navy)",
+  "category": "Одежда и обувь",
+  "shop": "Answear",
+  "url": "https://answear.com/p/tommy-jeans-kurtka-puchowa-meska-granatowa-dm0dm19786-1205759",
+  "price_pln": 698.99,
+  "lowest_30d_pln": 1099.9,
+  "discount_vs_30d_pct": 36.4,
+  "crossed_out_pln": 1099.9,
+  "code": null,
+  "code_conditions": "25-40% band. The basket adds an automatic 'extra -5% w koszyku' on orders of at least 399 zł, giving about 664.04 zł (-39.6%).",
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "medium",
+  "why_good": "One of the biggest real discounts in Answear's Black Friday listing: most items there are 10-30% against the 30-day lowest.",
+  "caveats": "25-40% band, below the 40% bar. The extra percentage is per item (-5% or -10%) and is applied in the basket. Answear delivery is free from 280 zł."
+ },
+ {
+  "title": "Nutella krem 52% taniej z kuponem Lidl Plus (poniedziałek 23.11)",
+  "category": "Еда и продукты",
+  "shop": "Lidl (sklepy, Lidl Plus)",
+  "url": "https://www.pepper.pl/share-deal/1396120",
+  "price_pln": 9.12,
+  "lowest_30d_pln": 18.99,
+  "discount_vs_30d_pct": 52.0,
+  "crossed_out_pln": 18.99,
+  "code": "kupon Lidl Plus",
+  "code_conditions": "activate coupon in Lidl Plus app; Monday 23.11 only (00:01-23:59)",
+  "delivery_cost_pln": 0,
+  "valid_until": "2026-11-23",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "low",
+  "why_good": "52% off a staple with a one-day app coupon.",
+  "caveats": "Jar size unknown (likely 600 g at 18.99); coupon usually limited to 1-2 jars per account. Confidence note: aggregator-only; 18.99 is the 'cena wyjściowa' quoted by Pepper, not seen on Lidl's page; jar size not stated"
+ },
+ {
+  "title": "Russell Hobbs blender Mix & Go Steel 23475-56 ze stalowymi bidonami",
+  "category": "Дом и техника",
+  "shop": "Lidl (sklepy)",
+  "url": "https://www.lidl.pl/l/pl/gazetki/gazetka-23-11-katalog-kw48/ar/0",
+  "price_pln": 99,
+  "lowest_30d_pln": 198,
+  "discount_vs_30d_pct": 50.0,
+  "crossed_out_pln": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": 0,
+  "valid_until": "od sob. 28.11",
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "low",
+  "why_good": "Branded personal blender at half the 30-day lowest.",
+  "caveats": "Saturday 28.11 only; 198 derived from the -50% badge. Confidence note: Lidl leaflet p.53 shows 99 and -50%; the 30-day lowest figure is implied by -50%, not printed in the text layer"
+ },
+ {
+  "title": "Merrell Moab Speed 2 (men's, black J037525) hiking shoes",
+  "category": "Одежда и обувь",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/355375/buty-turystyczne-meskie-merrell-moab-speed-2-black",
+  "price_pln": 239.99,
+  "lowest_30d_pln": null,
+  "discount_vs_30d_pct": null,
+  "crossed_out_pln": 599.99,
+  "code": "BLACKDEALS",
+  "code_conditions": "The page's sales rule gives 239.99 with BLACKDEALS. Shelf price is 299.99, crossed 599.99.",
+  "delivery_cost_pln": 0,
+  "valid_until": null,
+  "other_shop_prices": [],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "low",
+  "why_good": "Cheap Vibram-soled hiker if the 30-day lowest really is 599.99.",
+  "caveats": "The 30-day lowest is not printed on the product page (the Omnibus field is filled by JS). In Sportano's Merrell listing, BLACKDEALS gave only 5-10% against the printed 30-day lowest, and one model (Promorph) is priced above its 30-day low. Treat the discount as unverified. Only 6 of 10 sizes are in stock. Free delivery from 299 zł, so this ships free only in a bigger order."
+ },
+ {
+  "title": "BUFF Merino Midweight neck gaiter",
+  "category": "Одежда и обувь",
+  "shop": "Amazon.pl",
+  "url": "https://www.pepper.pl/share-deal/1396386",
+  "price_pln": 71.43,
+  "lowest_30d_pln": null,
+  "discount_vs_30d_pct": null,
+  "crossed_out_pln": 99.0,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": null,
+  "other_shop_prices": [
+   {
+    "shop": "Amazon.pl black, earlier (okazje.info.pl snippet)",
+    "price_pln": 92.99
+   },
+   {
+    "shop": "OlimpiaSPORT (okazje.info.pl snippet)",
+    "price_pln": 99.99
+   },
+   {
+    "shop": "8a.pl melange cloud with -5% code",
+    "price_pln": 94.04
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:58:00+01:00",
+  "confidence": "low",
+  "why_good": "Relevant to the buyer's open merino-buff search: about 23-28% below the usual 92-110 zł.",
+  "caveats": "Aggregator-only: the price comes from Pepper and Amazon.pl is blocked for automated fetches, so the price, colour, 30-day lowest and stock are not verified. Not a 40% deal."
+ },
+ {
+  "title": "LEGO Botanicals 11505 Grzyby leśne (także 11501 Bukiet tulipanów) po 99,99 zł",
+  "category": "Разное",
+  "shop": "Carrefour",
+  "url": "https://www.pepper.pl/promocje/lego-11505-grzyby-lesne-lego-botanicals-11501-bukiet-tulipanow-i-lego-botanicals-11501-skrzydlokwiat-kazdy-zestaw-za-9999-zl-carrefour-1396070",
+  "price_pln": 99.99,
+  "lowest_30d_pln": null,
+  "discount_vs_30d_pct": null,
+  "crossed_out_pln": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery_cost_pln": null,
+  "valid_until": "unknown (Pepper post 21.11)",
+  "other_shop_prices": [
+   {
+    "shop": "Amazon.pl (cheapest, Skapiec) 11505",
+    "price_pln": 233.42
+   },
+   {
+    "shop": "Empik 11505",
+    "price_pln": 379.99
+   },
+   {
+    "shop": "Amazon.pl 11501 tulips (Skapiec)",
+    "price_pln": 139.99
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "low",
+  "why_good": "11505 at 99.99 is 57% below the cheapest other shop (233.42) - the biggest market gap in this scan; 11501 is 29% below market.",
+  "caveats": "Price, stores and stock unverified; likely in-store only and store-dependent; Omnibus 30-day lowest unknown, so the discount is reported vs market, not vs Omnibus. Confidence note: aggregator-only: carrefour.pl returns 403 to curl and WebFetch; Omnibus not seen"
+ },
+ {
+  "title": "Kawa ziarnista Melitta Originals Platinum 1 kg - 19,90 zł przy zakupie min. 2 szt. (lokalnie, Dąbrowa Górnicza)",
+  "category": "Еда и продукты",
+  "shop": "Biedronka (sklep w Dąbrowie Górniczej)",
+  "url": "https://www.pepper.pl/share-deal/1396533",
+  "price_pln": 19.9,
+  "lowest_30d_pln": null,
+  "discount_vs_30d_pct": null,
+  "crossed_out_pln": null,
+  "code": null,
+  "code_conditions": "extra -50% when buying at least 2 packs (local markdown)",
+  "delivery_cost_pln": 0,
+  "valid_until": "while stock lasts (posted 21.11)",
+  "other_shop_prices": [
+   {
+    "shop": "erli.pl (cheapest, Skapiec)",
+    "price_pln": 54.88
+   },
+   {
+    "shop": "ELECTRO.pl",
+    "price_pln": 57.49
+   },
+   {
+    "shop": "Neonet (search snippet, list price)",
+    "price_pln": 89.99
+   }
+  ],
+  "rating": null,
+  "rating_count": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "low",
+  "why_good": "64% below the cheapest online price for 1 kg beans; the store is ~15 km from Katowice.",
+  "caveats": "Local clearance in one Dąbrowa Górnicza store only; may be gone; Omnibus not available for local markdowns; check expiry date on the pack. Confidence note: aggregator-only Pepper local post, 600+ degrees; store address and shelf price not verified"
+ }
+]

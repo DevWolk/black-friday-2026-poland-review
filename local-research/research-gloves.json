@@ -1,0 +1,3395 @@
+[
+ {
+  "item": "gloves",
+  "title": "Rękawiczki zewnętrzne MT500 wodoodporne (Simond)",
+  "brand_model": "Simond MT500 waterproof overgloves",
+  "shop": "Decathlon",
+  "url": "https://www.decathlon.pl/p/rekawiczki-zewnetrzne-mt500-wodoodporne/346716/c382m8882209",
+  "price_pln": 59.99,
+  "regular_price_pln": 89.99,
+  "lowest_30d_pln": 89.99,
+  "bf_discount": true,
+  "bf_discount_note": "Search snippet shows 59.99 next to 'Najniższa cena w okresie 30 dni przed wprowadzeniem obniżki: 89,99 zł'; date of the snippet unknown, another snippet shows 89.99 as the current price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Click&Collect Decathlon Katowice",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 59.99,
+  "waterproof": "membrane:PU membrane 10 000 mm",
+  "insulation": "none (unlined shell overglove)",
+  "thickness_note": "shell to wear over a liner glove; not warm alone",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "S-M, L-XL exist (stock unknown)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Cheapest membrane glove at Decathlon, but it is a shell. For 0…10 °C it needs a liner (Simond MT500 merino liner 69.99 zł, 4.7/588 per snippet). Price unverified (Cloudflare)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe Van Rysel EDR Waterproof jesienne (= Mid-Season 900 Waterproof, model 347153)",
+  "brand_model": "Van Rysel EDR Waterproof / Mid-Season 900 Waterproof",
+  "shop": "Decathlon (app / stationary store)",
+  "url": "https://www.decathlon.pl/p/rekawiczki-rowerowe-van-rysel-edr-waterproof-jesienne/347153/c382m8803784",
+  "price_pln": 97.98,
+  "regular_price_pln": 139.95,
+  "lowest_30d_pln": 97.98,
+  "bf_discount": true,
+  "bf_discount_note": "APPDAYS −30% (139.95 → 97.98) shown on decathlon.pl gloves category per search-engine snippet 21.11. Omnibus 30-day low 97.98 is from the 20–21.11 check (not re-read): the code price equals the 30-day low, so it is the promo price of the whole APPDAYS window, not a new drop.",
+  "code": "APPDAYS",
+  "code_conditions": "Decathlon app and stationary stores only (snippet: '30% z kodem APPDAYS w aplikacji i sklepach stacjonarnych'); selected products; not marketplace. End date unclear: snippets show 16.11–22.11.2026, 16.11–30.11.2026, and a Pepper app-only deal ending 1.12.2026 22:59.",
+  "delivery": [
+   {
+    "method": "Click&Collect / buy in a Decathlon store in Katowice",
+    "cost_pln": 0
+   },
+   {
+    "method": "InPost Paczkomat / courier",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 97.98,
+  "waterproof": "membrane:Van Rysel 3-layer waterproof membrane (unnamed)",
+  "insulation": "light thermal lining",
+  "thickness_note": "mid-season road glove, thin-to-medium",
+  "temp_range": "5…15 °C (Decathlon)",
+  "rating": 4.3,
+  "rating_count": 340,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "decathlon.pl returns a Cloudflare 403 challenge to curl and WebFetch; price and code read from Google/WebSearch snippets of the category page, rating from the 20–21.11 check. Product page snippet shows base 139.99 (category 139.95). Sizes and stock NOT verified. Also on the Decathlon Allegro store at 139.95 without the code. Rated down to 5 °C: at 0…5 °C it is borderline."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki multifunkcyjne Salomon Bonatti WP deep black (LC2052000)",
+  "brand_model": "Salomon Bonatti WP Glove",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/464103/rekawiczki-multifunkcyjne-salomon-bonatti-wp-deep-black",
+  "price_pln": 110.49,
+  "regular_price_pln": 179.99,
+  "lowest_30d_pln": 116.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 129.99; BLACKDEALS -15% = 110.49, below 30-day lowest 116.99.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 119.48,
+  "waterproof": "membrane:Pertex Shield",
+  "insulation": "none (shell, 'podstawowa ochrona' termiczna)",
+  "thickness_note": "thin unlined running shell; Sportano spec says 'dwupalczaste' (possibly a data error, check photos); not warm alone at 0 C",
+  "temp_range": null,
+  "rating": 5,
+  "rating_count": 1,
+  "sizes_in_stock": [
+   "XL/XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only XL/XXL in stock. Good as a waterproof shell over a liner, not as a warm glove."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH DIVER X R-TEX XT TOUCH-TEC 62/05/232/7702",
+  "brand_model": "Reusch Diver X R-TEX XT Touch-Tec",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-diver-x-r-tex-r-xt-touch-tec-tm-62-05-232-7702-reusch",
+  "price_pln": 118.99,
+  "regular_price_pln": 169.99,
+  "lowest_30d_pln": 139.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 139.99 (Omnibus before that markdown: 169.99). With PREMIUM15 = 118.99; page states lowest 30-day price before the code discount = 139.99, so the code price is a new low.",
+  "code": "PREMIUM15",
+  "code_conditions": "Martes PREMIUM15: -15% on products labelled PREMIUM, 19.11-26.11.2026 23:59, order min 100 zł, enter code in cart, does not combine with other promotions.",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 124.98,
+  "waterproof": "membrane:R-TEX XT",
+  "insulation": "light MicroActive polyester lining, no insulation",
+  "thickness_note": "thin softshell multisport glove (91% PES/6% PU/3% EA), touchscreen fingertip",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "6",
+   "6.5",
+   "7",
+   "7.5",
+   "8",
+   "8.5",
+   "9",
+   "9.5",
+   "10",
+   "10.5"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Best thin-membrane fit in this scope. Store pickup 5.99 (Katowice Martes store not checked); GLS/DPD point 8.99 -> 127.98. No reviews on page. Intersport snippet shows it at 169.99."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe męskie Endura Strike bright yellow (E0157YV)",
+  "brand_model": "Endura Strike",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/712471/rekawiczki-rowerowe-meskie-endura-strike-bright-yellow",
+  "price_pln": 132.99,
+  "regular_price_pln": 199.99,
+  "lowest_30d_pln": 139.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 139.99 (crossed-out 199.99, but the 30-day lowest in page data is also 139.99, so the shelf cut is not new). BLACKDEALS adds -5% -> 132.99, which is below the 30-day low: small but real.",
+  "code": "BLACKDEALS",
+  "code_conditions": "-5% on this item; enter in web cart; valid to 24.11.2026 23:59; does not combine with newsletter/APP codes",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / Orlen",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 141.98,
+  "waterproof": "membrane:Endura waterproof breathable, taped seams (per Endura and CentrumRowerowe; Sportano's own text mentions only DWR)",
+  "insulation": "fleece lining",
+  "thickness_note": "Mid-weight cycling glove",
+  "temp_range": null,
+  "rating": 4.7,
+  "rating_count": 16,
+  "sizes_in_stock": [
+   "S",
+   "XL"
+  ],
+  "checked_at": "2026-11-22T00:20:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Hi-viz yellow colourway. Rating is from CentrumRowerowe (no Sportano reviews). Sportano copy says 'nie gwarantuje pełnej wodoodporności' about the DWR; Endura and CentrumRowerowe describe an internal waterproof membrane with taped seams. Fork B had excluded this as DWR-only; re-checked here."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH THEO R-TEX XT 48/01/232/7015",
+  "brand_model": "Reusch Theo R-TEX XT",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-theo-r-tex-r-xt-48-01-232-7015-reusch",
+  "price_pln": 152.99,
+  "regular_price_pln": 379.99,
+  "lowest_30d_pln": 179.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 179.99 (Omnibus before markdown 230.00); PREMIUM15 = 152.99, below the 179.99 pre-code lowest.",
+  "code": "PREMIUM15",
+  "code_conditions": "Martes PREMIUM15: -15% on products labelled PREMIUM, 19.11-26.11.2026 23:59, order min 100 zł, enter code in cart, does not combine with other promotions.",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 158.98,
+  "waterproof": "membrane:R-TEX XT",
+  "insulation": "R-LOFT synthetic",
+  "thickness_note": "insulated softshell winter glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "10"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "'Ostatnie sztuki', only size 10 (large hand)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ENDURA Loop Waterproof",
+  "brand_model": "Endura Loop Waterproof",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-endura-loop-waterproof-pd57159/",
+  "price_pln": 169.99,
+  "regular_price_pln": 199.99,
+  "lowest_30d_pln": 199.99,
+  "bf_discount": true,
+  "bf_discount_note": "-15% vs Omnibus 199,99 zł on product page (no Black Weeks label on this item, but a real reduction against the 30-day low).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 169.99,
+  "waterproof": "membrane:unnamed Endura waterproof membrane",
+  "insulation": "light fill + wicking lining",
+  "thickness_note": "Transitional (spring/autumn) glove, light gel palm",
+  "temp_range": "0..12 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "New model, no reviews anywhere found. XL unavailable."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie CHIBA Dry Star",
+  "brand_model": "Chiba Dry Star",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-chiba-dry-star-pd27680/",
+  "price_pln": 197.99,
+  "regular_price_pln": 263.0,
+  "lowest_30d_pln": 219.99,
+  "bf_discount": true,
+  "bf_discount_note": "Black Weeks label; -10% vs Omnibus 219,99 zł.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 197.99,
+  "waterproof": "membrane:unnamed waterproof breathable",
+  "insulation": "PrimaLoft Gold Bio",
+  "thickness_note": "Winter glove, warmer than needed",
+  "temp_range": "below -2 °C, -4..4 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only XL/XXL."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie GOREWEAR Gore-Tex Insulated",
+  "brand_model": "GOREWEAR GORE-TEX Insulated Gloves",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-gorewear-gore-tex-insulated-pd57825/",
+  "price_pln": 199.99,
+  "regular_price_pln": 399.99,
+  "lowest_30d_pln": 399.99,
+  "bf_discount": true,
+  "bf_discount_note": "Black Weeks label; -50% vs 'Najniższa cena z 30 dni przed obniżką 399,99 zł' on product page. No code needed. Black Weeks runs from 3.11; end date not stated.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 199.99,
+  "waterproof": "membrane:Gore-Tex (ePE)",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "Insulated winter glove; Gore calls it its warmest five-finger waterproof glove; not thin",
+  "temp_range": "shop: 0..8 °C and 4..12 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "6",
+   "7",
+   "8",
+   "9",
+   "10",
+   "11"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Size 5 unavailable. Gore numeric sizes (7≈S, 8≈M, 9≈L); fit runs small per BikeRadar and Gore. BikeRadar 3.5/5: warm, palm absorbs water in heavy rain. No reviews on shop. Shop page says the GOREWEAR brand ceased operating in 2026 (gorewear.com now redirects to gore-tex.com), so this is clearance stock; manufacturer warranty may be gone, seller's statutory 2-year rękojmia still applies."
+ },
+ {
+  "item": "gloves",
+  "title": "Sealskinz Anmer Waterproof All Weather Ultra Grip Knitted Glove",
+  "brand_model": "Sealskinz Anmer – Waterproof All Weather Ultra Grip Knitted",
+  "shop": "Varuste.net (Finland, ships to PL)",
+  "url": "https://varuste.net/pl/p124396/sealskinz-anmer-waterproof-all-weather-ultra-grip-knitted-glove",
+  "price_pln": 171.78,
+  "regular_price_pln": 229.02,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "'Black Friday' price; EUR view shows 39.68 € vs 'Najniższa cena w ciągu 30 dni 42,32 €' (FI VAT) — below the 30-day low.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "UPS Standard pickup point",
+    "cost_pln": 34.89
+   },
+   {
+    "method": "UPS/FedEx courier",
+    "cost_pln": 39.31
+   }
+  ],
+  "free_delivery_threshold_pln": 883.4,
+  "cheapest_total_pln": 206.67,
+  "waterproof": "membrane:Aquasealz",
+  "insulation": "merino lining (84% merino)",
+  "thickness_note": "knitted, 134 g",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 12,
+  "sizes_in_stock": "S, M, L, XL selectable; 'Dostępność: Natychmiast'",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "PLN price read with delivery country PL (VAT 23%). Total ≈ Amazon's 208.48. Shop in Helsinki; returns from PL cost extra."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice Mammut Stoney Glove (black)",
+  "brand_model": "Mammut Stoney Glove (Dry Tour membrane, PrimaLoft)",
+  "shop": "MMT (mmtsklep.pl)",
+  "url": "https://mmtsklep.pl/rekawice-mammut-stoney-glove-black",
+  "price_pln": 200.0,
+  "regular_price_pln": 499.0,
+  "lowest_30d_pln": 250.0,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 499 -> 250 zł since ~22.10 (variant omnibus 250 zł, 2026-10-22); BLACK20 also applies to reduced items -> 200 zł, i.e. 20% below the 30-day low.",
+  "code": "BLACK20",
+  "code_conditions": "see MMT BLACK20",
+  "delivery": [
+   {
+    "method": "DPD kurier (prepaid), order 0-200 zł",
+    "cost_pln": 11.0
+   },
+   {
+    "method": "InPost Paczkomat (prepaid), order 0-200 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD/InPost, order > 200 zł",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "Odbiór osobisty w salonie MMT Bytom (Kędzierzyńska 17B, ~15 km from Katowice), if in stock there",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 200.0,
+  "cheapest_total_pln": 211.0,
+  "waterproof": "membrane:Mammut DRY Tour",
+  "insulation": "PrimaLoft",
+  "thickness_note": "Ski/winter glove with goat-leather reinforcement - NOT thin; too warm for 0..+10 °C cycling",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "11"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only size 11 online (2 pcs), 1 pc in Warsaw. Total uses 200 + 11 zł DPD because free delivery is \"powyżej 200 zł\"; 200 zł exactly may or may not qualify - 'powyżej 200 zł' only if MMT counts 200 as above; otherwise +11 zł DPD. Listed for completeness, poor fit for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ASSOS RSR Thermo Rain Shell",
+  "brand_model": "Assos RSR Thermo Rain Shell",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-assos-rsr-thermo-rain-shell-pd32064/",
+  "price_pln": 229.99,
+  "regular_price_pln": 350.0,
+  "lowest_30d_pln": 279.99,
+  "bf_discount": true,
+  "bf_discount_note": "-17% vs Omnibus 279,99 zł.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 229.99,
+  "waterproof": "membrane:Assos waterShield 2-layer",
+  "insulation": "light thermo lining",
+  "thickness_note": "Thin rain shell glove",
+  "temp_range": "8..15 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "XS",
+   "M",
+   "L"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Thin, but rated 8–15 °C: too cool near 0 °C without a liner."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Black Diamond Mission black",
+  "brand_model": "Black Diamond Mission (GTX)",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/477399/rekawiczki-trekkingowe-black-diamond-mission-black",
+  "price_pln": 224.99,
+  "regular_price_pln": 399.99,
+  "lowest_30d_pln": 233.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 249.99; BLACKDEALS -10% = 224.99, below 30-day lowest 233.99.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 233.98,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "thick winter mountain/ski glove; too warm and bulky for +5..+10 cycling",
+  "temp_range": null,
+  "rating": 5,
+  "rating_count": 3,
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only S in stock."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie GIRO 100 Proof",
+  "brand_model": "Giro 100 Proof",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-giro-100-proof-pd37554/",
+  "price_pln": 239.99,
+  "regular_price_pln": 439.9,
+  "lowest_30d_pln": 278.99,
+  "bf_discount": true,
+  "bf_discount_note": "-13% vs Omnibus 278,99 zł.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 239.99,
+  "waterproof": "membrane:unnamed",
+  "insulation": "deep-pile Polartec fleece",
+  "thickness_note": "Deep-winter, too warm/thick for the brief",
+  "temp_range": "below -2 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Out of brief (too warm)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice HELLY HANSEN ALL MOUNTAIN GLOVE 67461_990",
+  "brand_model": "Helly Hansen All Mountain Glove",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-all-mountain-glove-67461-990-helly-hansen",
+  "price_pln": 254.99,
+  "regular_price_pln": 349.99,
+  "lowest_30d_pln": 299.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 299.99; PREMIUM15 = 254.99, below pre-code lowest 299.99.",
+  "code": "PREMIUM15",
+  "code_conditions": "Martes PREMIUM15: -15% on products labelled PREMIUM, 19.11-26.11.2026 23:59, order min 100 zł, enter code in cart, does not combine with other promotions.",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 254.99,
+  "waterproof": "membrane:Helly Tech Professional",
+  "insulation": "insulated (ski)",
+  "thickness_note": "ski glove, thick",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Wrong type for city cycling."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH MORRIS GORE-TEX 62/01/375/7701",
+  "brand_model": "Reusch Morris GORE-TEX",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-morris-gore-tex-62-01-375-7701-reusch",
+  "price_pln": 271.99,
+  "regular_price_pln": 379.99,
+  "lowest_30d_pln": 319.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 319.99; PREMIUM15 = 271.99, below pre-code lowest 319.99.",
+  "code": "PREMIUM15",
+  "code_conditions": "Martes PREMIUM15: -15% on products labelled PREMIUM, 19.11-26.11.2026 23:59, order min 100 zł, enter code in cart, does not combine with other promotions.",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 271.99,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "TecFill",
+  "thickness_note": "ski glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "6.5",
+   "7",
+   "7.5",
+   "8",
+   "8.5",
+   "9",
+   "9.5",
+   "10",
+   "10.5",
+   "12"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Wrong type for city cycling."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ASSOS GT Rain",
+  "brand_model": "Assos GT Rain Gloves",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-assos-gt-rain-pd26935/",
+  "price_pln": 279.99,
+  "regular_price_pln": 355.0,
+  "lowest_30d_pln": 314.99,
+  "bf_discount": true,
+  "bf_discount_note": "-11% vs Omnibus 314,99 zł.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 279.99,
+  "waterproof": "membrane:Assos (rain glove)",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": 5.0,
+  "rating_count": 2,
+  "sizes_in_stock": [
+   "M-L",
+   "XL",
+   "XL-XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Expensive; membrane name not confirmed on page."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH JUPITER GORE-TEX 63/01/370/7700",
+  "brand_model": "Reusch Jupiter GORE-TEX",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-jupiter-gore-tex-63-01-370-7700-reusch",
+  "price_pln": 399.49,
+  "regular_price_pln": 569.99,
+  "lowest_30d_pln": 469.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 469.99; PREMIUM15 = 399.49, below pre-code lowest 469.99.",
+  "code": "PREMIUM15",
+  "code_conditions": "Martes PREMIUM15: -15% on products labelled PREMIUM, 19.11-26.11.2026 23:59, order min 100 zł, enter code in cart, does not combine with other promotions.",
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 399.49,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "very warm ski glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "7.5",
+   "8",
+   "8.5",
+   "9",
+   "9.5",
+   "10",
+   "10.5"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Wrong type; listed for completeness."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki Norrona Falketind Dri Short Gloves (caviar black)",
+  "brand_model": "Norrona Falketind Dri Short Gloves (dri1)",
+  "shop": "MMT (mmtsklep.pl)",
+  "url": "https://mmtsklep.pl/rekawiczki-norrona-falketind-dri-short-gloves-caviar-black",
+  "price_pln": 447.2,
+  "regular_price_pln": 559.0,
+  "lowest_30d_pln": null,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf price 559 zł (not reduced). BLACK20 = -20% on every product incl. reduced ones -> 447.20 zł. MMT page data has an omnibusPrice field = 509 zł dated 2026-09-02 (product level); no 30-day line is shown for an unreduced item, so the 30-day low is not confirmed.",
+  "code": "BLACK20",
+  "code_conditions": "-20%, 20.11 08:00 - 30.11.2026 23:59, all products and brands incl. already reduced, no minimum, not combinable with other codes/cards; enter at checkout, no app/login needed",
+  "delivery": [
+   {
+    "method": "DPD kurier (prepaid), order 0-200 zł",
+    "cost_pln": 11.0
+   },
+   {
+    "method": "InPost Paczkomat (prepaid), order 0-200 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "DPD/InPost, order > 200 zł",
+    "cost_pln": 0.0
+   },
+   {
+    "method": "Odbiór osobisty w salonie MMT Bytom (Kędzierzyńska 17B, ~15 km from Katowice), if in stock there",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 200.0,
+  "cheapest_total_pln": 447.2,
+  "waterproof": "membrane:Norrona dri1 (waterproof PU insert)",
+  "insulation": "brushed polyester lining 140 g/m², no separate fill",
+  "thickness_note": "Norrona calls it its thinnest waterproof glove; softshell flex1 back, Pittards sheep-leather palm",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Online stock XS 5, S 8, M 3, L 7, XL 4; every size also in MMT Bytom store (try on before buying). Product description text on MMT is copied from 'Trollveggen Dri1 Gloves' - same dri1 construction, but check the model name at pickup. Expensive; best-quality candidate in fork C scope."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice The North Face Summit Patrol GTX tnf black",
+  "brand_model": "The North Face Summit Patrol GTX",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/1063021/rekawice-the-north-face-summit-patrol-gtx-tnf-black-tnf-black",
+  "price_pln": 519.99,
+  "regular_price_pln": 649.99,
+  "lowest_30d_pln": 552.49,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 649.99; BLACKDEALS -20% = 519.99, below 30-day lowest 552.49.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 519.99,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "HeatSeeker synthetic",
+  "thickness_note": "thick ski glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "S",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Real discount, but wrong product type and price."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wodoszczelne / Salomon Bonatti WP Mitten U czarne",
+  "brand_model": "Salomon Bonatti WP Mitten (overmitt)",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/akcesoria/rekawiczki-wodoszczelne-do-biegania",
+  "price_pln": 149.99,
+  "regular_price_pln": 179.99,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Crossed-out price on category tile; Omnibus not checked.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": 250,
+  "cheapest_total_pln": 162.98,
+  "waterproof": "membrane:yes (shell mitten)",
+  "insulation": null,
+  "thickness_note": "Shell overmitt, not a glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page (listing tile only)",
+  "notes": "Not a glove; listed only as a near-miss."
+ },
+ {
+  "item": "gloves",
+  "title": "Hestra Czone Frost Primaloft 5 Finger",
+  "brand_model": "Hestra Czone Frost PrimaLoft 5-finger",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/hestra-czone-frost-primaloft-5-finger-gloves/",
+  "price_pln": 151.81,
+  "regular_price_pln": 276.04,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "€64.95 -> €35.72 (-45%), in Black Outdoor Deals; 30-day low not readable. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 177.1,
+  "waterproof": "membrane:Hestra CZone",
+  "insulation": "PrimaLoft",
+  "thickness_note": "Ski/snowboard glove - warmer and bulkier than wanted",
+  "temp_range": null,
+  "rating": 3.0,
+  "rating_count": 2,
+  "sizes_in_stock": [
+   "6-11 black/navy/ivory; orange 6,7,8,10"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML. Cheapest waterproof adult glove found in scope (~177 zł delivered) but reviews 1 and 5 stars; ski use."
+ },
+ {
+  "item": "gloves",
+  "title": "Sealskinz Acle WP Gloves",
+  "brand_model": "Sealskinz Acle WP (3-layer laminate)",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/sealskinz-acle-wp-gloves/",
+  "price_pln": 198.52,
+  "regular_price_pln": 233.54,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Navy only €54.95 -> €46.71 (-15%); black/olive at full €54.95 and out of stock. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 223.81,
+  "waterproof": "membrane:Sealskinz 3-layer laminate",
+  "insulation": "not stated (hardshell)",
+  "thickness_note": "Everyday/hillwalking hardshell glove, regular fit",
+  "temp_range": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "sizes_in_stock": [
+   "Navy: M, L"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML. Do not confuse with 'Acle Water Repellent Nano Fleece' (not waterproof)."
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab Waterproof Knitted Thermal Glove",
+  "brand_model": "GripGrab Waterproof Knitted Thermal Glove",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/gripgrab-waterproof-knitted-thermal-glove-gloves/",
+  "price_pln": 198.52,
+  "regular_price_pln": 233.54,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "€54.95 -> €46.71 (-15%); 30-day low not readable. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 223.81,
+  "waterproof": "membrane:waterproof membrane (GripGrab)",
+  "insulation": "thermal knit",
+  "thickness_note": "Knitted, fairly thin",
+  "temp_range": "0..+10 °C (shop spec)",
+  "rating": 3.9,
+  "rating_count": 9,
+  "sizes_in_stock": [
+   "XS/S",
+   "M/L",
+   "XL/XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML."
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab Waterproof Knitted Thermal Glove - Rękawiczki rowerowe",
+  "brand_model": "GripGrab Waterproof Knitted Thermal Glove",
+  "shop": "Hardloop (hardloop.pl)",
+  "url": "https://www.hardloop.pl/oferta/28489-grip-grab-waterproof-knitted-thermal-glove-rekawiczki-rowerowe",
+  "price_pln": 194.57,
+  "regular_price_pln": 249.0,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "Black Week price 194.57 zł vs 'cena pierwotna' 249 zł (-22%); Hardloop shows no Omnibus 30-day line, so the discount is not checkable. With BF5 (2 items) 184.84 zł. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": "BF5",
+  "code_conditions": "BF5: extra -5% when buying at least 2 products, no minimum value (product page text); Black Week up to -60%; deadline not stated on page",
+  "delivery": [
+   {
+    "method": "standard delivery to PL (fee not retrieved; FAQ page behind Cloudflare)",
+    "cost_pln": null
+   },
+   {
+    "method": "order >= 750 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:waterproof membrane (GripGrab, unnamed) in knitted 3-layer glove",
+  "insulation": "thermal knit",
+  "thickness_note": "Knitted, fairly thin, silicone palm grip",
+  "temp_range": "0..+10 °C (Bergfreunde spec)",
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS/S",
+   "M/L",
+   "XL/XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Delivery est. 27-28 Nov. Hi-Vis yellow version 226.32 zł. Delivery fee unknown, so total not computed; Bikestacja 188+11.90 is likely cheaper in total."
+ },
+ {
+  "item": "gloves",
+  "title": "GORE Wear C5 GORE-TEX Gloves",
+  "brand_model": "GORE Wear C5 GORE-TEX Gloves",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/gore-wear-c5-gore-tex-gloves-gloves/",
+  "price_pln": 244.63,
+  "regular_price_pln": 339.79,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "€79.95 -> €57.56 (-28%), listed in 'Black Outdoor Deals' (2-30.11.2026). Per terms the saving is vs the price before the promotion; 30-day low not readable. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 269.92,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "none/minimal (polyester inner)",
+  "thickness_note": "Thin road/gravel cycling glove, pre-shaped fingers, touchscreen, reflective",
+  "temp_range": null,
+  "rating": 4.2,
+  "rating_count": 5,
+  "sizes_in_stock": [
+   "7",
+   "8",
+   "9",
+   "10",
+   "11"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML. Total = €57.56 + €5.95 = €63.51 (~269.9 zł); a second item to pass €69 makes shipping free. Thin - may be cold at 0 °C without a liner."
+ },
+ {
+  "item": "gloves",
+  "title": "Sealskinz Bodham Gloves",
+  "brand_model": "Sealskinz Bodham (waterproof insulated cycling)",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/sealskinz-bodham-gloves-bf/",
+  "price_pln": 252.71,
+  "regular_price_pln": 297.29,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "€69.95 -> €59.46 (-15%); 30-day low not readable. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 278.0,
+  "waterproof": "membrane:Sealskinz waterproof (membrane type not named on page)",
+  "insulation": "polyester synthetic",
+  "thickness_note": "Bike-to-work glove, reflective, silicone grip",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "Neon Yellow: M, L, XL",
+   "Black: XL, XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML."
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab Ride 2 Waterproof Winter Gloves",
+  "brand_model": "GripGrab Ride 2 Waterproof Winter",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/gripgrab-ride-2-waterproof-winter-gloves-gloves/",
+  "price_pln": 252.71,
+  "regular_price_pln": 297.29,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "€69.95 -> €59.46 (-15%). [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 278.0,
+  "waterproof": "membrane:waterproof membrane (GripGrab)",
+  "insulation": "winter insulation",
+  "thickness_note": "Winter cycling glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 1,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via shop listing, product page not opened",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML. Sizes not checked."
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab Ride II Waterproof Winter Gloves - Rękawiczki rowerowe",
+  "brand_model": "GripGrab Ride 2 Waterproof Winter",
+  "shop": "Hardloop (hardloop.pl)",
+  "url": "https://www.hardloop.pl/oferta/70709-gripgrab-ride-ii-waterproof-winter-gloves-rekawiczki-rowerowe",
+  "price_pln": 250.55,
+  "regular_price_pln": 319.0,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "-21% vs 319 zł; no Omnibus line. BF5 applies for 2+ items. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": "BF5",
+  "code_conditions": "BF5: extra -5% when buying at least 2 products, no minimum value (product page text); Black Week up to -60%; deadline not stated on page",
+  "delivery": [
+   {
+    "method": "standard delivery to PL (fee not retrieved; FAQ page behind Cloudflare)",
+    "cost_pln": null
+   },
+   {
+    "method": "order >= 750 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:waterproof membrane (GripGrab)",
+  "insulation": "winter insulation",
+  "thickness_note": "Winter cycling glove, thicker than Knitted",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "Black: S,M,XL",
+   "Yellow Hi-Vis: S,M,L"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via shop listing (category JSON), product page not opened",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "Endura Pro SL Primaloft Waterproof Glove - Rękawiczki rowerowe męskie",
+  "brand_model": "Endura Pro SL PrimaLoft Waterproof Glove",
+  "shop": "Hardloop (hardloop.pl)",
+  "url": "https://www.hardloop.pl/oferta/34524-endura-pro-sl-primaloft-waterproof-glove-rekawiczki-rowerowe-meskie",
+  "price_pln": 282.62,
+  "regular_price_pln": 359.0,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "-21% vs 359 zł; no Omnibus line. BF5 for 2+ items. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": "BF5",
+  "code_conditions": "BF5: extra -5% when buying at least 2 products, no minimum value (product page text); Black Week up to -60%; deadline not stated on page",
+  "delivery": [
+   {
+    "method": "standard delivery to PL (fee not retrieved; FAQ page behind Cloudflare)",
+    "cost_pln": null
+   },
+   {
+    "method": "order >= 750 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:waterproof (Endura, per product name)",
+  "insulation": "PrimaLoft",
+  "thickness_note": "Road winter glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via shop listing (category JSON), product page not opened",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "Rab Cresta GTX Gloves - Rękawiczki trekkingowe",
+  "brand_model": "Rab Cresta GTX",
+  "shop": "Hardloop (hardloop.pl)",
+  "url": "https://www.hardloop.pl/oferta/109464-rab-cresta-gtx-gloves-rekawiczki-trekkingowe",
+  "price_pln": 354.62,
+  "regular_price_pln": 449.0,
+  "lowest_30d_pln": null,
+  "bf_discount": null,
+  "bf_discount_note": "-21% vs 'cena pierwotna' 449 zł; no Omnibus line shown. With BF5 (2 items) 336.89 zł. [merge: set to null - crossed-out price only, Omnibus 30-day low not readable, so not a confirmed BF discount per the brief]",
+  "code": "BF5",
+  "code_conditions": "BF5: extra -5% when buying at least 2 products, no minimum value (product page text); Black Week up to -60%; deadline not stated on page",
+  "delivery": [
+   {
+    "method": "standard delivery to PL (fee not retrieved; FAQ page behind Cloudflare)",
+    "cost_pln": null
+   },
+   {
+    "method": "order >= 750 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 750.0,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:GORE-TEX Active (ePE)",
+  "insulation": "Stratus 100 g/m² synthetic",
+  "thickness_note": "Midweight trekking glove, 125 g/pair, PU palm, softshell back",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Shipping estimate 7-8 Dec (supplier stock). Warmer than needed for +10 °C but good at 0 °C."
+ },
+ {
+  "item": "gloves",
+  "title": "Rowerowe Rękawiczki Wodoodporne XP Sealskinz S Red",
+  "brand_model": "Sealskinz All Weather Cycle XP (code 1211508061)",
+  "shop": "Allegro / rower_outlet",
+  "url": "https://allegro.pl/produkt/rekawiczki-rowerowe-sealskinz-s-czerwony-ff0c2126-f981-434b-8032-2028670c67eb?offerId=17976917255",
+  "price_pln": 25.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Outlet price; generic Allegro 'Black Weeks' label only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro cheapest (Ceneo 'Wysyłka od')",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 35.49,
+  "waterproof": "membrane:Sealskinz waterproof breathable membrane (All Weather Cycle XP)",
+  "insulation": "light",
+  "thickness_note": "cycling glove with padding",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "S only (red)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Ceneo product 147211028 still shows the offer at 25.00 + from 10.49. Older (≈2016–2019) Sealskinz model, described by retailers as totally waterproof, breathable, windproof. Size S only."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki do biegania Salomon Bonatti Pro WP Mitten deep black (LC2763800)",
+  "brand_model": "Salomon Bonatti Pro WP Mitten",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/993268/rekawiczki-do-biegania-salomon-bonatti-pro-wp-mitten-deep-black",
+  "price_pln": 116.99,
+  "regular_price_pln": 169.99,
+  "lowest_30d_pln": 116.99,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 129.99; BLACKDEALS -10% = 116.99, equal to the 30-day lowest 116.99 (not lower).",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 125.98,
+  "waterproof": "membrane:Pertex Shield",
+  "insulation": "none/minimal",
+  "thickness_note": "running mitten/overmitt, two-finger; poor for cycling brakes/shifting",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Mitten. Martes has the same at 179.99."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe Van Rysel Mid-Season 900 Waterproof (Allegro)",
+  "brand_model": "Van Rysel Mid-Season 900 Waterproof / EDR Waterproof",
+  "shop": "Allegro (offer integrated on Ceneo)",
+  "url": "https://www.ceneo.pl/183678078",
+  "price_pln": 139.95,
+  "regular_price_pln": 139.95,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No discount; Allegro-wide 'Black Weeks do -50%' label only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro delivery (Ceneo: 'Darmowa wysyłka')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 139.95,
+  "waterproof": "membrane:Van Rysel waterproof membrane (unnamed)",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": "5…15 °C",
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "M (offer variant shown on Ceneo)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Same product as the Decathlon APPDAYS offer but 42 zł dearer; no reason to buy here."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice alpinistyczne Sprint III wodoodporne (Simond, HDry)",
+  "brand_model": "Simond Sprint III HDry",
+  "shop": "Decathlon",
+  "url": "https://www.decathlon.pl/p/rekawice-alpinistyczne-sprint-iii-wodoodporne/375691/c381m8974212",
+  "price_pln": 149.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Click&Collect Decathlon Katowice",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 149.99,
+  "waterproof": "membrane:HDry",
+  "insulation": null,
+  "thickness_note": "alpine glove; bulkier than a cycling glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "stale",
+  "notes": "Price from the 20–21.11 Notion export, not re-verified (Cloudflare). No APPDAYS seen for it."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wodoszczelne DexShell Ultra Thin Waterproof Running Gloves czarne",
+  "brand_model": "DexShell Ultra Thin Waterproof Running Gloves (DG12603)",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-12883-Rekawiczki-wodoszczelne-DexShell-Ultra-Thin-Waterproof-Running-Gloves-czarne.html",
+  "price_pln": 142.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Regular price; item not in NBR 'Black Deals'.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": 250,
+  "cheapest_total_pln": 154.99,
+  "waterproof": "membrane:Porelle (3-layer laminate)",
+  "insulation": "minimal",
+  "thickness_note": "Ultra-thin running glove, minimal insulation",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S (5)",
+   "M (16)",
+   "L (15)",
+   "XL (3)"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Thinnest qualifying glove found; probably cold near 0 °C on a bike. With a second pair (e.g. ThermFit 199) the basket passes 250 zł and shipping is free."
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Męskie wodoodporne lekkie rękawiczki Griston na każdą pogodę",
+  "brand_model": "Sealskinz Griston – Waterproof All Weather Lightweight Glove (12100081)",
+  "shop": "Amazon.pl (sold and shipped by Amazon)",
+  "url": "https://www.amazon.pl/dp/B07RB2VBCG",
+  "price_pln": 165.9,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No crossed-out price or Omnibus line; regular price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon standard",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 165.9,
+  "waterproof": "membrane:Aquasealz (PU microporous)",
+  "insulation": "none/light (polyester lining)",
+  "thickness_note": "lightweight 3-layer glove, thin",
+  "temp_range": null,
+  "rating": 4.2,
+  "rating_count": 221,
+  "sizes_in_stock": "S 165.90 (B07RB2VBCG), L 188.36 (B07R4Q2ZKF), XL listed (B07R6P5KKJ, price not read)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Free delivery shown (to default location Kraków; Katowice the same for Amazon-sold items). Returns until 31.01.2027."
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Wodoodporna lekka rękawica na każdą pogodę - czarna, M",
+  "brand_model": "Sealskinz Waterproof All Weather Lightweight Glove (12100081000120)",
+  "shop": "Amazon.pl (sold and shipped by Amazon)",
+  "url": "https://www.amazon.pl/dp/B07R7RXCLQ",
+  "price_pln": 166.01,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Regular price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon standard",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 166.01,
+  "waterproof": "membrane:Aquasealz (PU microporous)",
+  "insulation": "none/light",
+  "thickness_note": "thin",
+  "temp_range": null,
+  "rating": 4.4,
+  "rating_count": 99,
+  "sizes_in_stock": "M (separate ASIN, in stock)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Same glove as Griston under another ASIN; Allegro lists it at 256.09."
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Damskie wodoodporne rękawice izolowane na każdą pogodę (Red/Black, L)",
+  "brand_model": "Sealskinz Women's Waterproof All Weather Insulated Glove",
+  "shop": "Amazon.pl",
+  "url": "https://www.ceneo.pl/116280518",
+  "price_pln": 166.53,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon (Ceneo: 'Darmowa wysyłka')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 166.53,
+  "waterproof": "membrane:Aquasealz (PU)",
+  "insulation": "synthetic insulation",
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "L (women's)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Women's cut; Allegro lists the same at 621.09."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ENDURA Strike",
+  "brand_model": "Endura Strike",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-endura-strike-pd8586/",
+  "price_pln": 169.99,
+  "regular_price_pln": 199.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Only 'Cena katalogowa 199 zł'; no Omnibus line, so not a BF reduction.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 169.99,
+  "waterproof": "membrane:Endura waterproof breathable, taped seams",
+  "insulation": "fleece lining",
+  "thickness_note": "Mid-weight; women's version spec 89 g/pair",
+  "temp_range": null,
+  "rating": 4.7,
+  "rating_count": 16,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "XS and L unavailable. Good shop reviews."
+ },
+ {
+  "item": "gloves",
+  "title": "Męskie Rękawiczki VIKING SKEIRON GTX MULTIFUNCTION 170/23/6333/09",
+  "brand_model": "Viking Skeiron GTX Multifunction",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/meskie-rekawiczki-viking-skeiron-gtx-multifunction-170-23-6333-09-viking",
+  "price_pln": 169.99,
+  "regular_price_pln": 249.99,
+  "lowest_30d_pln": 149.99,
+  "bf_discount": false,
+  "bf_discount_note": "No code; 169.99 is above the 30-day lowest 149.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 175.98,
+  "waterproof": "membrane:GORE-TEX (page: 'Membrana GTX z technologią Active')",
+  "insulation": "none (page says not particularly warm)",
+  "thickness_note": "thin unlined GTX glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "6",
+   "7",
+   "8",
+   "10"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Was 149.99 within 30 days; wait for a drop. Store pickup 5.99 (under 199.99)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice SALOMON BONATTI PRO WP MITTEN U LC2763800",
+  "brand_model": "Salomon Bonatti Pro WP Mitten",
+  "shop": "Martes Sport",
+  "url": "https://sklepmartes.pl/mezczyzna/akcesoria-meskie/rekawiczki-meskie/rekawice-bonatti-pro-wp-mitten-u-lc2763800-salomon",
+  "price_pln": 179.99,
+  "regular_price_pln": 209.99,
+  "lowest_30d_pln": 209.99,
+  "bf_discount": false,
+  "bf_discount_note": "Plain markdown 209.99 -> 179.99 ('Promocja'), no BF code; Sportano sells it for 116.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Odbiór w sklepie stacjonarnym Martes (GLS; free from 199.99 zł order, 149.99 in app); Katowice store availability not checked",
+    "cost_pln": 5.99
+   },
+   {
+    "method": "GLS automat/punkt",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup (punkt/automat)",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier GLS",
+    "cost_pln": 12.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 185.98,
+  "waterproof": "membrane:Pertex Shield (Salomon spec)",
+  "insulation": "none/minimal",
+  "thickness_note": "running overmitt",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Buy at Sportano instead if at all."
+ },
+ {
+  "item": "gloves",
+  "title": "Wodoodporne dziane rękawiczki zimowe GripGrab XS/S czarne",
+  "brand_model": "GripGrab Waterproof Knitted Winter Gloves",
+  "shop": "Bikestacja",
+  "url": "https://www.bikestacja.pl/wodoodporne-dziane-rekawiczki-zimowe-gripgrab-xss-czarne-p-40771.html",
+  "price_pln": 188.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": 188.0,
+  "bf_discount": false,
+  "bf_discount_note": "Page says 'Brak zmiany ceny produktu w ciągu ostatnich 30 dni'.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Kurier GLS odbiór w punkcie",
+    "cost_pln": 11.9
+   },
+   {
+    "method": "ORLEN Paczka",
+    "cost_pln": 15.99
+   },
+   {
+    "method": "InPost Paczkomaty 24/7",
+    "cost_pln": 20.0
+   },
+   {
+    "method": "Odbiór osobisty",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 199.9,
+  "waterproof": "membrane:GripGrab waterproof breathable",
+  "insulation": "knit",
+  "thickness_note": "Thin knit",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "XS/S"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Listing is size XS/S only. Same glove family has mixed waterproofness reviews (CentrumRowerowe 3.0/4, Rose)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie DEXSHELL ThermFit 3.0",
+  "brand_model": "DexShell ThermFit 3.0 (DG12402BLK)",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-dexshell-thermfit-3-0-pd58125/",
+  "price_pln": 199.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Regular price, no reduction.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 199.99,
+  "waterproof": "membrane:Porelle",
+  "insulation": "merino-blend knit",
+  "thickness_note": "Mid-weight knit, seamless",
+  "temp_range": "0..8 °C and 4..12 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only size S listed, 'Ostatnie 2 szt.'. NBR has all sizes for 199.00."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie CHIBA Rain Pro",
+  "brand_model": "Chiba Rain Pro",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-chiba-rain-pro-pd45161/",
+  "price_pln": 199.99,
+  "regular_price_pln": 220.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 199.99,
+  "waterproof": "membrane:unnamed (softshell with waterproof membrane)",
+  "insulation": null,
+  "thickness_note": "Softshell",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "Dexshell Ultra cienkie wodoodporne rękawiczki czarne",
+  "brand_model": "DexShell Ultra Thin (Porelle)",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0HLFVX9D4",
+  "price_pln": 154.09,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon / third-party seller",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:Porelle",
+  "insulation": "none",
+  "thickness_note": "ultra thin",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "M, L (154.09–154.21)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Page shows price range 154.09–154.21 before size selection; seller not read. Natural Born Runners had it at 142 + delivery."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wodoszczelne Dexshell Thermfit 3.0 Gloves czarne",
+  "brand_model": "DexShell ThermFit 3.0 (DG12402BLK)",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-11530-Rekawiczki-wodoszczelne-Dexshell-Thermfit-3-0-Gloves-czarne.html",
+  "price_pln": 199.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Regular price.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": 250,
+  "cheapest_total_pln": 211.99,
+  "waterproof": "membrane:Porelle",
+  "insulation": "merino wool blend",
+  "thickness_note": "Mid-weight knit, seamless",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S (5)",
+   "M (22)",
+   "L (24)",
+   "XL (4)"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "CentrumRowerowe sells it for 199.99 with free delivery but only size S."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Black Diamond Waterproof Overmitts smoke",
+  "brand_model": "Black Diamond Waterproof Overmitts",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/477364/rekawiczki-trekkingowe-black-diamond-waterproof-overmitts-smoke",
+  "price_pln": 209.99,
+  "regular_price_pln": 319.99,
+  "lowest_30d_pln": 188.99,
+  "bf_discount": false,
+  "bf_discount_note": "No BLACKDEALS code on this item; shelf 209.99 above 30-day lowest 188.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 218.98,
+  "waterproof": "membrane:BD.dry",
+  "insulation": "none (shell overmitt)",
+  "thickness_note": "two-finger shell overmitt",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Not a glove for cycling."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ENDURA Deluge",
+  "brand_model": "Endura Deluge",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-endura-deluge-pd3211/",
+  "price_pln": 219.99,
+  "regular_price_pln": 259.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 219.99,
+  "waterproof": "membrane:Endura, taped seams",
+  "insulation": "fleece",
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": 4.3,
+  "rating_count": 3,
+  "sizes_in_stock": [
+   "S"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Only S."
+ },
+ {
+  "item": "gloves",
+  "title": "Reusch Diver X R-TEX XT (Intersport listing)",
+  "brand_model": "Reusch Diver X R-TEX XT Touch-Tec",
+  "shop": "Intersport",
+  "url": "https://www.intersport.pl/sporty/narciarstwo/_reusch/",
+  "price_pln": 169.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Price from a search-engine snippet of the Intersport Reusch category, date unknown. Intersport (Cloudflare challenge) blocked curl and WebFetch.",
+  "code": null,
+  "code_conditions": "BF20 not confirmed: no 2026 regulamin found.",
+  "delivery": [],
+  "free_delivery_threshold_pln": 349,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:R-TEX XT",
+  "insulation": "light lining",
+  "thickness_note": "thin softshell",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Free shipping from 349 zł comes from a banner snippet, also unverified. Martes has the same glove at 118.99 with PREMIUM15."
+ },
+ {
+  "item": "gloves",
+  "title": "Dexshell Rękawiczki Ultralite L Heather Blue",
+  "brand_model": "DexShell Ultralite (thin knit, Porelle)",
+  "shop": "Ceneo lowest offer (shop not read)",
+  "url": "https://www.ceneo.pl/195928365",
+  "price_pln": 171.3,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:Porelle",
+  "insulation": null,
+  "thickness_note": "thin knit",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "L",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Ceneo search card only; Ceneo then rate-limited curl/WebFetch."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ENDURA Primaloft (Pro SL Primaloft Waterproof)",
+  "brand_model": "Endura Pro SL Primaloft Waterproof",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-endura-primaloft-pd18957/",
+  "price_pln": 229.99,
+  "regular_price_pln": 299.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only, no Omnibus line.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 229.99,
+  "waterproof": "membrane:Endura, seam-sealed",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "Softshell winter glove, warmer than needed for +10",
+  "temp_range": null,
+  "rating": 4.5,
+  "rating_count": 10,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie DEXSHELL StretchFit 2.0",
+  "brand_model": "DexShell StretchFit 2.0",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-dexshell-stretchfit-2-0-pd58126/",
+  "price_pln": 229.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 229.99,
+  "waterproof": "membrane:Porelle",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": "0..8 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab Wodoszczelne dzianinowe rękawiczki rowerowe",
+  "brand_model": "GripGrab Waterproof Knitted Thermal",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B07TXZZMX3",
+  "price_pln": 189.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:GripGrab waterproof membrane (unnamed)",
+  "insulation": "knitted thermal",
+  "thickness_note": "knitted, medium",
+  "temp_range": null,
+  "rating": 4.3,
+  "rating_count": 822,
+  "sizes_in_stock": "XS-S, M-L, XL-XXL in black and hi-vis yellow (stock per size not read)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Price 189.99 shown on the page; seller and delivery cost for this size not read."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wodoszczelne Dexshell Stretchfit Gloves 2.0 czarne",
+  "brand_model": "DexShell StretchFit 2.0",
+  "shop": "Natural Born Runners",
+  "url": "https://natural-born-runners.pl/product-pol-10314-Rekawiczki-wodoszczelne-Dexshell-Stretchfit-Gloves-2-0-czarne.html",
+  "price_pln": 229.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat (prepaid)",
+    "cost_pln": 12.99
+   },
+   {
+    "method": "Kurier DPD",
+    "cost_pln": 16.99
+   }
+  ],
+  "free_delivery_threshold_pln": 250,
+  "cheapest_total_pln": 241.99,
+  "waterproof": "membrane:Porelle",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page (listing tile only)",
+  "notes": "Price from category tile; sizes not checked."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe Endura Pro SL Primaloft Waterproof Glove black (E1187BK)",
+  "brand_model": "Endura Pro SL PrimaLoft Waterproof Glove",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/1073335/rekawiczki-rowerowe-endura-pro-sl-primaloft-waterproof-glove-black",
+  "price_pln": 242.99,
+  "regular_price_pln": 299.99,
+  "lowest_30d_pln": 229.49,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 269.99 (-10% vs 299.99); with BLACKDEALS -10% = 242.99, which is still above the 30-day lowest 229.49. Not a real BF low.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 251.98,
+  "waterproof": "membrane:Endura waterproof membrane (name not given)",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "insulated softshell cycling glove, medium thickness",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Sportano JSON-LD shippingRate says 7.99, delivery page says Paczkomat 8.99; used 8.99. 'Nowość', no reviews."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki z membraną Extremities Paradox Waterproof Glove - black",
+  "brand_model": "Extremities Paradox Waterproof Glove",
+  "shop": "8a.pl",
+  "url": "https://8a.pl/rekawiczki-z-membrana-extremities-paradox-waterproof-glove-black",
+  "price_pln": 204.99,
+  "regular_price_pln": 279.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "204.99 from a JSON-LD search snippet and 214.99 from a category snippet; dates unknown. 8a.pl (Cloudflare challenge) blocked curl and WebFetch.",
+  "code": null,
+  "code_conditions": "No 8a.pl BF 2026 code found; snippets mention undated 'EXTRA 5% z kodem NEW/SANTA'.",
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:yes (8a lists it under 'z membraną'; exact name not verified)",
+  "insulation": null,
+  "thickness_note": "lightweight waterproof glove (Extremities' thin model)",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Worth a manual look in a real browser: thin waterproof glove, close to the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Black Diamond Glissade black (BD8010150002)",
+  "brand_model": "Black Diamond Glissade",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/477315/rekawiczki-trekkingowe-black-diamond-glissade-black",
+  "price_pln": 247.99,
+  "regular_price_pln": 359.99,
+  "lowest_30d_pln": 229.99,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 309.99; BLACKDEALS -20% = 247.99, above 30-day lowest 229.99 (S-XL; XS lowest 247.99).",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 256.98,
+  "waterproof": "membrane:BD.dry",
+  "insulation": "3M Thinsulate",
+  "thickness_note": "insulated trekking glove with Pertex Shield shell, medium-thick",
+  "temp_range": null,
+  "rating": 5,
+  "rating_count": 3,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Anmer | Wodoodporna rękawica Merino Ultra Grip do ekranu dotykowego",
+  "brand_model": "Sealskinz Anmer – Waterproof All Weather Ultra Grip Knitted Glove",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B07R8WVBTW",
+  "price_pln": 208.48,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:hydrophilic membrane (Aquasealz)",
+  "insulation": "merino lining",
+  "thickness_note": "knitted, thin-to-medium, very grippy",
+  "temp_range": null,
+  "rating": 4.2,
+  "rating_count": 1208,
+  "sizes_in_stock": "S/M/L variants exist; L page had no buy box",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Price from the Amazon search card; product page (L) showed no offer, so seller and delivery not confirmed. Varuste.net has the same glove at 171.78 + 34.89."
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Wodoodporne rękawice izolowane na każdą pogodę, uniseks, czarne, S",
+  "brand_model": "Sealskinz Waterproof All Weather Insulated Glove",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B07R7RTRGN",
+  "price_pln": 216.33,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:Aquasealz (PU)",
+  "insulation": "synthetic insulation",
+  "thickness_note": "insulated, thicker",
+  "temp_range": null,
+  "rating": 4.3,
+  "rating_count": 64,
+  "sizes_in_stock": "S",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Search-card price only. Kelling (same insulated line) 269.78; women's insulated L 166.53 (Ceneo 116280518, Amazon, free delivery)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Jack Wolfskin Big White black (1911781)",
+  "brand_model": "Jack Wolfskin Big White Glove",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/264154/rekawiczki-trekkingowe-jack-wolfskin-big-white-black",
+  "price_pln": 259.99,
+  "regular_price_pln": 449.99,
+  "lowest_30d_pln": 246.99,
+  "bf_discount": false,
+  "bf_discount_note": "No BLACKDEALS code; 259.99 above 30-day lowest 246.99.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 268.98,
+  "waterproof": "membrane:TEXAPORE Core / Ecosphere Pro",
+  "insulation": "synthetic, 'bardzo ciepłe'",
+  "thickness_note": "thick winter glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Too warm for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Dexshell ThermFit 3.0 Glove Black M",
+  "brand_model": "DexShell ThermFit 3.0",
+  "shop": "Amazon.pl (sold by Mueller Sporthandels, shipped by Amazon)",
+  "url": "https://www.amazon.pl/dp/B07MNF9DRS",
+  "price_pln": 275.0,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Amazon",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 275.0,
+  "waterproof": "membrane:Porelle",
+  "insulation": "merino blend thermal lining",
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "M",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Dearer than CentrumRowerowe 199.99. Colour Red Clay Heather B0HLG73B2M 222.83, Olive B0HLG59LWF 224.08 (search cards)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH Snow Ranger GTX / 7701",
+  "brand_model": "Reusch Snow Ranger GORE-TEX",
+  "shop": "Alpinsport.pl",
+  "url": "https://www.alpinsport.pl/rekawice-reusch-snow-ranger-gtx-54823",
+  "price_pln": 280.0,
+  "regular_price_pln": 280.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No reduction, no BF code.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat, prepaid, order up to 300 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost/DPD kurier, prepaid, up to 300 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "any method, order above 300 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 295.0,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "TecFill",
+  "thickness_note": "Ski glove - bulkier than needed",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "9.5",
+   "10",
+   "10.5"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Ski model; listed only as a fallback."
+ },
+ {
+  "item": "gloves",
+  "title": "Reusch Commuter GORE-TEX TOUCH-TEC Gloves",
+  "brand_model": "Reusch Commuter GORE-TEX TOUCH-TEC",
+  "shop": "Bergfreunde (bergfreunde.eu)",
+  "url": "https://www.bergfreunde.eu/reusch-commuter-gore-tex-touch-tec-gloves/",
+  "price_pln": 276.04,
+  "regular_price_pln": 276.04,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No reduction shown in listing.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Standard parcel to Poland, order up to €69",
+    "cost_pln": 25.29
+   },
+   {
+    "method": "Standard parcel to Poland, order above €69",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 293.25,
+  "cheapest_total_pln": 301.33,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "TecFill",
+  "thickness_note": "Commuter softshell glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 2,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via shop listing, product page not opened",
+  "notes": "EUR prices converted at 4.25 PLN/EUR. Prices are shown incl. German VAT; VAT for PL delivery may be recalculated at checkout - final PLN not confirmed. 'Lowest price in the last 30 days' label exists but its value is filled by JS, not in the HTML. Sizes not checked."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawice REUSCH Commuter GTX / 7702",
+  "brand_model": "Reusch Commuter GORE-TEX TOUCH-TEC",
+  "shop": "Alpinsport.pl",
+  "url": "https://www.alpinsport.pl/rekawice-reusch-commuter-gtx-104445",
+  "price_pln": 300.0,
+  "regular_price_pln": 300.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "No reduction, no Black Week code found on alpinsport.pl (only Lowa Renegade code and Osprey sale).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat, prepaid, order up to 300 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "InPost/DPD kurier, prepaid, up to 300 zł",
+    "cost_pln": 15.0
+   },
+   {
+    "method": "any method, order above 300 zł",
+    "cost_pln": 0.0
+   }
+  ],
+  "free_delivery_threshold_pln": 300.0,
+  "cheapest_total_pln": 315.0,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "TecFill light synthetic insulation, MicroActive lining",
+  "thickness_note": "Softshell commuter glove, light insulation; marketed for bike, walking, daily use; reflective details, touchscreen",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "8",
+   "8.5",
+   "9",
+   "9.5",
+   "10",
+   "10.5"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "1-2 pcs per size. Free delivery is 'powyżej 300 zł' - at exactly 300 zł it may still charge 15 zł (cheapest_total uses 315). Same model at Bergfreunde €64.95 (~276 zł + €5.95). Good city/cycling fit, no BF discount."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe zimowe Giro Proof (Decathlon marketplace)",
+  "brand_model": "Giro Proof",
+  "shop": "Decathlon Marketplace",
+  "url": "https://www.decathlon.pl/p/rekawiczki-rowerowe-zimowe-giro-proof/377060/m8981702",
+  "price_pln": 269.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "marketplace seller delivery",
+    "cost_pln": null
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:Giro waterproof membrane (unnamed)",
+  "insulation": "insulated winter glove",
+  "thickness_note": "winter glove, thicker",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "stale",
+  "notes": "269.99 from 20–21.11 export; an older Mobimaniak article quotes 299.99 at Decathlon; CentrumRowerowe 379.99 (catalogue 439.90). Marketplace items are excluded from APPDAYS and the InPost 10 zł coupon. Too warm/thick for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki Black Diamond Mission Gloves - black/black (8a.pl)",
+  "brand_model": "Black Diamond Mission (GTX)",
+  "shop": "8a.pl",
+  "url": "https://8a.pl/rekawiczki",
+  "price_pln": 278.99,
+  "regular_price_pln": 399.99,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Search snippet, undated. Sportano has it at 224.99 with BLACKDEALS (S only).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "PrimaLoft Gold",
+  "thickness_note": "thick",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via aggregator",
+  "notes": null
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki męskie DexShell Ultra-weather-winter",
+  "brand_model": "DexShell Ultra Weather Winter",
+  "shop": "Ceneo lowest offer (shop not read)",
+  "url": "https://www.ceneo.pl/198757697",
+  "price_pln": 292.4,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:Porelle",
+  "insulation": "winter insulation",
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "S, L listings",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Too expensive and warm for the brief. Drylite 309.10, Arendal 299.80 also on Ceneo."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie GIRO Proof",
+  "brand_model": "Giro Proof",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-giro-proof-pd37571/",
+  "price_pln": 379.99,
+  "regular_price_pln": 439.9,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 379.99,
+  "waterproof": "membrane:DDS",
+  "insulation": "fleece",
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": 5.0,
+  "rating_count": 1,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Much cheaper at Decathlon marketplace earlier (269.99)."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Black Diamond Soloist dark curry",
+  "brand_model": "Black Diamond Soloist",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/477336/rekawiczki-trekkingowe-black-diamond-soloist-dark-curry",
+  "price_pln": 417.99,
+  "regular_price_pln": 579.99,
+  "lowest_30d_pln": 348.49,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 439.99; BLACKDEALS -5% = 417.99, far above 30-day lowest 348.49.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 417.99,
+  "waterproof": "membrane:BD.dry",
+  "insulation": "removable PrimaLoft Gold Cross Core liner",
+  "thickness_note": "thick mountaineering glove",
+  "temp_range": null,
+  "rating": 5,
+  "rating_count": 2,
+  "sizes_in_stock": [
+   "XS",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Poor fit for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki trekkingowe Black Diamond Impulse black/black",
+  "brand_model": "Black Diamond Impulse (GTX)",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/477370/rekawiczki-trekkingowe-black-diamond-impulse-black-black",
+  "price_pln": 431.99,
+  "regular_price_pln": 669.99,
+  "lowest_30d_pln": 407.99,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 479.99; BLACKDEALS -10% = 431.99, above 30-day lowest 407.99.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 431.99,
+  "waterproof": "membrane:GORE-TEX",
+  "insulation": "PrimaLoft Gold Cross Core",
+  "thickness_note": "thick ski/winter glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Poor fit for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wspinaczkowe The North Face Summit Jannu Peak Heavyweight WP tnf black",
+  "brand_model": "The North Face Summit Jannu Peak Heavyweight WP",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/984035/rekawiczki-wspinaczkowe-the-north-face-summit-jannu-peak-heavyweight-wp-tnf-black",
+  "price_pln": 454.99,
+  "regular_price_pln": 649.99,
+  "lowest_30d_pln": 454.99,
+  "bf_discount": false,
+  "bf_discount_note": "Shelf 649.99; BLACKDEALS -30% = 454.99, equal to 30-day lowest.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 454.99,
+  "waterproof": "membrane:DryVent/FUTURELIGHT",
+  "insulation": "HeatSeeker",
+  "thickness_note": "heavyweight mountaineering glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "M"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Poor fit for the brief."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki Extremities Waterproof Sticky Power Liner Glove - black",
+  "brand_model": "Extremities Waterproof Sticky Power Liner Glove",
+  "shop": "8a.pl",
+  "url": "https://8a.pl/rekawiczki-extremities-waterproof-sticky-power-liner-glove-black",
+  "price_pln": null,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Page known only from a search result; price not seen.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "membrane:yes per product name (not verified)",
+  "insulation": "Power Stretch-type liner",
+  "thickness_note": "thin liner glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Thin waterproof liner; check manually."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki rowerowe męskie Endura FS260-Pro Nemo Glove II hi-viz yellow (E1216YV)",
+  "brand_model": "Endura FS260-Pro Nemo Glove II (hi-viz yellow)",
+  "shop": "Sportano",
+  "url": "https://sportano.pl/p/823306/rekawiczki-rowerowe-meskie-endura-fs260-pro-nemo-glove-ii-hi-viz-yellow",
+  "price_pln": 84.99,
+  "regular_price_pln": 189.99,
+  "lowest_30d_pln": 89.99,
+  "bf_discount": true,
+  "bf_discount_note": "Shelf 99.99; BLACKDEALS -15% = 84.99, below 30-day lowest 89.99.",
+  "code": "BLACKDEALS",
+  "code_conditions": "Sportano BLACKDEALS: per-product % shown on product card, 19.11-24.11.2026 23:59, enter in cart (no app/login needed per regulamin), no minimum, does not combine with other promotions (so not with newsletter 50 zł/499 zł or APP 40 zł/399 zł).",
+  "delivery": [
+   {
+    "method": "InPost Paczkomat 24/7",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "Orlen Paczka",
+    "cost_pln": 8.99
+   },
+   {
+    "method": "DPD Pickup",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "DPD courier",
+    "cost_pln": 9.99
+   },
+   {
+    "method": "InPost courier",
+    "cost_pln": 11.99
+   }
+  ],
+  "free_delivery_threshold_pln": 299,
+  "cheapest_total_pln": 93.98,
+  "waterproof": "no (90% neoprene + 10% PA, no membrane; Sportano calls the material 'wodoodporny')",
+  "insulation": "neoprene with soft lining",
+  "thickness_note": "neoprene cycling glove, thin-medium",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "XL",
+   "2XL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Does NOT meet the membrane rule; listed because the brief names Nemo II. Hi-viz yellow only. L out of stock."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie CHIBA Softshell Waterproof",
+  "brand_model": "Chiba Softshell Waterproof",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-chiba-softshell-waterproof-pd45200/",
+  "price_pln": 179.99,
+  "regular_price_pln": 215.99,
+  "lowest_30d_pln": 215.99,
+  "bf_discount": true,
+  "bf_discount_note": "-16% vs Omnibus 215,99 zł.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 179.99,
+  "waterproof": "unclear: shop says '100% waterproof, windproof, breathable materials' (5% PU), no membrane named",
+  "insulation": "softshell",
+  "thickness_note": null,
+  "temp_range": "-4..4 °C, 0..8 °C",
+  "rating": null,
+  "rating_count": 0,
+  "sizes_in_stock": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Treat as unconfirmed membrane."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki SealSkinz Dragon Eye Mtb rowerowe XXL",
+  "brand_model": "Sealskinz Dragon Eye MTB",
+  "shop": "Allegro",
+  "url": "https://www.ceneo.pl/168185283",
+  "price_pln": 24.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro cheapest",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 35.48,
+  "waterproof": "no",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "XXL",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Summer MTB glove; does not qualify."
+ },
+ {
+  "item": "gloves",
+  "title": "Damskie Rękawiczki rowerowe Sealskinz L niebieski wodoodporne",
+  "brand_model": "Sealskinz women's cycling glove, code 1221405041 (model not identified)",
+  "shop": "Allegro / zacny-outlet",
+  "url": "https://allegro.pl/produkt/rekawiczki-rowerowe-sealskinz-l-niebieski-27961197-8bc9-4c3e-aa6e-c51558fbb153?offerId=17976929608",
+  "price_pln": 29.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Outlet price; only the generic Allegro 'Black Weeks do -50%' label. No Omnibus line visible (allegro.pl blocked).",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro cheapest (Ceneo 'Wysyłka od')",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 40.48,
+  "waterproof": "membrane:unconfirmed (listing title says 'wodoodporne'; Sealskinz code 1221405 not identified)",
+  "insulation": null,
+  "thickness_note": "cycling glove",
+  "temp_range": null,
+  "rating": 4.4,
+  "rating_count": 5,
+  "sizes_in_stock": "L (women's, ≈ men's M)",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Still listed on Ceneo product 147210922 at 29.99 + 'Wysyłka od 10,49 zł' at 23:4x 21.11. allegro.pl blocks curl/WebFetch (403), so seller, stock, membrane and return terms are not re-read. Rating 4.4/5 of 5 from the 20–21.11 check. Allegro Smart could make delivery free on its own minimum — unknown whether the buyer has Smart. Colour: listing says blue, Ceneo says black."
+ },
+ {
+  "item": "gloves",
+  "title": "Ocieplane Rękawiczki Wiatroszczelne Sealskinz S 7-8",
+  "brand_model": "Sealskinz windproof glove (code 1211406001)",
+  "shop": "Allegro",
+  "url": "https://www.ceneo.pl/147212588",
+  "price_pln": 29.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro cheapest",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 40.48,
+  "waterproof": "no",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "S",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Windproof only; does not qualify."
+ },
+ {
+  "item": "gloves",
+  "title": "BG54 Męskie Rękawiczki Rowerowe SealSkinz XXL",
+  "brand_model": "Sealskinz BG54",
+  "shop": "incomplex.pl",
+  "url": "https://www.ceneo.pl/203432190",
+  "price_pln": 48.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "cheapest (Ceneo 'Wysyłka od')",
+    "cost_pln": 9.99
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 58.98,
+  "waterproof": "no",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "XXL",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Title does not claim waterproof; model unknown. Treat as non-qualifying."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki wodoodporne oddychające Primaloft Sealskinz XXL rower, treking",
+  "brand_model": "Sealskinz PrimaLoft waterproof cycling glove (model not identified)",
+  "shop": "Allegro / zacny-outlet",
+  "url": "https://allegro.pl/produkt/rekawiczki-rowerowe-sealskinz-xxl-czarny-a6195936-75f7-483a-b54d-b92904bae065",
+  "price_pln": 49.99,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Allegro cheapest (Ceneo 'Wysyłka od')",
+    "cost_pln": 10.49
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 60.48,
+  "waterproof": "membrane:unconfirmed (title says 'wodoodporne oddychające')",
+  "insulation": "PrimaLoft",
+  "thickness_note": "winter cycling glove",
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": "XXL only",
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Ceneo 147211339 shows 49.99 + from 10.49 (the 20–21.11 export said free delivery). XXL only, likely too big."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie ENDURA FS260-Pro Nemo II",
+  "brand_model": "Endura FS260-Pro Nemo II",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-endura-fs260-pro-nemo-ii-pd20449/?v_Id=131999",
+  "price_pln": 169.99,
+  "regular_price_pln": 199.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only, no Omnibus line.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 169.99,
+  "waterproof": "neoprene (no membrane)",
+  "insulation": "neoprene 90% / nylon 10%",
+  "thickness_note": "Neoprene: water-tight material, not breathable; reviews say hands sweat",
+  "temp_range": "0..8 °C",
+  "rating": 4.2,
+  "rating_count": 14,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Does not meet the 'membrane' criterion strictly. Per-size stock not flagged as unavailable for any size."
+ },
+ {
+  "item": "gloves",
+  "title": "SEALSKINZ Acle wodoodporna rękawica z nano-polaru",
+  "brand_model": "Sealskinz Acle Water Repellent Nano Fleece",
+  "shop": "Amazon.pl",
+  "url": "https://www.amazon.pl/dp/B0CD81LHCF",
+  "price_pln": 135.35,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "no",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": 4.4,
+  "rating_count": 230,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "Amazon title says 'wodoodporna' but Sealskinz sells Acle as 'Water Repellent Nano Fleece' (Ceneo 163166025 title confirms 'Water Repellent'). Does not qualify."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie GRIPGRAB Knitted Thermal (Waterproof Knitted Thermal)",
+  "brand_model": "GripGrab Waterproof Knitted Thermal",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-gripgrab-knitted-thermal-pd27201/",
+  "price_pln": 189.99,
+  "regular_price_pln": 242.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 189.99,
+  "waterproof": "membrane:GripGrab knitted with membrane (reviews dispute)",
+  "insulation": "knit",
+  "thickness_note": "Thin knit",
+  "temp_range": "4..12 °C",
+  "rating": 3.0,
+  "rating_count": 4,
+  "sizes_in_stock": [
+   "XS-S",
+   "M-L",
+   "XL-XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Two of four shop reviews say they soak through in rain. Same complaint in a Rose review."
+ },
+ {
+  "item": "gloves",
+  "title": "GripGrab WATERPROOF KNITTED THERMAL GLOVES",
+  "brand_model": "GripGrab Waterproof Knitted Thermal",
+  "shop": "Rose Bikes (rosebikes.pl, ships from DE)",
+  "url": "https://www.rosebikes.pl/pl/p/gripgrab-waterproof-knitted-thermal-gloves-2689582",
+  "price_pln": 169.79,
+  "regular_price_pln": 233.75,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "EUR 39.95 'from' (RRP 55). Shop code BLACKDEALS20 applies only to Rose-brand products, so not to GripGrab.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "Delivery to PL (EUR 9.95)",
+    "cost_pln": 42.29
+   }
+  ],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": 212.08,
+  "waterproof": "membrane:GripGrab (reviews dispute)",
+  "insulation": "knit",
+  "thickness_note": "Thin knit",
+  "temp_range": null,
+  "rating": 4.5,
+  "rating_count": 20,
+  "sizes_in_stock": [
+   "XS/S",
+   "M/L",
+   "XL/XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "EUR converted at 4.25 PLN/EUR. 'from' price: some sizes may cost more. A German review says it is not waterproof."
+ },
+ {
+  "item": "gloves",
+  "title": "Rękawiczki długie GRIPGRAB Ride 2 Waterproof Winter",
+  "brand_model": "GripGrab Ride 2 Waterproof Winter",
+  "shop": "CentrumRowerowe",
+  "url": "https://www.centrumrowerowe.pl/rekawiczki-dlugie-gripgrab-ride-2-waterproof-winter-pd42988/",
+  "price_pln": 229.99,
+  "regular_price_pln": 308.0,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": "Catalogue price only.",
+  "code": null,
+  "code_conditions": null,
+  "delivery": [
+   {
+    "method": "InPost Paczkomat / courier (shown as 'Dostawa GRATIS')",
+    "cost_pln": 0
+   }
+  ],
+  "free_delivery_threshold_pln": 0,
+  "cheapest_total_pln": 229.99,
+  "waterproof": "unclear: name says Waterproof, shop text only mentions DWR",
+  "insulation": "Thinsulate",
+  "thickness_note": "Winter weight",
+  "temp_range": null,
+  "rating": 5.0,
+  "rating_count": 2,
+  "sizes_in_stock": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "checked_at": "2026-11-21T23:55:00+01:00",
+  "confidence": "verified on shop page",
+  "notes": "Check GripGrab spec for membrane before buying."
+ },
+ {
+  "item": "gloves",
+  "title": "Kiprun waterproof running glove",
+  "brand_model": "Kiprun / Kalenji waterproof running glove",
+  "shop": "Decathlon",
+  "url": "https://www.decathlon.pl/sporty/bieganie/rekawiczki-do-biegania",
+  "price_pln": null,
+  "regular_price_pln": null,
+  "lowest_30d_pln": null,
+  "bf_discount": false,
+  "bf_discount_note": null,
+  "code": null,
+  "code_conditions": null,
+  "delivery": [],
+  "free_delivery_threshold_pln": null,
+  "cheapest_total_pln": null,
+  "waterproof": "no",
+  "insulation": null,
+  "thickness_note": null,
+  "temp_range": null,
+  "rating": null,
+  "rating_count": null,
+  "sizes_in_stock": null,
+  "checked_at": "2026-11-21T23:50:00+01:00",
+  "confidence": "via aggregator",
+  "notes": "No Kiprun/Kalenji running glove with a membrane found; Kiprun Warm 100 (39.99) and Warm+ 500 (49.99) are not waterproof. Kiprun rain membrane exists only on trousers/jackets."
+ }
+]
