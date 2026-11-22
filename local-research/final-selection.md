@@ -11,7 +11,7 @@ Notion now has two databases: "🛍️ Товары и находки" (products
 | Gloves | Quality | Viking Windcross GWS, CentrumRowerowe | 109.99 | 0 | **109.99** | 30-day low 124.99 → −12% | browser 22.11; looks different from EDR jesienne |
 | Gloves | Candidate | Viking Arbok GWS Multifunction, 8a.pl | 114.99 | 9.49 | **110.68** with T-Mobile −12% (101.19 + 9.49) | 30-day low 113.99 → −11% only with the code | browser 22.11, photos checked: thin smooth stretch, no velcro, Windstopper; sizes not checked |
 | Baf | Cheapest | Viking Regular szary-czarny, CentrumRowerowe | 22.99 | 0 | **22.99** | 30-day low 26.99 → −14% | 21.11 |
-| Baf | Quality (1st) | BOUGHT 22.11: BUFF Lightweight Merino black, 8a.pl | 96.99 | not recorded | **85.35** per piece with T-Mobile −12% | no shop discount | purchase |
+| Baf | Quality (1st) | BOUGHT 22.11: 1 × BUFF Lightweight Merino black, 8a.pl | 96.99 | 9.49 | **94.84** (85.35 with T-Mobile −12% + 9.49) | no shop discount | purchase |
 | Baf | Quality (2nd) | BUFF Lightweight Merino Solid Light Grey, 8a.pl | 96.99 | 9.49 | **94.84** with the 2nd T-Mobile code | 30-day low 87.99 → no shop discount | browser 22.11, "Ostatnie sztuki" |
 | Baf | Backup | Same, Sportano | 109.99 | 8.99 | **102.48** with BLACKDEALS (93.49) until 24.11 | 30-day low 85.49 → no real discount | browser 22.11 |
 | USB-C cable 1.5 m | Cheapest | UGREEN US264 60 W, x-kom (same 17.90 at Media Expert) | 17.90 | 0 (x-kom shop pickup) | **17.90** | no discount, but cheaper than SBS | browser 22.11 |
@@ -54,4 +54,4 @@ Removed from the list (market discount 0–22% per the review): Dreame Pocket Pr
 
 ## Purchases
 
-- 22.11.2026: BUFF Lightweight Merino Wool black, 8a.pl (https://8a.pl/chusta-termoaktywna-buff-lightweight-merino-wool-black), 96.99 − 12% personal T-Mobile code = 85.35 zł per piece. Quantity and delivery method not recorded.
+- 22.11.2026: BUFF Lightweight Merino Wool black, 8a.pl (https://8a.pl/chusta-termoaktywna-buff-lightweight-merino-wool-black), 1 piece, 96.99 − 12% personal T-Mobile code = 85.35 zł + delivery 9.49 = 94.84 zł.

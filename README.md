@@ -23,7 +23,7 @@
 | Позиция | Дешёвый / качественный вариант в Notion | Состояние |
 |---|---|---|
 | Перчатки (L для него, M в Decathlon / S в других брендах для неё) | Simond MT500 Warm, Decathlon 89,99 zł / Viking Windcross GWS, CentrumRowerowe 109,99 zł. Кандидат: Viking Arbok GWS, 8a.pl 101,19 zł с кодом T-Mobile | Не куплено. Нужны тонкие и красивые, как Van Rysel EDR jesienne, тёплые около 0 °C |
-| Баф | Viking Regular 22,99 zł / BUFF Lightweight Merino: чёрный **куплен 22.11** (85,35 zł), второй светло-серый — 8a.pl 94,84 zł со вторым кодом T-Mobile | 1 куплен |
+| Баф | Viking Regular 22,99 zł / BUFF Lightweight Merino: чёрный **куплен 22.11** (1 шт., 85,35 + доставка 9,49 = 94,84 zł), второй светло-серый — 8a.pl 94,84 zł со вторым кодом T-Mobile | 1 куплен |
 | Кабель USB-C ↔ USB-C 1,5 м | UGREEN US264 60 W, x-kom 17,90 zł / Cablexpert USB4 240 W, Allegro 48,48 zł | Не куплено |
 | Крепление Ant Design Q1 V2 | Aluminium 79 + 29 = 108 zł / Titanium 120 + 29 = 149 zł (antdesign.com) | Не куплено, рабочих публичных кодов не найдено |
 | Профессиональный фен | BaByliss PRO Caruso HQ, Friser 249,90 zł / Parlux Alyon, Amazon.pl 527,69 zł (без Amazon: Notino 593,10 zł) | Не куплено |
