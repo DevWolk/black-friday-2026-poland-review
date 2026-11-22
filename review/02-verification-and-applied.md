@@ -100,3 +100,31 @@
 Переведено в архив:
 - Roborock F25 ACE Pro, Media Expert: 899,99 zł, на странице только «Sugerowana cena producenta: 1 299 zł», строки минимума за 30 дней нет, то есть цену не снижали. Только самовывоз в выбранных магазинах. К рынку около −10%.
 
+## Третий список второй модели («свежая сводка подтверждённых скидок»), 22.11 22:00–22:20
+
+Пользователь попросил внести список в Notion и разрешил: что не удаётся проверить — вносить с данными из документа. Такие строки в Notion со статусом «Уточнить» и пометкой «по отчёту второй модели, не проверял». SQL-лимит Notion закончился в 22:10, поэтому сверка новых строк с базой шла по запросу, сделанному до этого (поиск по названиям магазинов и сервисов в купонах).
+
+Проверено в браузере и внесено как «Проверено»:
+- Proton VPN Plus: «Billed at PLN 89.88 for the first 12 months, then renews at PLN 209.88» — −57% к продлению.
+- Proton Unlimited: 195,48 zł, продление 299,88 zł — −35% к продлению. Вторая модель писала −50% от 389,88 (это 12 × помесячная цена).
+- Proton Pass Plus 59,88 (продление 89,88, −33%), Family 83,88 (продление 149,88, −44%). «60% OFF» — от помесячной цены.
+- NordVPN Basic: «1014,93 zł 253,53 zł za pierwsze 27 mies.», «Oszczędzasz 75%».
+- Adobe Creative Cloud Pro: для Польши цены в евро, «80,61 € / mies.» → «32,24 € / mies.», «Zaoszczędź 60%», до 27.11. Цифры второй модели в долларах — не для Польши.
+- Disney+: 16,99 / 23,99 / 39,99 zł на 3 месяца, «do 24 listopada».
+- PlayStation Plus Premium: «Taniej o 33% przez 12 mies. Następnie 630,00 zł», до 30.11.
+- Hebe онлайн: код POLSKIE «do −40% przy zakupach za min. 119 zł», BLACK20 −20% от 99 zł, второй товар за 1 zł у выбранных брендов. Акцию «второй товар −80% до 23:59» на главной не нашёл.
+- OPPO Reno 15 Pro 12/512 коричневый, MediaMarkt: «Najniższa cena: 3499» → 2399 zł (−31%), метка «Суперскидка».
+- Merrell Agility Peak 6 (699 → 329, размеры 41–47) и Agility Trail (419 → 199, размеры 40–50): статус «Проверено».
+
+Проверено частично, статус «Уточнить»: Surfshark (8,99 zł/мес + 3 месяца; One по цене Starter не подтвердил), Internxt (баннер −87%, цены не разобрал), Skylum (баннер до −77%), TradingView (акции 22.11 ещё нет), SilverCrest Monsieur Cuisine Smart (на lidl.pl сейчас 2499, 1499 — с 23.11 по документу).
+
+Не подтвердилось или уже было опровергнуто:
+- Tefal OptiGrill «−36%» — документ повторяет; с кодом 359 при минимуме 335,08, в архиве.
+- Roborock Saros 20 «3099 в 6 сетях» — на Ceneo минимум 3099 есть, но на Media Expert 3199 при минимуме за 30 дней 2892,40; остаётся в архиве, пояснение дописано.
+
+Внесено по документу без проверки («Уточнить»): pCloud Lifetime, Microsoft 365 (сразу в архив — −16…−21%), Hebe в магазинах, Media Expert K-5309 и K-5311, RTV Euro AGD «второй товар −50%», Runnerinn BF15, Zara, Rossmann 1+1, Biedronka (ваучер 40 zł, Gallo, Prima, Gourmet Gold, Eduscho, MK Café, Kraina Wędlin), Lidl (масло Pilos, курица, фарш, Podwawelska, Gouda, молоко, одеяло Livarno), ALDI (Dallmayr, фарш, Kokett), 4F (ботинки и брюки, Flow Run Night Motion), OCHNIK и adidas Gazelle Bold на Zalando (Zalando не открылся в браузере).
+
+Дополнены существующие строки: Keen (размеры, «Ostatnie sztuki», рынок ~390), Logitech MX Vertical (рынок 259), Kindle Colorsoft (Signature 859), Fire TV Stick 4K (Ceneo от 219), Roborock Qrevo 5AE (Euro 932,40 в рассрочку), x-kom (волна 23.11 в 08:00 в приложении), 8a.pl CRAZY. На главной странице календарь 23.11–09.12.
+
+Уже было в Notion: HP Envy, Braun, Columbia Powder Lite, Philips EP1200, SEMST 1500, Airfryer XXL, Trust Yavi, XMUSIC, JLab, Fire TV HD, Kindle, Echo Dot, Anker 735, UGREEN Nexode, INIU, Anker 737, eufy E30 и P2 Pro, OneBlade, LG 65QNED72B6B, Parkside, Remington, Tom Tailor, Quiksilver, Keen, Merrell, Prime Video, Nutella, Nivea, Frisco.
+
