@@ -192,3 +192,9 @@
 - Статус «Закончилась» у строк, срок которых истёк 22.11: Braun Series 5, HP Envy Photo 7231, Ninja AF180, Philips NA229, Rituals (T-Mobile), Columbia Powder Lite.
 - Lidl на lidl.pl: SilverCrest SEMST 1500 599 при минимуме 1 499 — «Проверено». Philips EP1200/00 онлайн 1 013,99, цены 399 на сайте нет. Monsieur Cuisine Smart всё ещё 2 499, 1 499 не видно. Обе строки остаются «Уточнить».
 - На главной из календаря убраны прошедшие сроки 22.11; добавлены 24.11 08:00 (TNF), 24.11 (HBO Max), 26.11 (Lenovo, Steam), 29.11 (Morele), 30.11 (OMEN, BookBeat, Komputronik, PS Store, Steam), 01.12 23:59 (коды Media Expert), 02.12 (Answear, Xbox), 14.12 (веб-хостинг Hostinger).
+
+Дополнение 23.11, по просьбе внести всё из списка отдельными строками. То, что раньше было только примечанием в другой строке, теперь записано отдельно со статусом «Уточнить»:
+- товары: Umbro Vela (50style, 132,99), Trespass Celebrity (265) и Erris (380), Columbia Grand Trek III в Decathlon (161,96 с APPDAYS при минимуме 152,99, то есть не скидка), женские пуховики 4F от 239,99, Huawei Watch GT 5 41 мм за 499 на huawei.pl, PS5 Slim Digital в MediaMarkt за 3 199, PS5 Slim + 2 DualSense без игры в x-kom за 3 999;
+- купоны: 50style Black Week до −40…54%, 4F −40 zł за рассылку от 200 zł, Hostido PROMPTOWY10.
+
+В существующие строки дописаны данные отчёта: x-kom Black Weeks (2 328 товаров, коды «за 1 zł» по будням в соцсетях x-kom, +50 zł при самовывозе), ASUS TUF A16 (заявленные 4 999 при минимуме 6 999 против 5 499 на странице), Higgsfield (фаза заканчивается 23.11), TradingView (цены отчёта в долларах), Huawei GT 5 46 мм (599 также в RTV Euro AGD и Komputronik). Итог по пятому списку: 32 строки в «Товары и находки» (16 «Проверено», 16 «Уточнить») и 23 в «Купоны и программы» (12 и 11).
