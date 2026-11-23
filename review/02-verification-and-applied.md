@@ -155,3 +155,40 @@
 По документу без проверки («Уточнить»): Magenta AI в Mój T-Mobile, Revolut ChatGPT Go (пресс-релиз Revolut 30.07.2026 условия подтверждает, в приложении не проверял), сроки Google AI (20–26.11 и 27.11), Higgsfield Market до 30.11, Hostinger до 14.12, Voibe до 30.11.
 
 На главной в календарь добавлены 23.11 02:00 (Higgsfield), 27.11 (Google AI), 30.11 (TypingMind, Voibe, Runway), 01.12 (ElevenLabs), 06.12 (Firefly), 11.12 (MindPal), 14.12 (Hostinger). В справочник добавлен раздел о покупке подписок из Польши: VAT 23% к ценам в долларах, автопродление, серые ключи.
+
+
+## Пятый список второй модели (Black Week, техника, куртки, подписки), 23.11
+
+Перед внесением проверил дубли в обеих базах. Уже были: ASUS TUF A16 (x-kom), Sony WH-1000XM6 чёрные, TradingView, Disney+, Zara, APPDAYS, x-kom Black Weeks, Storytel и BookBeat через T-Mobile, PS Plus Premium, Hostinger VPS, Adobe CC Pro, ElevenLabs, Firefly, Krea, Topaz, Higgsfield. Новые строки помечены ключевыми словами BF2026 и «пятый список»: 24 в «Товары и находки» (16 «Проверено», 8 «Уточнить»), 20 в «Купоны и программы» (12 «Проверено», 8 «Уточнить»).
+
+Проверено в браузере, статус «Проверено»:
+- x-kom: HyperX OMEN 16 i7-14650HX RTX 5070 OLED 5 499 (минимум 6 499, «Obowiązuje do 30.11.2026», монитор HyperX OMEN 24 G2 за 1 zł); Acer Predator XB273UX2 549 (719); MSI MAG 275QF E20 499 (569); Dark Project ALU87A Fuji 199 (249); WD My Passport 2 TB 469 с black-weeks5, без кода 599 (559); Arctis Nova 7 Gen 2 479 с steelseries-bf, без кода 699 (519); Sony WH-1000XM6 тёмно-синие 1 299 (1 493).
+- Media Expert: Motorola Edge 70 Fusion 12/256 + Moto Buds 2 1 799 с BW1311-0112 до 01.12 (1 999); Lenovo Idea Tab TB336FU 8/256 + стилус синий 899 с BW2011-2611 до 26.11 (999,99); TCL 75A400U 4 999 с BW2011-0112 до 01.12 (5 799,99); Huawei Watch GT 5 Active 46 мм 599 (799, так же на huawei.pl); Huawei Watch GT Runner 2 899,99 с BW1610-0112 до 01.12 (1 399).
+- Komputronik: Huawei Watch D2 1 299 (1 459), Intel Core i9-14900K 2 099 (2 195,55); баннер «Black Weeks do -80%», «Raty 0%».
+- Morele: «BLACK WEEKS DO -60%», «Raty 10x0%», выходная акция с BLACK26.
+- Decathlon: Simond Alpinism −12 °C 499,99 (529,99), Quechua NH900 Warm −20 °C 499,99 (579,99).
+- The North Face: «Uzyskaj wczesny dostęp. Zniżki do 40%». 4F Team: −30% от 300 zł. Answear: Magic Black Friday до −70%.
+- TradingView: Essential −30% 469 zł, Plus −40% 934 zł, Premium −70% 938 zł, Ultimate −80% 2 143 zł — всё за 13 месяцев. Существующая строка обновлена до «Проверено».
+- Storytel: 22,45 zł за 30 дней на 6 месяцев, потом 44,90. Netia: оптоволокно до 2 Гбит/с, 6 месяцев за 0 zł, пакеты с Prime и SkyShowtime. PlayStation Store и Xbox: игры до −80…−90%.
+- Hostinger веб-хостинг: Premium 335,52 zł за 48 месяцев, продление 41,99 zł/мес; следующий план 479,52 zł (продление 72,99). ExpressVPN: Basic 66,92 € за 28 месяцев, Advanced 97,72 €. Krea: баннер «75% OFF».
+- Trespass: Dorothea 200, Whitman II 355 — цены верны, но строки 30-дн. минимума нет, поэтому «Уточнить».
+
+Не подтвердилось или неточно:
+- ASUS TUF A16 R7-260 RTX 5060: на странице 5 499, а не 4 999 (минимум 7 799). Строка обновлена датой проверки.
+- Silver Monkey X Control XL: на странице 59,99 без цены с кодом; 34,99 с black-weeks5 не видно.
+- Simond Alpinism: в отчёте 539,96 с APPDAYS при минимуме 599,96, на сайте 499,99 при минимуме 529,99.
+- Quechua NH900 Warm: в отчёте 244,98, на сайте 499,99.
+- Canva Pro: в отчёте $10,83 вместо $12,99, на польской странице −50% на первые 3 месяца.
+- Storytel: в отчёте «удлинённый пробный период», на сайте −50% на полгода.
+- House: в отчёте до −40…−50%, на главной только «10% zniżki na zakupy online».
+- Komputronik «30 rat 0% + 1 rata gratis» на главной не видел. Audioteka 8,95 zł не видел, только 14 дней бесплатно.
+- PS5 Slim + 2 DualSense + GTA VI 3 799,99 и PS5 Digital + GTA VI 3 199,99 в Media Expert — цены верны, но комплекты новые и строки минимума нет.
+
+Внесено по документу без проверки («Уточнить»): 50style (Reebok Glacier Shield 199,99, Ellesse Nebulus 279,99, Ellesse Hurricane 249,99, Nike W NSW Therma-FIT SNFL 399,99, Umbro Vela 132,99; сайт отвечает Access Denied), Zalando 4F −25% (каталог не открылся), Columbia PL до −50% (columbia.pl перенаправляет на американский сайт), Orange Motorola Signature 27 (на главной «prezenty o wartości 2400 zł», состав подарка не проверил), Huawei Watch GT 5 41 мм за 499 на huawei.pl, Netflix и HBO Max без акций, Steam 26–30.11, Hostido PROMPTOWY10 (сайт не загрузился), сроки Morele 29.11, TNF 24.11 08:00, Answear 02.12, Xbox 02.12, Hostinger 14.12.
+
+Пропущено как уже записанное: x-kom «1 zł» в будни и +50 zł при самовывозе (есть строка x-kom Black Weeks), Disney+ до 24.11, Zara 26.11, Adobe CC Pro до 27.11, ElevenLabs, Firefly, Topaz, Higgsfield.
+
+Прочие изменения 23.11:
+- Статус «Закончилась» у строк, срок которых истёк 22.11: Braun Series 5, HP Envy Photo 7231, Ninja AF180, Philips NA229, Rituals (T-Mobile), Columbia Powder Lite.
+- Lidl на lidl.pl: SilverCrest SEMST 1500 599 при минимуме 1 499 — «Проверено». Philips EP1200/00 онлайн 1 013,99, цены 399 на сайте нет. Monsieur Cuisine Smart всё ещё 2 499, 1 499 не видно. Обе строки остаются «Уточнить».
+- На главной из календаря убраны прошедшие сроки 22.11; добавлены 24.11 08:00 (TNF), 24.11 (HBO Max), 26.11 (Lenovo, Steam), 29.11 (Morele), 30.11 (OMEN, BookBeat, Komputronik, PS Store, Steam), 01.12 23:59 (коды Media Expert), 02.12 (Answear, Xbox), 14.12 (веб-хостинг Hostinger).
